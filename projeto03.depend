@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1655107020 source:c:\users\gabri\desktop\arquivos\projeto03\caverna.c
+	<stdio.h>
+	<stdlib.h>
+	"caverna.h"
+
+1655107020 c:\users\gabri\desktop\arquivos\projeto03\caverna.h
+
+1655107022 source:c:\users\gabri\desktop\arquivos\projeto03\game_state.c
+	<stdio.h>
+	<stdlib.h>
+	"game_state.h"
+
+1655107022 c:\users\gabri\desktop\arquivos\projeto03\game_state.h
+	"caverna.h"
+
+1655241989 source:c:\users\gabri\desktop\arquivos\projeto03\main-interativa.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"game_state.h"
+
+1655242313 source:c:\users\gabri\desktop\arquivos\projeto03\decisor_aleatorio.c
+	<stdlib.h>
+	"decisor_aleatorio.h"
+
+1655107020 c:\users\gabri\desktop\arquivos\projeto03\decisor_aleatorio.h
+	"game_state.h"
+
+1656094158 source:c:\users\gabri\desktop\arquivos\projeto03\main-automatica.c
+	<stdio.h>
+	<stdlib.h>
+	"game_state.h"
+	"t3-x-y-z.h"
+
+1656101094 c:\users\gabri\desktop\arquivos\projeto03\t3-x-y-z.h
+	"game_state.h"
+
+1655672849 source:c:\users\gabri\desktop\arquivos\projeto03\t3-x-y-x.c
+	<stdlib.h>
+	<stdio.h>
+	"t3-x-y-z.h"
+
+1656094602 source:c:\users\gabri\desktop\arquivos\projeto03\t3-x-y-x (2).c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	"t3-x-y-z.h"
+
+1656101245 source:c:\users\gabri\desktop\arquivos\projeto03\t3-x-y-x (2) (2).c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	"t3-x-y-z.h"
+
