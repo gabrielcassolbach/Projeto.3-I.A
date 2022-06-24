@@ -54,6 +54,7 @@ Decisor* criaDecisor (int altura, int largura)
     d -> num_movimentos = 0;
     d -> altura = altura;
     d -> largura = largura;
+    d -> inicio = 3;
 
     /*  Matriz Elementos */
     /*-----------------------------------------------------------------------------*/
@@ -115,10 +116,15 @@ int proximoMovimento (Decisor* d, Coordenada pos, int agua, int n_lava)
     imprimeMatrizProb(d, pos);
     imprimeHist(d);
 
-    if((d->achou_agua) == 0){
+    if(d -> inicio){
+        d->inicio--;
         atualizaHistoricoMov(d, pos);
-        if(d -> num_movimentos <= 3)
-            return movIniciais(d);
+        return movIniciais(d);
+    }
+
+
+    if((d->achou_agua) == 0 && (d ->tem_melhor_caminho == 0)){
+        atualizaHistoricoMov(d, pos);
     }
 
     if(agua){
@@ -139,20 +145,21 @@ int proximoMovimento (Decisor* d, Coordenada pos, int agua, int n_lava)
 int procuraAgua(Decisor* d, Coordenada pos, int agua, int n_lava)
 {
     if(decideMovimento(d, pos)){
+        d -> tem_melhor_caminho = 0;
         printf("decide movimento");
         system("pause");
         return decideMovimento(d, pos);
     }else if(analisaRetorno(d, pos)){
+        d -> tem_melhor_caminho = 1;
         printf("retorna");
         system("pause");
         return retorna(d, pos);
-    }else if(!(d -> achou_agua)){
-        printf("random");
-        system("pause");
-        return rand()%4 + 1;
     }
 
-    return -1;
+    d -> tem_melhor_caminho = 0;
+    printf("random");
+    system("pause");
+    return rand()%4 + 1;
 }
 
 int movIniciais(Decisor *d)
@@ -163,6 +170,7 @@ int movIniciais(Decisor *d)
         return DOWN;
     if(d -> num_movimentos == 3)
         return LEFT;
+
     return -1;
 }
 
@@ -261,8 +269,6 @@ int pode_visitar(Decisor *d, Coordenada pos)
 {
     if((getMatrizProb(d, pos) == 0) && (getMatrizElementos(d, pos) == -1))
         return 1;
-    else
-        return 0;
     return 0;
 }
 

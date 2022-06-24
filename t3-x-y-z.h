@@ -18,6 +18,7 @@ typedef struct
     int* vetorCaminho;
     int** matrizElementos;
     Coordenada ant;
+    int inicio;
     int tem_melhor_caminho;
     int achou_agua;
     int num_movimentos;
