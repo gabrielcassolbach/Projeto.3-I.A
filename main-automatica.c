@@ -10,7 +10,7 @@
 #include <stdlib.h>
 
 #include "game_state.h"
-#include "t3-x-y-z.h" // TODO: substitua este arquivo pelo seu .h.
+#include "t3_v1.h" // TODO: substitua este arquivo pelo seu .h.
 
 /*============================================================================*/
 
