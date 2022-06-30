@@ -34,8 +34,7 @@ int comparaPos(Coordenada c1, Coordenada c2);
 void imprimeMatrizElementos(Decisor *d, Coordenada pos);
 int decideMovimento(Decisor *d, Coordenada pos);
 int analisaRetorno(Decisor *d, Coordenada pos);
-int boaChance(Decisor *d, Coordenada pos);
-int movimentoMedio(Decisor *d, Coordenada pos);
+int menorProb (Decisor* d, Coordenada pos);
 /*-------------------------------------------------------------------------------------------------------------*/
 
 /*------------------------------------------------------------------------------------*/
@@ -115,7 +114,7 @@ int proximoMovimento (Decisor* d, Coordenada pos, int agua, int n_lava)
     atualizaNumLavas(d, pos, n_lava);
     calculaProb(d, pos, n_lava);// Ainda é necessário aprimorar aqui!
 
-    if(d -> inicio){ //
+    if(d -> inicio){
         (d->inicio)--;
         atualizaHistoricoMov(d, pos);
         d -> ant = pos;
@@ -146,14 +145,14 @@ int proximoMovimento (Decisor* d, Coordenada pos, int agua, int n_lava)
 
 int procuraAgua(Decisor* d, Coordenada pos, int agua, int n_lava)
 {
+
+
     if(decideMovimento(d, pos))
         return decideMovimento(d, pos);
     else if(analisaRetorno(d, pos))
         return retorna(d);
-    else if(movimentoMedio(d, pos))
-        return movimentoMedio(d, pos);
     else
-        return rand() % 4 + 1;
+        return menorProb(d, pos);
     return -1;
 }
 
@@ -181,6 +180,50 @@ int retorna(Decisor* d)
 /**        FUNÇÕES QUE PROCESSAM OS DADOS QUE O ROBÔ RECEBE E POSSUI                 **/
 /*------------------------------------------------------------------------------------*/
 
+int tresLivre (Decisor* d, Coordenada pos)
+{
+    int soma;
+
+    soma = getMatrizProb(d, getMove(pos, UP))+getMatrizProb(d, getMove(pos, DOWN))+getMatrizProb(d, getMove(pos, LEFT))+getMatrizProb(d, getMove(pos, RIGHT));
+
+    if (!posValida(d, getMove(pos, UP)) && getMatrizProb(d, getMove(pos, RIGHT))==0 && getMatrizProb(d, getMove(pos, LEFT))==0)
+        return 1;
+    else if (!posValida(d, getMove(pos, LEFT)) && getMatrizProb(d, getMove(pos, UP))==0 && getMatrizProb(d, getMove(pos, DOWN))==0)
+        return 1;
+    else if (!posValida(d, getMove(pos, DOWN)) && getMatrizProb(d, getMove(pos, RIGHT))==0 && getMatrizProb(d, getMove(pos, LEFT))==0)
+        return 1;
+    else if (!posValida(d, getMove(pos, RIGHT)) && getMatrizProb(d, getMove(pos, UP))==0 && getMatrizProb(d, getMove(pos, LEFT))==0)
+        return 1;
+    else if(soma==-1)
+        return 1;
+
+    else
+        return 0;
+
+
+}
+
+int zeroOuCem (Decisor* d, Coordenada pos)
+{
+    if (getMatrizProb(d, pos)==0 || getMatrizProb(d, pos)>=100)
+        return 1;
+    else
+        return 0;
+}
+int cemAoRedor(Decisor* d, Coordenada pos)
+{
+    if (getMatrizProb(d, getMove(pos,UP))== 100)
+        return 1;
+    else if(getMatrizProb(d, getMove(pos,DOWN))== 100)
+        return 1;
+    else if (getMatrizProb(d, getMove(pos,RIGHT))== 100)
+        return 1;
+    else if (getMatrizProb(d, getMove(pos,LEFT))== 100)
+        return 1;
+    else
+        return 0;
+}
+
 int analisaRetorno(Decisor *d, Coordenada pos)
 {
     int i, j;
@@ -193,13 +236,21 @@ int analisaRetorno(Decisor *d, Coordenada pos)
     return 0;
 }
 
+
 void calculaProb(Decisor* d, Coordenada pos, int n_lava)
 {
     int sum_around, prob;
     sum_around = sumAround(d, pos, n_lava); // Essa função olha os arredores para calcular a probabilidade de modo adequado.
 
-    if(sum_around)
+    if (n_lava==1 && cemAoRedor(d, pos))
+        prob = 0;
+
+    else if ((n_lava==1) && tresLivre(d, pos))
+        prob = 100;
+
+    else if(sum_around)
         prob = ((float)(n_lava)/(float)(sum_around)) * 100;
+
     else
         prob = 0;
 
@@ -209,35 +260,36 @@ void calculaProb(Decisor* d, Coordenada pos, int n_lava)
 
 void setProb(Decisor *d, Coordenada pos, int n_lava, int prob)
 {
-    if(getMatrizElementos(d, getMove(pos, RIGHT)) == -1)
+    if(getMatrizElementos(d, getMove(pos, RIGHT)) == -1 && zeroOuCem(d,getMove(pos, RIGHT))== 0)
         setMatrizProb(d, getMove(pos, RIGHT), prob);
-    else
+    else if(zeroOuCem(d,getMove(pos, RIGHT))== 0)
         setMatrizProb(d, getMove(pos, RIGHT), 0);
-    if(getMatrizElementos(d, getMove(pos, LEFT)) == -1)
+    if(getMatrizElementos(d, getMove(pos, LEFT)) == -1 && zeroOuCem(d,getMove(pos, LEFT))== 0)
         setMatrizProb(d, getMove(pos, LEFT), prob);
-    else
+    else if (zeroOuCem(d,getMove(pos, LEFT))== 0)
         setMatrizProb(d, getMove(pos, LEFT), 0);
-    if(getMatrizElementos(d, getMove(pos, UP)) == -1)
+    if(getMatrizElementos(d, getMove(pos, UP)) == -1 && zeroOuCem(d,getMove(pos, UP))== 0)
         setMatrizProb(d, getMove(pos, UP), prob);
-    else
+    else if (zeroOuCem(d,getMove(pos, UP))== 0)
         setMatrizProb(d, getMove(pos, UP), 0);
-    if(getMatrizElementos(d, getMove(pos, DOWN)) == -1)
+    if(getMatrizElementos(d, getMove(pos, DOWN)) == -1 && zeroOuCem(d,getMove(pos, DOWN))== 0)
         setMatrizProb(d, getMove(pos, DOWN), prob);
-    else
+    else if (zeroOuCem(d,getMove(pos, DOWN))== 0)
         setMatrizProb(d, getMove(pos, DOWN), 0);
+    //imprimeMatrizProb(d, pos);
 }
 
 int sumAround(Decisor *d, Coordenada pos, int n_lava)
 {
     int right = 0, left = 0, up = 0 , down = 0;
     if(n_lava){
-        if(getMatrizElementos(d, getMove(pos, RIGHT)) == -1) // pos não explorada
+        if(getMatrizElementos(d, getMove(pos, RIGHT)) == -1 && zeroOuCem(d,getMove(pos, RIGHT))== 0) // pos não explorada
             right = 1;
-        if(getMatrizElementos(d, getMove(pos, LEFT)) == -1) // pos não explorada
+        if(getMatrizElementos(d, getMove(pos, LEFT)) == -1 && zeroOuCem(d,getMove(pos, LEFT))== 0) // pos não explorada
             left = 1;
-        if(getMatrizElementos(d, getMove(pos, UP)) == -1) // pos não explorada
+        if(getMatrizElementos(d, getMove(pos, UP)) == -1 && zeroOuCem(d,getMove(pos, UP))== 0) // pos não explorada
             up = 1;
-        if(getMatrizElementos(d, getMove(pos, DOWN)) == -1) // pos não explorada
+        if(getMatrizElementos(d, getMove(pos, DOWN)) == -1 && zeroOuCem(d,getMove(pos, DOWN))== 0) // pos não explorada
             down = 1;
     }
     //printf(" ->right:%d left:%d up:%d down:%d<- ", right, left, up, down);
@@ -267,24 +319,6 @@ int pode_visitar(Decisor *d, Coordenada pos)
     return 0;
 }
 
-int boaChance(Decisor *d, Coordenada pos)
-{
-    if((getMatrizProb(d, pos) <= 50) && (getMatrizElementos(d, pos) == -1))
-        return 1;
-    return 0;
-}
-
-int movimentoMedio(Decisor *d, Coordenada pos)
-{
-    int i;
-    for(i=1; i<=4; i++){
-        if(boaChance(d, getMove(pos, i)))
-            return i;
-    }
-    return 0;
-}
-
-
 int decideMovimento(Decisor *d, Coordenada pos)
 {
     int i;
@@ -295,6 +329,44 @@ int decideMovimento(Decisor *d, Coordenada pos)
     return 0;
 }
 
+int menorProb (Decisor* d, Coordenada pos)
+{
+    int menor = 100, direcao, entrou = 0;
+
+
+    if  (getMatrizProb(d, getMove(pos, LEFT))<= menor && validaNaoExplorada(d,getMove(pos,LEFT)))
+    {
+        menor = getMatrizProb(d, getMove(pos, LEFT));
+        direcao = LEFT;
+        entrou = 1;
+    }
+
+    if (getMatrizProb(d, getMove(pos, RIGHT))<= menor && validaNaoExplorada(d,getMove(pos, RIGHT )))
+    {
+        menor = getMatrizProb(d, getMove(pos, RIGHT));
+        direcao = RIGHT;
+        entrou = 1;
+    }
+    if (getMatrizProb(d, getMove(pos, DOWN))<= menor && validaNaoExplorada(d,getMove(pos, DOWN )))
+    {
+        menor = getMatrizProb(d, getMove(pos, DOWN));
+        direcao = DOWN;
+        entrou = 1;
+
+    }
+    if (getMatrizProb(d, getMove(pos, UP))<= menor && validaNaoExplorada(d,getMove(pos, UP )))
+    {
+         menor = getMatrizProb(d, getMove(pos, UP));
+         direcao = UP;
+         entrou = 1;
+    }
+    if (entrou == 0)
+        return UP;
+
+
+
+    return direcao;
+}
 /*------------------------------------------------------------------------------------------------*/
 
 /*------------------------------------------------------------------------------------------------*/
@@ -320,6 +392,14 @@ Coordenada getMove(Coordenada pos, int direcao) //retorna a coordenada da posiçã
         movimento.y = pos.y + 1;
     }
     return movimento;
+}
+
+int validaNaoExplorada (Decisor* d, Coordenada pos)
+{
+    if (posValida(d, pos)&&getMatrizElementos(d, pos)==-1)
+            return 1;
+    else
+        return 0;
 }
 
 int posValida(Decisor *d, Coordenada pos)//verifica se uma posição da matriz é válida.

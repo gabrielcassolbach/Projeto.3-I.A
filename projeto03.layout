@@ -12,9 +12,9 @@
 			<Cursor1 position="1928" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="caverna.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="t3-x-y-z.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="0" topLine="245" />
+			<Cursor1 position="775" topLine="8" />
 		</Cursor>
 	</File>
 	<File name="game_state.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -22,14 +22,33 @@
 			<Cursor1 position="1544" topLine="15" />
 		</Cursor>
 	</File>
+	<File name="t3-x-y-x (2) (2).c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2158" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="44" />
+			<Collapse line="94" />
+			<Collapse line="184" />
+			<Collapse line="196" />
+			<Collapse line="210" />
+			<Collapse line="230" />
+			<Collapse line="248" />
+			<Collapse line="303" />
+			<Collapse line="325" />
+			<Collapse line="333" />
+			<Collapse line="339" />
+			<Collapse line="345" />
+		</Folding>
+	</File>
 	<File name="main-automatica.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="2919" topLine="114" />
+			<Cursor1 position="2164" topLine="35" />
 		</Cursor>
 	</File>
-	<File name="t3-x-y-z.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="caverna.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="775" topLine="8" />
+			<Cursor1 position="0" topLine="245" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>
