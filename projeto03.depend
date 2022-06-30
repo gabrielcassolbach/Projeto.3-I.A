@@ -27,11 +27,11 @@
 1655107020 c:\users\gabri\desktop\arquivos\projeto03\decisor_aleatorio.h
 	"game_state.h"
 
-1656590992 source:c:\users\gabri\desktop\arquivos\projeto03\main-automatica.c
+1656627712 source:c:\users\gabri\desktop\arquivos\projeto03\main-automatica.c
 	<stdio.h>
 	<stdlib.h>
 	"game_state.h"
-	"t3-x-y-z.h"
+	"t3-2449072-2129035-2449153.h"
 
 1656112833 c:\users\gabri\desktop\arquivos\projeto03\t3-x-y-z.h
 	"game_state.h"
@@ -61,4 +61,12 @@
 	<time.h>
 	<windows.h>
 	"t3-x-y-z.h"
+
+1656627936 source:c:\users\gabri\desktop\arquivos\projeto03\t3-2449072-2129035-2449153.c
+	<stdlib.h>
+	<stdio.h>
+	"t3-2449072-2129035-2449153.h"
+
+1656624612 c:\users\gabri\desktop\arquivos\projeto03\t3-2449072-2129035-2449153.h
+	"game_state.h"
 

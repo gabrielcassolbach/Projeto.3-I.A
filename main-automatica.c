@@ -10,7 +10,7 @@
 #include <stdlib.h>
 
 #include "game_state.h"
-#include "t3-x-y-z.h" // TODO: substitua este arquivo pelo seu .h.
+#include "t3-2449072-2129035-2449153.h" // TODO: substitua este arquivo pelo seu .h.
 
 /*============================================================================*/
 
@@ -19,7 +19,7 @@
 
 // TODO: teste real!
 /*
-#define RANDOM_SEED_OFFSET 1000
+#define RANDOM_SEED_OFFSET 25
 
 const int altura_caverna [] =
 {4, 4, 4, 4,
@@ -56,7 +56,8 @@ const int n_pocos [] =
  * hora de criar um tabuleiro. Todos os trabalhos usarão os mesmos tabuleiros,
  * então o offset precisa ser igual para todos. Entretanto, usaremos offsets
  * diferentes na hora de testar os trabalhos de fato. */
-#define RANDOM_SEED_OFFSET 7
+
+#define RANDOM_SEED_OFFSET 17
 
 const int altura_caverna [] =
 {4, 4, 4, 4,

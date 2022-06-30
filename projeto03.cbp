@@ -42,10 +42,10 @@
 		<Unit filename="main-automatica.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="t3-x-y-x (2) (2).c">
+		<Unit filename="t3-2449072-2129035-2449153.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="t3-x-y-z.h" />
+		<Unit filename="t3-2449072-2129035-2449153.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
