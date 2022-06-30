@@ -14,7 +14,7 @@
 
 /*============================================================================*/
 
-#define PASSO_A_PASSO 1 // Flag que diz se o progresso do robô será mostrado passo-a-passo. Mude para 0 se for rodar muitos testes!
+#define PASSO_A_PASSO 0 // Flag que diz se o progresso do robô será mostrado passo-a-passo. Mude para 0 se for rodar muitos testes!
 #define CLEAR_SCREEN_CMD "cls" // No Linux, mude para "clear".
 
 // TODO: teste real!
@@ -50,13 +50,13 @@ const int n_pocos [] =
 
 #define N_TIPOS_CAVERNA 57
 #define N_JOGOS_POR_TIPO 1
-
-
+*/
+/*
  * Um modificador para a semente usada pelo gerador de números aleatórios na
  * hora de criar um tabuleiro. Todos os trabalhos usarão os mesmos tabuleiros,
  * então o offset precisa ser igual para todos. Entretanto, usaremos offsets
  * diferentes na hora de testar os trabalhos de fato. */
-#define RANDOM_SEED_OFFSET 5
+#define RANDOM_SEED_OFFSET 1000
 
 const int altura_caverna [] =
 {4, 4, 4, 4,
@@ -86,7 +86,7 @@ const int n_pocos [] =
  25, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13};
 
 #define N_TIPOS_CAVERNA 57
-#define N_JOGOS_POR_TIPO 1
+#define N_JOGOS_POR_TIPO 100
 
 /* Você pode substituir as linhas acima por estas, para testar só uma caverna.
 const int altura_caverna [] = {4};

@@ -15,7 +15,7 @@
 void calculaProb(Decisor* d, Coordenada pos, int n_lava);
 void atualizaHistoricoMov(Decisor *d, Coordenada pos);
 int procuraAgua(Decisor* d, Coordenada pos, int agua, int n_lava);
-int retorna(Decisor* d, Coordenada pos);
+int retorna(Decisor* d);
 Coordenada getMove(Coordenada pos, int direcao);
 int posValida(Decisor *d, Coordenada pos);
 int getMatrizProb(Decisor *d, Coordenada pos);
@@ -47,7 +47,7 @@ Decisor* criaDecisor (int altura, int largura)
 
     d = (Decisor*)malloc(sizeof(Decisor));
 
-    d -> tem_melhor_caminho = 0;
+    d -> voltou = 0;
     d -> achou_agua = 0;
     d -> ant.x = 0;
     d -> ant.y = 0;
@@ -112,27 +112,27 @@ int proximoMovimento (Decisor* d, Coordenada pos, int agua, int n_lava)
 {
     atualizaNumLavas(d, pos, n_lava);
     calculaProb(d, pos, n_lava);// Ainda é necessário aprimorar aqui!
-    imprimeMatrizElementos(d, pos);
-    imprimeMatrizProb(d, pos);
-    imprimeHist(d);
 
-    if(d -> inicio){
-        d->inicio--;
+    if(d -> inicio){ //
+        (d->inicio)--;
         atualizaHistoricoMov(d, pos);
+        d -> ant = pos;
         return movIniciais(d);
     }
 
-
-    if((d->achou_agua) == 0 && (d ->tem_melhor_caminho == 0)){
+    if(d -> voltou == 0){
         atualizaHistoricoMov(d, pos);
     }
 
-    if(agua){
+    d -> voltou = 0;
+
+    if(agua)
        d -> achou_agua = 1;
-    }
+
+    d -> ant = pos;
 
     if(d -> achou_agua){
-        return retorna(d, pos); // Está rodando perfeitamente,
+        return retorna(d); // Está rodando perfeitamente,
     }else
         return procuraAgua(d, pos, agua, n_lava); // Aqui está com problema.
 }
@@ -144,22 +144,13 @@ int proximoMovimento (Decisor* d, Coordenada pos, int agua, int n_lava)
 
 int procuraAgua(Decisor* d, Coordenada pos, int agua, int n_lava)
 {
-    if(decideMovimento(d, pos)){
-        d -> tem_melhor_caminho = 0;
-        printf("decide movimento");
-        system("pause");
+    if(decideMovimento(d, pos))
         return decideMovimento(d, pos);
-    }else if(analisaRetorno(d, pos)){
-        d -> tem_melhor_caminho = 1;
-        printf("retorna");
-        system("pause");
-        return retorna(d, pos);
-    }
-
-    d -> tem_melhor_caminho = 0;
-    printf("random");
-    system("pause");
-    return rand()%4 + 1;
+    else if(analisaRetorno(d, pos))
+        return retorna(d);
+    else
+        return rand() % 4 + 1;
+    return -1;
 }
 
 int movIniciais(Decisor *d)
@@ -174,8 +165,9 @@ int movIniciais(Decisor *d)
     return -1;
 }
 
-int retorna(Decisor* d, Coordenada pos)
+int retorna(Decisor* d)
 {
+    d -> voltou = 1;
     return d -> vetorCaminho[--d -> num_movimentos];
 }
 
@@ -261,7 +253,6 @@ void atualizaHistoricoMov(Decisor *d, Coordenada pos)
         d -> vetorCaminho[d->num_movimentos] = UP;
     else
         d -> vetorCaminho[d->num_movimentos] = -1;
-    d -> ant = pos;
     d -> num_movimentos++;
 }
 

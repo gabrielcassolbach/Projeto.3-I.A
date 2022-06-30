@@ -19,7 +19,7 @@ typedef struct
     int** matrizElementos;
     Coordenada ant;
     int inicio;
-    int tem_melhor_caminho;
+    int voltou;
     int achou_agua;
     int num_movimentos;
     int altura;
