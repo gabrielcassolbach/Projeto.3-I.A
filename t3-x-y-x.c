@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-#include <windows.h>
 
 #define RIGHT 4
 #define LEFT 3
@@ -426,57 +425,57 @@ int comparaPos(Coordenada c1, Coordenada c2)
 /**                         FUN��ES PARA DEBUGGAR O C�DIGO                                       **/
 /*------------------------------------------------------------------------------------------------*/
 
-void imprimeProb(Decisor *d, Coordenada pos)
-{
-    printf("prob direita: %d ", getMatrizProb(d, getMove(pos, RIGHT)));
-    printf("prob esquerda: %d ", getMatrizProb(d, getMove(pos, LEFT)));
-    printf("prob cima: %d ", getMatrizProb(d, getMove(pos, UP)));
-    printf("prob baixo: %d ", getMatrizProb(d, getMove(pos, DOWN)));
+// void imprimeProb(Decisor *d, Coordenada pos)
+// {
+//     printf("prob direita: %d ", getMatrizProb(d, getMove(pos, RIGHT)));
+//     printf("prob esquerda: %d ", getMatrizProb(d, getMove(pos, LEFT)));
+//     printf("prob cima: %d ", getMatrizProb(d, getMove(pos, UP)));
+//     printf("prob baixo: %d ", getMatrizProb(d, getMove(pos, DOWN)));
 
-    system("pause");
-}
+//     system("pause");
+// }
 
-void imprimeHist(Decisor *d)
-{
-    int i;
-    for (i = 0; i < d->num_movimentos; i++)
-        printf("%d ", d->vetorCaminho[i]);
-    printf("\n");
-    system("pause");
-}
+// void imprimeHist(Decisor *d)
+// {
+//     int i;
+//     for (i = 0; i < d->num_movimentos; i++)
+//         printf("%d ", d->vetorCaminho[i]);
+//     printf("\n");
+//     system("pause");
+// }
 
-void imprimeMatrizProb(Decisor *d, Coordenada pos)
-{
-    int i, j;
-    for (i = 0; i < d->altura; i++)
-    {
-        for (j = 0; j < d->largura; j++)
-        {
-            if (d->matrizProb[i][j] > 0)
-                printf("+%d ", d->matrizProb[i][j]);
-            else
-                printf("%d ", d->matrizProb[i][j]);
-        }
-        printf("\n");
-    }
-    system("pause");
-}
+// void imprimeMatrizProb(Decisor *d, Coordenada pos)
+// {
+//     int i, j;
+//     for (i = 0; i < d->altura; i++)
+//     {
+//         for (j = 0; j < d->largura; j++)
+//         {
+//             if (d->matrizProb[i][j] > 0)
+//                 printf("+%d ", d->matrizProb[i][j]);
+//             else
+//                 printf("%d ", d->matrizProb[i][j]);
+//         }
+//         printf("\n");
+//     }
+//     system("pause");
+// }
 
-void imprimeMatrizElementos(Decisor *d, Coordenada pos)
-{
-    int i, j;
-    for (i = 0; i < d->altura; i++)
-    {
-        for (j = 0; j < d->largura; j++)
-        {
-            if (d->matrizElementos[i][j] > 0)
-                printf("%d ", d->matrizElementos[i][j]);
-            else
-                printf("%d ", d->matrizElementos[i][j]);
-        }
-        printf("\n");
-    }
-    system("pause");
-}
+// void imprimeMatrizElementos(Decisor *d, Coordenada pos)
+// {
+//     int i, j;
+//     for (i = 0; i < d->altura; i++)
+//     {
+//         for (j = 0; j < d->largura; j++)
+//         {
+//             if (d->matrizElementos[i][j] > 0)
+//                 printf("%d ", d->matrizElementos[i][j]);
+//             else
+//                 printf("%d ", d->matrizElementos[i][j]);
+//         }
+//         printf("\n");
+//     }
+//     system("pause");
+// }
 
 /*------------------------------------------------------------------------------------------------*/

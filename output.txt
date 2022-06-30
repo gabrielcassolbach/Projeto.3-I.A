@@ -1,0 +1,400 @@
+Vitorias: 3899 (68.40%)
+Quedas: 1801
+Sem Bateria: 0
+Rodadas: 284880
+Vitorias: 3890 (68.25%)
+Quedas: 1810
+Sem Bateria: 0
+Rodadas: 284292
+Vitorias: 3990 (70.00%)
+Quedas: 1710
+Sem Bateria: 0
+Rodadas: 282441
+Vitorias: 3987 (69.95%)
+Quedas: 1713
+Sem Bateria: 0
+Rodadas: 281237
+Vitorias: 3914 (68.67%)
+Quedas: 1786
+Sem Bateria: 0
+Rodadas: 284962
+Vitorias: 3924 (68.84%)
+Quedas: 1776
+Sem Bateria: 0
+Rodadas: 283078
+Vitorias: 3953 (69.35%)
+Quedas: 1747
+Sem Bateria: 0
+Rodadas: 282373
+Vitorias: 3815 (66.93%)
+Quedas: 1885
+Sem Bateria: 0
+Rodadas: 281286
+Vitorias: 3821 (67.04%)
+Quedas: 1879
+Sem Bateria: 0
+Rodadas: 282437
+Vitorias: 3786 (66.42%)
+Quedas: 1914
+Sem Bateria: 0
+Rodadas: 279042
+Vitorias: 4004 (70.25%)
+Quedas: 1696
+Sem Bateria: 0
+Rodadas: 280410
+Vitorias: 3903 (68.47%)
+Quedas: 1797
+Sem Bateria: 0
+Rodadas: 281633
+Vitorias: 3958 (69.44%)
+Quedas: 1742
+Sem Bateria: 0
+Rodadas: 288507
+Vitorias: 3809 (66.82%)
+Quedas: 1891
+Sem Bateria: 0
+Rodadas: 278852
+Vitorias: 3840 (67.37%)
+Quedas: 1860
+Sem Bateria: 0
+Rodadas: 278938
+Vitorias: 3810 (66.84%)
+Quedas: 1890
+Sem Bateria: 0
+Rodadas: 278701
+Vitorias: 3965 (69.56%)
+Quedas: 1735
+Sem Bateria: 0
+Rodadas: 284617
+Vitorias: 3961 (69.49%)
+Quedas: 1739
+Sem Bateria: 0
+Rodadas: 283414
+Vitorias: 3951 (69.32%)
+Quedas: 1749
+Sem Bateria: 0
+Rodadas: 281975
+Vitorias: 3945 (69.21%)
+Quedas: 1755
+Sem Bateria: 0
+Rodadas: 284303
+Vitorias: 4002 (70.21%)
+Quedas: 1698
+Sem Bateria: 0
+Rodadas: 277506
+Vitorias: 3885 (68.16%)
+Quedas: 1815
+Sem Bateria: 0
+Rodadas: 283236
+Vitorias: 3917 (68.72%)
+Quedas: 1783
+Sem Bateria: 0
+Rodadas: 282003
+Vitorias: 3902 (68.46%)
+Quedas: 1798
+Sem Bateria: 0
+Rodadas: 278213
+Vitorias: 3838 (67.33%)
+Quedas: 1862
+Sem Bateria: 0
+Rodadas: 280368
+Vitorias: 3929 (68.93%)
+Quedas: 1771
+Sem Bateria: 0
+Rodadas: 279858
+Vitorias: 3890 (68.25%)
+Quedas: 1810
+Sem Bateria: 0
+Rodadas: 280203
+Vitorias: 3873 (67.95%)
+Quedas: 1827
+Sem Bateria: 0
+Rodadas: 280915
+Vitorias: 3863 (67.77%)
+Quedas: 1837
+Sem Bateria: 0
+Rodadas: 281746
+Vitorias: 3814 (66.91%)
+Quedas: 1886
+Sem Bateria: 0
+Rodadas: 279776
+Vitorias: 3909 (68.58%)
+Quedas: 1791
+Sem Bateria: 0
+Rodadas: 282203
+Vitorias: 3835 (67.28%)
+Quedas: 1865
+Sem Bateria: 0
+Rodadas: 280562
+Vitorias: 3913 (68.65%)
+Quedas: 1787
+Sem Bateria: 0
+Rodadas: 276710
+Vitorias: 3880 (68.07%)
+Quedas: 1820
+Sem Bateria: 0
+Rodadas: 280287
+Vitorias: 3964 (69.54%)
+Quedas: 1736
+Sem Bateria: 0
+Rodadas: 282775
+Vitorias: 3823 (67.07%)
+Quedas: 1877
+Sem Bateria: 0
+Rodadas: 282425
+Vitorias: 3850 (67.54%)
+Quedas: 1850
+Sem Bateria: 0
+Rodadas: 281865
+Vitorias: 3913 (68.65%)
+Quedas: 1787
+Sem Bateria: 0
+Rodadas: 283776
+Vitorias: 3869 (67.88%)
+Quedas: 1831
+Sem Bateria: 0
+Rodadas: 284892
+Vitorias: 3809 (66.82%)
+Quedas: 1891
+Sem Bateria: 0
+Rodadas: 281387
+Vitorias: 3914 (68.67%)
+Quedas: 1786
+Sem Bateria: 0
+Rodadas: 280907
+Vitorias: 3840 (67.37%)
+Quedas: 1860
+Sem Bateria: 0
+Rodadas: 282945
+Vitorias: 3945 (69.21%)
+Quedas: 1755
+Sem Bateria: 0
+Rodadas: 284645
+Vitorias: 3874 (67.96%)
+Quedas: 1826
+Sem Bateria: 0
+Rodadas: 279310
+Vitorias: 3852 (67.58%)
+Quedas: 1848
+Sem Bateria: 0
+Rodadas: 279115
+Vitorias: 3922 (68.81%)
+Quedas: 1778
+Sem Bateria: 0
+Rodadas: 278927
+Vitorias: 3847 (67.49%)
+Quedas: 1853
+Sem Bateria: 0
+Rodadas: 278246
+Vitorias: 3937 (69.07%)
+Quedas: 1763
+Sem Bateria: 0
+Rodadas: 282167
+Vitorias: 3805 (66.75%)
+Quedas: 1895
+Sem Bateria: 0
+Rodadas: 280982
+Vitorias: 3841 (67.39%)
+Quedas: 1859
+Sem Bateria: 0
+Rodadas: 282647
+Vitorias: 3878 (68.04%)
+Quedas: 1822
+Sem Bateria: 0
+Rodadas: 281091
+Vitorias: 3825 (67.11%)
+Quedas: 1875
+Sem Bateria: 0
+Rodadas: 282354
+Vitorias: 3867 (67.84%)
+Quedas: 1833
+Sem Bateria: 0
+Rodadas: 285811
+Vitorias: 3775 (66.23%)
+Quedas: 1925
+Sem Bateria: 0
+Rodadas: 282648
+Vitorias: 3900 (68.42%)
+Quedas: 1800
+Sem Bateria: 0
+Rodadas: 285490
+Vitorias: 3827 (67.14%)
+Quedas: 1873
+Sem Bateria: 0
+Rodadas: 285072
+Vitorias: 3952 (69.33%)
+Quedas: 1748
+Sem Bateria: 0
+Rodadas: 280997
+Vitorias: 3952 (69.33%)
+Quedas: 1748
+Sem Bateria: 0
+Rodadas: 280229
+Vitorias: 3996 (70.11%)
+Quedas: 1704
+Sem Bateria: 0
+Rodadas: 281108
+Vitorias: 3845 (67.46%)
+Quedas: 1855
+Sem Bateria: 0
+Rodadas: 279230
+Vitorias: 3771 (66.16%)
+Quedas: 1929
+Sem Bateria: 0
+Rodadas: 284115
+Vitorias: 3823 (67.07%)
+Quedas: 1877
+Sem Bateria: 0
+Rodadas: 281143
+Vitorias: 3834 (67.26%)
+Quedas: 1866
+Sem Bateria: 0
+Rodadas: 282276
+Vitorias: 3824 (67.09%)
+Quedas: 1876
+Sem Bateria: 0
+Rodadas: 284116
+Vitorias: 3823 (67.07%)
+Quedas: 1877
+Sem Bateria: 0
+Rodadas: 276746
+Vitorias: 3919 (68.75%)
+Quedas: 1781
+Sem Bateria: 0
+Rodadas: 276862
+Vitorias: 3951 (69.32%)
+Quedas: 1749
+Sem Bateria: 0
+Rodadas: 288107
+Vitorias: 3913 (68.65%)
+Quedas: 1787
+Sem Bateria: 0
+Rodadas: 284505
+Vitorias: 3906 (68.53%)
+Quedas: 1794
+Sem Bateria: 0
+Rodadas: 280672
+Vitorias: 3839 (67.35%)
+Quedas: 1861
+Sem Bateria: 0
+Rodadas: 280909
+Vitorias: 3878 (68.04%)
+Quedas: 1822
+Sem Bateria: 0
+Rodadas: 281865
+Vitorias: 3910 (68.60%)
+Quedas: 1790
+Sem Bateria: 0
+Rodadas: 283121
+Vitorias: 4018 (70.49%)
+Quedas: 1682
+Sem Bateria: 0
+Rodadas: 283212
+Vitorias: 3957 (69.42%)
+Quedas: 1743
+Sem Bateria: 0
+Rodadas: 281876
+Vitorias: 3862 (67.75%)
+Quedas: 1838
+Sem Bateria: 0
+Rodadas: 285818
+Vitorias: 3912 (68.63%)
+Quedas: 1788
+Sem Bateria: 0
+Rodadas: 279011
+Vitorias: 3844 (67.44%)
+Quedas: 1856
+Sem Bateria: 0
+Rodadas: 281425
+Vitorias: 3977 (69.77%)
+Quedas: 1723
+Sem Bateria: 0
+Rodadas: 281234
+Vitorias: 3920 (68.77%)
+Quedas: 1780
+Sem Bateria: 0
+Rodadas: 283034
+Vitorias: 3820 (67.02%)
+Quedas: 1880
+Sem Bateria: 0
+Rodadas: 278978
+Vitorias: 3828 (67.16%)
+Quedas: 1872
+Sem Bateria: 0
+Rodadas: 282984
+Vitorias: 3880 (68.07%)
+Quedas: 1820
+Sem Bateria: 0
+Rodadas: 282779
+Vitorias: 3939 (69.11%)
+Quedas: 1761
+Sem Bateria: 0
+Rodadas: 278437
+Vitorias: 3929 (68.93%)
+Quedas: 1771
+Sem Bateria: 0
+Rodadas: 283220
+Vitorias: 3939 (69.11%)
+Quedas: 1761
+Sem Bateria: 0
+Rodadas: 280338
+Vitorias: 3917 (68.72%)
+Quedas: 1783
+Sem Bateria: 0
+Rodadas: 282869
+Vitorias: 3866 (67.82%)
+Quedas: 1834
+Sem Bateria: 0
+Rodadas: 282295
+Vitorias: 3796 (66.60%)
+Quedas: 1904
+Sem Bateria: 0
+Rodadas: 278663
+Vitorias: 3923 (68.82%)
+Quedas: 1777
+Sem Bateria: 0
+Rodadas: 282858
+Vitorias: 3883 (68.12%)
+Quedas: 1817
+Sem Bateria: 0
+Rodadas: 281760
+Vitorias: 3868 (67.86%)
+Quedas: 1832
+Sem Bateria: 0
+Rodadas: 278526
+Vitorias: 3817 (66.96%)
+Quedas: 1883
+Sem Bateria: 0
+Rodadas: 283278
+Vitorias: 3839 (67.35%)
+Quedas: 1861
+Sem Bateria: 0
+Rodadas: 283408
+Vitorias: 3743 (65.67%)
+Quedas: 1957
+Sem Bateria: 0
+Rodadas: 276732
+Vitorias: 3858 (67.68%)
+Quedas: 1842
+Sem Bateria: 0
+Rodadas: 280493
+Vitorias: 3812 (66.88%)
+Quedas: 1888
+Sem Bateria: 0
+Rodadas: 279971
+Vitorias: 3855 (67.63%)
+Quedas: 1845
+Sem Bateria: 0
+Rodadas: 278778
+Vitorias: 3883 (68.12%)
+Quedas: 1817
+Sem Bateria: 0
+Rodadas: 281914
+Vitorias: 3864 (67.79%)
+Quedas: 1836
+Sem Bateria: 0
+Rodadas: 279854
+Vitorias: 3928 (68.91%)
+Quedas: 1772
+Sem Bateria: 0
+Rodadas: 281012
