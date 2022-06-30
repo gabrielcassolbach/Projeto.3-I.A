@@ -27,7 +27,7 @@
 1655107020 c:\users\gabri\desktop\arquivos\projeto03\decisor_aleatorio.h
 	"game_state.h"
 
-1656253618 source:c:\users\gabri\desktop\arquivos\projeto03\main-automatica.c
+1656590992 source:c:\users\gabri\desktop\arquivos\projeto03\main-automatica.c
 	<stdio.h>
 	<stdlib.h>
 	"game_state.h"
@@ -48,7 +48,7 @@
 	<windows.h>
 	"t3-x-y-z.h"
 
-1656253464 source:c:\users\gabri\desktop\arquivos\projeto03\t3-x-y-x (2) (2).c
+1656590967 source:c:\users\gabri\desktop\arquivos\projeto03\t3-x-y-x (2) (2).c
 	<stdlib.h>
 	<stdio.h>
 	<time.h>

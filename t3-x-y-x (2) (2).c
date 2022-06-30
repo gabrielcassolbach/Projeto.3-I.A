@@ -34,6 +34,8 @@ int comparaPos(Coordenada c1, Coordenada c2);
 void imprimeMatrizElementos(Decisor *d, Coordenada pos);
 int decideMovimento(Decisor *d, Coordenada pos);
 int analisaRetorno(Decisor *d, Coordenada pos);
+int boaChance(Decisor *d, Coordenada pos);
+int movimentoMedio(Decisor *d, Coordenada pos);
 /*-------------------------------------------------------------------------------------------------------------*/
 
 /*------------------------------------------------------------------------------------*/
@@ -148,6 +150,8 @@ int procuraAgua(Decisor* d, Coordenada pos, int agua, int n_lava)
         return decideMovimento(d, pos);
     else if(analisaRetorno(d, pos))
         return retorna(d);
+    else if(movimentoMedio(d, pos))
+        return movimentoMedio(d, pos);
     else
         return rand() % 4 + 1;
     return -1;
@@ -262,6 +266,24 @@ int pode_visitar(Decisor *d, Coordenada pos)
         return 1;
     return 0;
 }
+
+int boaChance(Decisor *d, Coordenada pos)
+{
+    if((getMatrizProb(d, pos) <= 50) && (getMatrizElementos(d, pos) == -1))
+        return 1;
+    return 0;
+}
+
+int movimentoMedio(Decisor *d, Coordenada pos)
+{
+    int i;
+    for(i=1; i<=4; i++){
+        if(boaChance(d, getMove(pos, i)))
+            return i;
+    }
+    return 0;
+}
+
 
 int decideMovimento(Decisor *d, Coordenada pos)
 {

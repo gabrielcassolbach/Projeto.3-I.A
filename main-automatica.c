@@ -56,7 +56,7 @@ const int n_pocos [] =
  * hora de criar um tabuleiro. Todos os trabalhos usarão os mesmos tabuleiros,
  * então o offset precisa ser igual para todos. Entretanto, usaremos offsets
  * diferentes na hora de testar os trabalhos de fato. */
-#define RANDOM_SEED_OFFSET 1000
+#define RANDOM_SEED_OFFSET 7
 
 const int altura_caverna [] =
 {4, 4, 4, 4,
