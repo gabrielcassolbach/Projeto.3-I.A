@@ -1,0 +1,12000 @@
+SEED 1: 
+v1: 
+Vitorias: 3899 (68.40%)
+Quedas: 1801
+Sem Bateria: 0
+Rodadas: 284880
+v2: 
+Vitorias: 4617 (81.00%)
+Quedas: 1039
+Sem Bateria: 44
+Rodadas: 357822
+
+SEED 2: 
+v1: 
+Vitorias: 3890 (68.25%)
+Quedas: 1810
+Sem Bateria: 0
+Rodadas: 284292
+v2: 
+Vitorias: 4553 (79.88%)
+Quedas: 1095
+Sem Bateria: 52
+Rodadas: 358926
+
+SEED 3: 
+v1: 
+Vitorias: 3990 (70.00%)
+Quedas: 1710
+Sem Bateria: 0
+Rodadas: 282441
+v2: 
+Vitorias: 4628 (81.19%)
+Quedas: 1026
+Sem Bateria: 46
+Rodadas: 360273
+
+SEED 4: 
+v1: 
+Vitorias: 3987 (69.95%)
+Quedas: 1713
+Sem Bateria: 0
+Rodadas: 281237
+v2: 
+Vitorias: 4593 (80.58%)
+Quedas: 1065
+Sem Bateria: 42
+Rodadas: 346931
+
+SEED 5: 
+v1: 
+Vitorias: 3914 (68.67%)
+Quedas: 1786
+Sem Bateria: 0
+Rodadas: 284962
+v2: 
+Vitorias: 4594 (80.60%)
+Quedas: 1063
+Sem Bateria: 43
+Rodadas: 354380
+
+SEED 6: 
+v1: 
+Vitorias: 3924 (68.84%)
+Quedas: 1776
+Sem Bateria: 0
+Rodadas: 283078
+v2: 
+Vitorias: 4579 (80.33%)
+Quedas: 1080
+Sem Bateria: 41
+Rodadas: 350192
+
+SEED 7: 
+v1: 
+Vitorias: 3953 (69.35%)
+Quedas: 1747
+Sem Bateria: 0
+Rodadas: 282373
+v2: 
+Vitorias: 4619 (81.04%)
+Quedas: 1041
+Sem Bateria: 40
+Rodadas: 349368
+
+SEED 8: 
+v1: 
+Vitorias: 3815 (66.93%)
+Quedas: 1885
+Sem Bateria: 0
+Rodadas: 281286
+v2: 
+Vitorias: 4494 (78.84%)
+Quedas: 1165
+Sem Bateria: 41
+Rodadas: 351823
+
+SEED 9: 
+v1: 
+Vitorias: 3821 (67.04%)
+Quedas: 1879
+Sem Bateria: 0
+Rodadas: 282437
+v2: 
+Vitorias: 4489 (78.75%)
+Quedas: 1163
+Sem Bateria: 48
+Rodadas: 351814
+
+SEED 10: 
+v1: 
+Vitorias: 3786 (66.42%)
+Quedas: 1914
+Sem Bateria: 0
+Rodadas: 279042
+v2: 
+Vitorias: 4559 (79.98%)
+Quedas: 1099
+Sem Bateria: 42
+Rodadas: 348995
+
+SEED 11: 
+v1: 
+Vitorias: 4004 (70.25%)
+Quedas: 1696
+Sem Bateria: 0
+Rodadas: 280410
+v2: 
+Vitorias: 4635 (81.32%)
+Quedas: 1025
+Sem Bateria: 40
+Rodadas: 355911
+
+SEED 12: 
+v1: 
+Vitorias: 3903 (68.47%)
+Quedas: 1797
+Sem Bateria: 0
+Rodadas: 281633
+v2: 
+Vitorias: 4586 (80.46%)
+Quedas: 1072
+Sem Bateria: 42
+Rodadas: 355625
+
+SEED 13: 
+v1: 
+Vitorias: 3958 (69.44%)
+Quedas: 1742
+Sem Bateria: 0
+Rodadas: 288507
+v2: 
+Vitorias: 4610 (80.88%)
+Quedas: 1040
+Sem Bateria: 50
+Rodadas: 364230
+
+SEED 14: 
+v1: 
+Vitorias: 3809 (66.82%)
+Quedas: 1891
+Sem Bateria: 0
+Rodadas: 278852
+v2: 
+Vitorias: 4595 (80.61%)
+Quedas: 1058
+Sem Bateria: 47
+Rodadas: 354507
+
+SEED 15: 
+v1: 
+Vitorias: 3840 (67.37%)
+Quedas: 1860
+Sem Bateria: 0
+Rodadas: 278938
+v2: 
+Vitorias: 4475 (78.51%)
+Quedas: 1166
+Sem Bateria: 59
+Rodadas: 370356
+
+SEED 16: 
+v1: 
+Vitorias: 3810 (66.84%)
+Quedas: 1890
+Sem Bateria: 0
+Rodadas: 278701
+v2: 
+Vitorias: 4520 (79.30%)
+Quedas: 1132
+Sem Bateria: 48
+Rodadas: 362140
+
+SEED 17: 
+v1: 
+Vitorias: 3965 (69.56%)
+Quedas: 1735
+Sem Bateria: 0
+Rodadas: 284617
+v2: 
+Vitorias: 4602 (80.74%)
+Quedas: 1055
+Sem Bateria: 43
+Rodadas: 357674
+
+SEED 18: 
+v1: 
+Vitorias: 3961 (69.49%)
+Quedas: 1739
+Sem Bateria: 0
+Rodadas: 283414
+v2: 
+Vitorias: 4573 (80.23%)
+Quedas: 1081
+Sem Bateria: 46
+Rodadas: 354991
+
+SEED 19: 
+v1: 
+Vitorias: 3951 (69.32%)
+Quedas: 1749
+Sem Bateria: 0
+Rodadas: 281975
+v2: 
+Vitorias: 4645 (81.49%)
+Quedas: 1005
+Sem Bateria: 50
+Rodadas: 359206
+
+SEED 20: 
+v1: 
+Vitorias: 3945 (69.21%)
+Quedas: 1755
+Sem Bateria: 0
+Rodadas: 284303
+v2: 
+Vitorias: 4602 (80.74%)
+Quedas: 1055
+Sem Bateria: 43
+Rodadas: 358975
+
+SEED 21: 
+v1: 
+Vitorias: 4002 (70.21%)
+Quedas: 1698
+Sem Bateria: 0
+Rodadas: 277506
+v2: 
+Vitorias: 4635 (81.32%)
+Quedas: 1017
+Sem Bateria: 48
+Rodadas: 353463
+
+SEED 22: 
+v1: 
+Vitorias: 3885 (68.16%)
+Quedas: 1815
+Sem Bateria: 0
+Rodadas: 283236
+v2: 
+Vitorias: 4545 (79.74%)
+Quedas: 1106
+Sem Bateria: 49
+Rodadas: 360502
+
+SEED 23: 
+v1: 
+Vitorias: 3917 (68.72%)
+Quedas: 1783
+Sem Bateria: 0
+Rodadas: 282003
+v2: 
+Vitorias: 4618 (81.02%)
+Quedas: 1039
+Sem Bateria: 43
+Rodadas: 359491
+
+SEED 24: 
+v1: 
+Vitorias: 3902 (68.46%)
+Quedas: 1798
+Sem Bateria: 0
+Rodadas: 278213
+v2: 
+Vitorias: 4582 (80.39%)
+Quedas: 1080
+Sem Bateria: 38
+Rodadas: 348177
+
+SEED 25: 
+v1: 
+Vitorias: 3838 (67.33%)
+Quedas: 1862
+Sem Bateria: 0
+Rodadas: 280368
+v2: 
+Vitorias: 4519 (79.28%)
+Quedas: 1138
+Sem Bateria: 43
+Rodadas: 355544
+
+SEED 26: 
+v1: 
+Vitorias: 3929 (68.93%)
+Quedas: 1771
+Sem Bateria: 0
+Rodadas: 279858
+v2: 
+Vitorias: 4563 (80.05%)
+Quedas: 1091
+Sem Bateria: 46
+Rodadas: 359179
+
+SEED 27: 
+v1: 
+Vitorias: 3890 (68.25%)
+Quedas: 1810
+Sem Bateria: 0
+Rodadas: 280203
+v2: 
+Vitorias: 4597 (80.65%)
+Quedas: 1047
+Sem Bateria: 56
+Rodadas: 378905
+
+SEED 28: 
+v1: 
+Vitorias: 3873 (67.95%)
+Quedas: 1827
+Sem Bateria: 0
+Rodadas: 280915
+v2: 
+Vitorias: 4565 (80.09%)
+Quedas: 1090
+Sem Bateria: 45
+Rodadas: 358760
+
+SEED 29: 
+v1: 
+Vitorias: 3863 (67.77%)
+Quedas: 1837
+Sem Bateria: 0
+Rodadas: 281746
+v2: 
+Vitorias: 4508 (79.09%)
+Quedas: 1138
+Sem Bateria: 54
+Rodadas: 362452
+
+SEED 30: 
+v1: 
+Vitorias: 3814 (66.91%)
+Quedas: 1886
+Sem Bateria: 0
+Rodadas: 279776
+v2: 
+Vitorias: 4477 (78.54%)
+Quedas: 1190
+Sem Bateria: 33
+Rodadas: 335952
+
+SEED 31: 
+v1: 
+Vitorias: 3909 (68.58%)
+Quedas: 1791
+Sem Bateria: 0
+Rodadas: 282203
+v2: 
+Vitorias: 4610 (80.88%)
+Quedas: 1054
+Sem Bateria: 36
+Rodadas: 346042
+
+SEED 32: 
+v1: 
+Vitorias: 3835 (67.28%)
+Quedas: 1865
+Sem Bateria: 0
+Rodadas: 280562
+v2: 
+Vitorias: 4491 (78.79%)
+Quedas: 1164
+Sem Bateria: 45
+Rodadas: 358234
+
+SEED 33: 
+v1: 
+Vitorias: 3913 (68.65%)
+Quedas: 1787
+Sem Bateria: 0
+Rodadas: 276710
+v2: 
+Vitorias: 4581 (80.37%)
+Quedas: 1067
+Sem Bateria: 52
+Rodadas: 371756
+
+SEED 34: 
+v1: 
+Vitorias: 3880 (68.07%)
+Quedas: 1820
+Sem Bateria: 0
+Rodadas: 280287
+v2: 
+Vitorias: 4555 (79.91%)
+Quedas: 1093
+Sem Bateria: 52
+Rodadas: 371156
+
+SEED 35: 
+v1: 
+Vitorias: 3964 (69.54%)
+Quedas: 1736
+Sem Bateria: 0
+Rodadas: 282775
+v2: 
+Vitorias: 4602 (80.74%)
+Quedas: 1065
+Sem Bateria: 33
+Rodadas: 337670
+
+SEED 36: 
+v1: 
+Vitorias: 3823 (67.07%)
+Quedas: 1877
+Sem Bateria: 0
+Rodadas: 282425
+v2: 
+Vitorias: 4459 (78.23%)
+Quedas: 1192
+Sem Bateria: 49
+Rodadas: 360391
+
+SEED 37: 
+v1: 
+Vitorias: 3850 (67.54%)
+Quedas: 1850
+Sem Bateria: 0
+Rodadas: 281865
+v2: 
+Vitorias: 4543 (79.70%)
+Quedas: 1110
+Sem Bateria: 47
+Rodadas: 363203
+
+SEED 38: 
+v1: 
+Vitorias: 3913 (68.65%)
+Quedas: 1787
+Sem Bateria: 0
+Rodadas: 283776
+v2: 
+Vitorias: 4548 (79.79%)
+Quedas: 1105
+Sem Bateria: 47
+Rodadas: 360499
+
+SEED 39: 
+v1: 
+Vitorias: 3869 (67.88%)
+Quedas: 1831
+Sem Bateria: 0
+Rodadas: 284892
+v2: 
+Vitorias: 4544 (79.72%)
+Quedas: 1116
+Sem Bateria: 40
+Rodadas: 354303
+
+SEED 40: 
+v1: 
+Vitorias: 3809 (66.82%)
+Quedas: 1891
+Sem Bateria: 0
+Rodadas: 281387
+v2: 
+Vitorias: 4478 (78.56%)
+Quedas: 1170
+Sem Bateria: 52
+Rodadas: 372713
+
+SEED 41: 
+v1: 
+Vitorias: 3914 (68.67%)
+Quedas: 1786
+Sem Bateria: 0
+Rodadas: 280907
+v2: 
+Vitorias: 4627 (81.18%)
+Quedas: 1032
+Sem Bateria: 41
+Rodadas: 356003
+
+SEED 42: 
+v1: 
+Vitorias: 3840 (67.37%)
+Quedas: 1860
+Sem Bateria: 0
+Rodadas: 282945
+v2: 
+Vitorias: 4488 (78.74%)
+Quedas: 1182
+Sem Bateria: 30
+Rodadas: 339049
+
+SEED 43: 
+v1: 
+Vitorias: 3945 (69.21%)
+Quedas: 1755
+Sem Bateria: 0
+Rodadas: 284645
+v2: 
+Vitorias: 4491 (78.79%)
+Quedas: 1160
+Sem Bateria: 49
+Rodadas: 363458
+
+SEED 44: 
+v1: 
+Vitorias: 3874 (67.96%)
+Quedas: 1826
+Sem Bateria: 0
+Rodadas: 279310
+v2: 
+Vitorias: 4490 (78.77%)
+Quedas: 1160
+Sem Bateria: 50
+Rodadas: 358518
+
+SEED 45: 
+v1: 
+Vitorias: 3852 (67.58%)
+Quedas: 1848
+Sem Bateria: 0
+Rodadas: 279115
+v2: 
+Vitorias: 4551 (79.84%)
+Quedas: 1101
+Sem Bateria: 48
+Rodadas: 360939
+
+SEED 46: 
+v1: 
+Vitorias: 3922 (68.81%)
+Quedas: 1778
+Sem Bateria: 0
+Rodadas: 278927
+v2: 
+Vitorias: 4590 (80.53%)
+Quedas: 1074
+Sem Bateria: 36
+Rodadas: 345827
+
+SEED 47: 
+v1: 
+Vitorias: 3847 (67.49%)
+Quedas: 1853
+Sem Bateria: 0
+Rodadas: 278246
+v2: 
+Vitorias: 4506 (79.05%)
+Quedas: 1150
+Sem Bateria: 44
+Rodadas: 351244
+
+SEED 48: 
+v1: 
+Vitorias: 3937 (69.07%)
+Quedas: 1763
+Sem Bateria: 0
+Rodadas: 282167
+v2: 
+Vitorias: 4600 (80.70%)
+Quedas: 1066
+Sem Bateria: 34
+Rodadas: 347200
+
+SEED 49: 
+v1: 
+Vitorias: 3805 (66.75%)
+Quedas: 1895
+Sem Bateria: 0
+Rodadas: 280982
+v2: 
+Vitorias: 4507 (79.07%)
+Quedas: 1144
+Sem Bateria: 49
+Rodadas: 355602
+
+SEED 50: 
+v1: 
+Vitorias: 3841 (67.39%)
+Quedas: 1859
+Sem Bateria: 0
+Rodadas: 282647
+v2: 
+Vitorias: 4602 (80.74%)
+Quedas: 1046
+Sem Bateria: 52
+Rodadas: 366126
+
+SEED 51: 
+v1: 
+Vitorias: 3878 (68.04%)
+Quedas: 1822
+Sem Bateria: 0
+Rodadas: 281091
+v2: 
+Vitorias: 4570 (80.18%)
+Quedas: 1077
+Sem Bateria: 53
+Rodadas: 367426
+
+SEED 52: 
+v1: 
+Vitorias: 3825 (67.11%)
+Quedas: 1875
+Sem Bateria: 0
+Rodadas: 282354
+v2: 
+Vitorias: 4448 (78.04%)
+Quedas: 1208
+Sem Bateria: 44
+Rodadas: 355696
+
+SEED 53: 
+v1: 
+Vitorias: 3867 (67.84%)
+Quedas: 1833
+Sem Bateria: 0
+Rodadas: 285811
+v2: 
+Vitorias: 4515 (79.21%)
+Quedas: 1141
+Sem Bateria: 44
+Rodadas: 360575
+
+SEED 54: 
+v1: 
+Vitorias: 3775 (66.23%)
+Quedas: 1925
+Sem Bateria: 0
+Rodadas: 282648
+v2: 
+Vitorias: 4556 (79.93%)
+Quedas: 1103
+Sem Bateria: 41
+Rodadas: 353125
+
+SEED 55: 
+v1: 
+Vitorias: 3900 (68.42%)
+Quedas: 1800
+Sem Bateria: 0
+Rodadas: 285490
+v2: 
+Vitorias: 4551 (79.84%)
+Quedas: 1104
+Sem Bateria: 45
+Rodadas: 358516
+
+SEED 56: 
+v1: 
+Vitorias: 3827 (67.14%)
+Quedas: 1873
+Sem Bateria: 0
+Rodadas: 285072
+v2: 
+Vitorias: 4483 (78.65%)
+Quedas: 1172
+Sem Bateria: 45
+Rodadas: 360065
+
+SEED 57: 
+v1: 
+Vitorias: 3952 (69.33%)
+Quedas: 1748
+Sem Bateria: 0
+Rodadas: 280997
+v2: 
+Vitorias: 4597 (80.65%)
+Quedas: 1064
+Sem Bateria: 39
+Rodadas: 341871
+
+SEED 58: 
+v1: 
+Vitorias: 3952 (69.33%)
+Quedas: 1748
+Sem Bateria: 0
+Rodadas: 280229
+v2: 
+Vitorias: 4563 (80.05%)
+Quedas: 1099
+Sem Bateria: 38
+Rodadas: 345384
+
+SEED 59: 
+v1: 
+Vitorias: 3996 (70.11%)
+Quedas: 1704
+Sem Bateria: 0
+Rodadas: 281108
+v2: 
+Vitorias: 4651 (81.60%)
+Quedas: 1005
+Sem Bateria: 44
+Rodadas: 356539
+
+SEED 60: 
+v1: 
+Vitorias: 3845 (67.46%)
+Quedas: 1855
+Sem Bateria: 0
+Rodadas: 279230
+v2: 
+Vitorias: 4495 (78.86%)
+Quedas: 1163
+Sem Bateria: 42
+Rodadas: 351710
+
+SEED 61: 
+v1: 
+Vitorias: 3771 (66.16%)
+Quedas: 1929
+Sem Bateria: 0
+Rodadas: 284115
+v2: 
+Vitorias: 4437 (77.84%)
+Quedas: 1221
+Sem Bateria: 42
+Rodadas: 354895
+
+SEED 62: 
+v1: 
+Vitorias: 3823 (67.07%)
+Quedas: 1877
+Sem Bateria: 0
+Rodadas: 281143
+v2: 
+Vitorias: 4461 (78.26%)
+Quedas: 1198
+Sem Bateria: 41
+Rodadas: 355985
+
+SEED 63: 
+v1: 
+Vitorias: 3834 (67.26%)
+Quedas: 1866
+Sem Bateria: 0
+Rodadas: 282276
+v2: 
+Vitorias: 4528 (79.44%)
+Quedas: 1129
+Sem Bateria: 43
+Rodadas: 357001
+
+SEED 64: 
+v1: 
+Vitorias: 3824 (67.09%)
+Quedas: 1876
+Sem Bateria: 0
+Rodadas: 284116
+v2: 
+Vitorias: 4465 (78.33%)
+Quedas: 1188
+Sem Bateria: 47
+Rodadas: 360672
+
+SEED 65: 
+v1: 
+Vitorias: 3823 (67.07%)
+Quedas: 1877
+Sem Bateria: 0
+Rodadas: 276746
+v2: 
+Vitorias: 4529 (79.46%)
+Quedas: 1131
+Sem Bateria: 40
+Rodadas: 347738
+
+SEED 66: 
+v1: 
+Vitorias: 3919 (68.75%)
+Quedas: 1781
+Sem Bateria: 0
+Rodadas: 276862
+v2: 
+Vitorias: 4560 (80.00%)
+Quedas: 1095
+Sem Bateria: 45
+Rodadas: 353553
+
+SEED 67: 
+v1: 
+Vitorias: 3951 (69.32%)
+Quedas: 1749
+Sem Bateria: 0
+Rodadas: 288107
+v2: 
+Vitorias: 4608 (80.84%)
+Quedas: 1053
+Sem Bateria: 39
+Rodadas: 355596
+
+SEED 68: 
+v1: 
+Vitorias: 3913 (68.65%)
+Quedas: 1787
+Sem Bateria: 0
+Rodadas: 284505
+v2: 
+Vitorias: 4566 (80.11%)
+Quedas: 1094
+Sem Bateria: 40
+Rodadas: 358577
+
+SEED 69: 
+v1: 
+Vitorias: 3906 (68.53%)
+Quedas: 1794
+Sem Bateria: 0
+Rodadas: 280672
+v2: 
+Vitorias: 4594 (80.60%)
+Quedas: 1048
+Sem Bateria: 58
+Rodadas: 370222
+
+SEED 70: 
+v1: 
+Vitorias: 3839 (67.35%)
+Quedas: 1861
+Sem Bateria: 0
+Rodadas: 280909
+v2: 
+Vitorias: 4502 (78.98%)
+Quedas: 1148
+Sem Bateria: 50
+Rodadas: 364238
+
+SEED 71: 
+v1: 
+Vitorias: 3878 (68.04%)
+Quedas: 1822
+Sem Bateria: 0
+Rodadas: 281865
+v2: 
+Vitorias: 4542 (79.68%)
+Quedas: 1111
+Sem Bateria: 47
+Rodadas: 361999
+
+SEED 72: 
+v1: 
+Vitorias: 3910 (68.60%)
+Quedas: 1790
+Sem Bateria: 0
+Rodadas: 283121
+v2: 
+Vitorias: 4584 (80.42%)
+Quedas: 1073
+Sem Bateria: 43
+Rodadas: 359791
+
+SEED 73: 
+v1: 
+Vitorias: 4018 (70.49%)
+Quedas: 1682
+Sem Bateria: 0
+Rodadas: 283212
+v2: 
+Vitorias: 4660 (81.75%)
+Quedas: 999
+Sem Bateria: 41
+Rodadas: 354567
+
+SEED 74: 
+v1: 
+Vitorias: 3957 (69.42%)
+Quedas: 1743
+Sem Bateria: 0
+Rodadas: 281876
+v2: 
+Vitorias: 4588 (80.49%)
+Quedas: 1063
+Sem Bateria: 49
+Rodadas: 353909
+
+SEED 75: 
+v1: 
+Vitorias: 3862 (67.75%)
+Quedas: 1838
+Sem Bateria: 0
+Rodadas: 285818
+v2: 
+Vitorias: 4628 (81.19%)
+Quedas: 1024
+Sem Bateria: 48
+Rodadas: 365091
+
+SEED 76: 
+v1: 
+Vitorias: 3912 (68.63%)
+Quedas: 1788
+Sem Bateria: 0
+Rodadas: 279011
+v2: 
+Vitorias: 4587 (80.47%)
+Quedas: 1081
+Sem Bateria: 32
+Rodadas: 341613
+
+SEED 77: 
+v1: 
+Vitorias: 3844 (67.44%)
+Quedas: 1856
+Sem Bateria: 0
+Rodadas: 281425
+v2: 
+Vitorias: 4601 (80.72%)
+Quedas: 1052
+Sem Bateria: 47
+Rodadas: 360015
+
+SEED 78: 
+v1: 
+Vitorias: 3977 (69.77%)
+Quedas: 1723
+Sem Bateria: 0
+Rodadas: 281234
+v2: 
+Vitorias: 4637 (81.35%)
+Quedas: 1013
+Sem Bateria: 50
+Rodadas: 369412
+
+SEED 79: 
+v1: 
+Vitorias: 3920 (68.77%)
+Quedas: 1780
+Sem Bateria: 0
+Rodadas: 283034
+v2: 
+Vitorias: 4604 (80.77%)
+Quedas: 1046
+Sem Bateria: 50
+Rodadas: 364810
+
+SEED 80: 
+v1: 
+Vitorias: 3820 (67.02%)
+Quedas: 1880
+Sem Bateria: 0
+Rodadas: 278978
+v2: 
+Vitorias: 4485 (78.68%)
+Quedas: 1175
+Sem Bateria: 40
+Rodadas: 349707
+
+SEED 81: 
+v1: 
+Vitorias: 3828 (67.16%)
+Quedas: 1872
+Sem Bateria: 0
+Rodadas: 282984
+v2: 
+Vitorias: 4609 (80.86%)
+Quedas: 1042
+Sem Bateria: 49
+Rodadas: 371222
+
+SEED 82: 
+v1: 
+Vitorias: 3880 (68.07%)
+Quedas: 1820
+Sem Bateria: 0
+Rodadas: 282779
+v2: 
+Vitorias: 4498 (78.91%)
+Quedas: 1061
+Sem Bateria: 141
+Rodadas: 382554
+
+SEED 83: 
+v1: 
+Vitorias: 3939 (69.11%)
+Quedas: 1761
+Sem Bateria: 0
+Rodadas: 278437
+v2: 
+Vitorias: 4586 (80.46%)
+Quedas: 1075
+Sem Bateria: 39
+Rodadas: 346581
+
+SEED 84: 
+v1: 
+Vitorias: 3929 (68.93%)
+Quedas: 1771
+Sem Bateria: 0
+Rodadas: 283220
+v2: 
+Vitorias: 4595 (80.61%)
+Quedas: 1061
+Sem Bateria: 44
+Rodadas: 361084
+
+SEED 85: 
+v1: 
+Vitorias: 3939 (69.11%)
+Quedas: 1761
+Sem Bateria: 0
+Rodadas: 280338
+v2: 
+Vitorias: 4593 (80.58%)
+Quedas: 1066
+Sem Bateria: 41
+Rodadas: 346171
+
+SEED 86: 
+v1: 
+Vitorias: 3917 (68.72%)
+Quedas: 1783
+Sem Bateria: 0
+Rodadas: 282869
+v2: 
+Vitorias: 4572 (80.21%)
+Quedas: 1085
+Sem Bateria: 43
+Rodadas: 353215
+
+SEED 87: 
+v1: 
+Vitorias: 3866 (67.82%)
+Quedas: 1834
+Sem Bateria: 0
+Rodadas: 282295
+v2: 
+Vitorias: 4485 (78.68%)
+Quedas: 1164
+Sem Bateria: 51
+Rodadas: 365361
+
+SEED 88: 
+v1: 
+Vitorias: 3796 (66.60%)
+Quedas: 1904
+Sem Bateria: 0
+Rodadas: 278663
+v2: 
+Vitorias: 4452 (78.11%)
+Quedas: 1207
+Sem Bateria: 41
+Rodadas: 352280
+
+SEED 89: 
+v1: 
+Vitorias: 3923 (68.82%)
+Quedas: 1777
+Sem Bateria: 0
+Rodadas: 282858
+v2: 
+Vitorias: 4566 (80.11%)
+Quedas: 1089
+Sem Bateria: 45
+Rodadas: 358041
+
+SEED 90: 
+v1: 
+Vitorias: 3883 (68.12%)
+Quedas: 1817
+Sem Bateria: 0
+Rodadas: 281760
+v2: 
+Vitorias: 4545 (79.74%)
+Quedas: 1112
+Sem Bateria: 43
+Rodadas: 351745
+
+SEED 91: 
+v1: 
+Vitorias: 3868 (67.86%)
+Quedas: 1832
+Sem Bateria: 0
+Rodadas: 278526
+v2: 
+Vitorias: 4596 (80.63%)
+Quedas: 1064
+Sem Bateria: 40
+Rodadas: 351759
+
+SEED 92: 
+v1: 
+Vitorias: 3817 (66.96%)
+Quedas: 1883
+Sem Bateria: 0
+Rodadas: 283278
+v2: 
+Vitorias: 4523 (79.35%)
+Quedas: 1126
+Sem Bateria: 51
+Rodadas: 362771
+
+SEED 93: 
+v1: 
+Vitorias: 3839 (67.35%)
+Quedas: 1861
+Sem Bateria: 0
+Rodadas: 283408
+v2: 
+Vitorias: 4460 (78.25%)
+Quedas: 1178
+Sem Bateria: 62
+Rodadas: 380399
+
+SEED 94: 
+v1: 
+Vitorias: 3743 (65.67%)
+Quedas: 1957
+Sem Bateria: 0
+Rodadas: 276732
+v2: 
+Vitorias: 4407 (77.32%)
+Quedas: 1250
+Sem Bateria: 43
+Rodadas: 355824
+
+SEED 95: 
+v1: 
+Vitorias: 3858 (67.68%)
+Quedas: 1842
+Sem Bateria: 0
+Rodadas: 280493
+v2: 
+Vitorias: 4541 (79.67%)
+Quedas: 1111
+Sem Bateria: 48
+Rodadas: 367705
+
+SEED 96: 
+v1: 
+Vitorias: 3812 (66.88%)
+Quedas: 1888
+Sem Bateria: 0
+Rodadas: 279971
+v2: 
+Vitorias: 4459 (78.23%)
+Quedas: 1207
+Sem Bateria: 34
+Rodadas: 345434
+
+SEED 97: 
+v1: 
+Vitorias: 3855 (67.63%)
+Quedas: 1845
+Sem Bateria: 0
+Rodadas: 278778
+v2: 
+Vitorias: 4524 (79.37%)
+Quedas: 1132
+Sem Bateria: 44
+Rodadas: 357558
+
+SEED 98: 
+v1: 
+Vitorias: 3883 (68.12%)
+Quedas: 1817
+Sem Bateria: 0
+Rodadas: 281914
+v2: 
+Vitorias: 4549 (79.81%)
+Quedas: 1112
+Sem Bateria: 39
+Rodadas: 354436
+
+SEED 99: 
+v1: 
+Vitorias: 3864 (67.79%)
+Quedas: 1836
+Sem Bateria: 0
+Rodadas: 279854
+v2: 
+Vitorias: 4554 (79.89%)
+Quedas: 1107
+Sem Bateria: 39
+Rodadas: 345636
+
+SEED 100: 
+v1: 
+Vitorias: 3928 (68.91%)
+Quedas: 1772
+Sem Bateria: 0
+Rodadas: 281012
+v2: 
+Vitorias: 4625 (81.14%)
+Quedas: 1034
+Sem Bateria: 41
+Rodadas: 354349
+
+SEED 101: 
+v1: 
+Vitorias: 3955 (69.39%)
+Quedas: 1745
+Sem Bateria: 0
+Rodadas: 284617
+v2: 
+Vitorias: 4513 (79.18%)
+Quedas: 1143
+Sem Bateria: 44
+Rodadas: 355628
+
+SEED 102: 
+v1: 
+Vitorias: 3900 (68.42%)
+Quedas: 1800
+Sem Bateria: 0
+Rodadas: 282609
+v2: 
+Vitorias: 4530 (79.47%)
+Quedas: 1135
+Sem Bateria: 35
+Rodadas: 348324
+
+SEED 103: 
+v1: 
+Vitorias: 3838 (67.33%)
+Quedas: 1862
+Sem Bateria: 0
+Rodadas: 282820
+v2: 
+Vitorias: 4506 (79.05%)
+Quedas: 1142
+Sem Bateria: 52
+Rodadas: 369214
+
+SEED 104: 
+v1: 
+Vitorias: 3923 (68.82%)
+Quedas: 1777
+Sem Bateria: 0
+Rodadas: 283478
+v2: 
+Vitorias: 4586 (80.46%)
+Quedas: 1081
+Sem Bateria: 33
+Rodadas: 340463
+
+SEED 105: 
+v1: 
+Vitorias: 3867 (67.84%)
+Quedas: 1833
+Sem Bateria: 0
+Rodadas: 279686
+v2: 
+Vitorias: 4501 (78.96%)
+Quedas: 1157
+Sem Bateria: 42
+Rodadas: 347348
+
+SEED 106: 
+v1: 
+Vitorias: 3888 (68.21%)
+Quedas: 1812
+Sem Bateria: 0
+Rodadas: 282785
+v2: 
+Vitorias: 4562 (80.04%)
+Quedas: 1092
+Sem Bateria: 46
+Rodadas: 356382
+
+SEED 107: 
+v1: 
+Vitorias: 3962 (69.51%)
+Quedas: 1738
+Sem Bateria: 0
+Rodadas: 285096
+v2: 
+Vitorias: 4598 (80.67%)
+Quedas: 1062
+Sem Bateria: 40
+Rodadas: 356798
+
+SEED 108: 
+v1: 
+Vitorias: 3936 (69.05%)
+Quedas: 1764
+Sem Bateria: 0
+Rodadas: 283008
+v2: 
+Vitorias: 4579 (80.33%)
+Quedas: 1084
+Sem Bateria: 37
+Rodadas: 349852
+
+SEED 109: 
+v1: 
+Vitorias: 3818 (66.98%)
+Quedas: 1882
+Sem Bateria: 0
+Rodadas: 283127
+v2: 
+Vitorias: 4597 (80.65%)
+Quedas: 1042
+Sem Bateria: 61
+Rodadas: 381431
+
+SEED 110: 
+v1: 
+Vitorias: 3854 (67.61%)
+Quedas: 1846
+Sem Bateria: 0
+Rodadas: 281565
+v2: 
+Vitorias: 4453 (78.12%)
+Quedas: 1203
+Sem Bateria: 44
+Rodadas: 352460
+
+SEED 111: 
+v1: 
+Vitorias: 3939 (69.11%)
+Quedas: 1761
+Sem Bateria: 0
+Rodadas: 282388
+v2: 
+Vitorias: 4601 (80.72%)
+Quedas: 1054
+Sem Bateria: 45
+Rodadas: 362327
+
+SEED 112: 
+v1: 
+Vitorias: 3956 (69.40%)
+Quedas: 1744
+Sem Bateria: 0
+Rodadas: 283898
+v2: 
+Vitorias: 4609 (80.86%)
+Quedas: 1047
+Sem Bateria: 44
+Rodadas: 358239
+
+SEED 113: 
+v1: 
+Vitorias: 3999 (70.16%)
+Quedas: 1701
+Sem Bateria: 0
+Rodadas: 284955
+v2: 
+Vitorias: 4613 (80.93%)
+Quedas: 1044
+Sem Bateria: 43
+Rodadas: 353056
+
+SEED 114: 
+v1: 
+Vitorias: 3954 (69.37%)
+Quedas: 1746
+Sem Bateria: 0
+Rodadas: 282375
+v2: 
+Vitorias: 4574 (80.25%)
+Quedas: 1083
+Sem Bateria: 43
+Rodadas: 353438
+
+SEED 115: 
+v1: 
+Vitorias: 4000 (70.18%)
+Quedas: 1700
+Sem Bateria: 0
+Rodadas: 289561
+v2: 
+Vitorias: 4611 (80.89%)
+Quedas: 1051
+Sem Bateria: 38
+Rodadas: 354180
+
+SEED 116: 
+v1: 
+Vitorias: 3855 (67.63%)
+Quedas: 1845
+Sem Bateria: 0
+Rodadas: 277571
+v2: 
+Vitorias: 4485 (78.68%)
+Quedas: 1175
+Sem Bateria: 40
+Rodadas: 353077
+
+SEED 117: 
+v1: 
+Vitorias: 3914 (68.67%)
+Quedas: 1786
+Sem Bateria: 0
+Rodadas: 284709
+v2: 
+Vitorias: 4610 (80.88%)
+Quedas: 1045
+Sem Bateria: 45
+Rodadas: 364119
+
+SEED 118: 
+v1: 
+Vitorias: 3927 (68.89%)
+Quedas: 1773
+Sem Bateria: 0
+Rodadas: 283074
+v2: 
+Vitorias: 4562 (80.04%)
+Quedas: 1108
+Sem Bateria: 30
+Rodadas: 338231
+
+SEED 119: 
+v1: 
+Vitorias: 3907 (68.54%)
+Quedas: 1793
+Sem Bateria: 0
+Rodadas: 281950
+v2: 
+Vitorias: 4602 (80.74%)
+Quedas: 1054
+Sem Bateria: 44
+Rodadas: 357433
+
+SEED 120: 
+v1: 
+Vitorias: 3817 (66.96%)
+Quedas: 1883
+Sem Bateria: 0
+Rodadas: 280760
+v2: 
+Vitorias: 4474 (78.49%)
+Quedas: 1179
+Sem Bateria: 47
+Rodadas: 362765
+
+SEED 121: 
+v1: 
+Vitorias: 3793 (66.54%)
+Quedas: 1907
+Sem Bateria: 0
+Rodadas: 281180
+v2: 
+Vitorias: 4483 (78.65%)
+Quedas: 1181
+Sem Bateria: 36
+Rodadas: 346453
+
+SEED 122: 
+v1: 
+Vitorias: 3797 (66.61%)
+Quedas: 1903
+Sem Bateria: 0
+Rodadas: 280070
+v2: 
+Vitorias: 4590 (80.53%)
+Quedas: 1073
+Sem Bateria: 37
+Rodadas: 349815
+
+SEED 123: 
+v1: 
+Vitorias: 3846 (67.47%)
+Quedas: 1854
+Sem Bateria: 0
+Rodadas: 279818
+v2: 
+Vitorias: 4492 (78.81%)
+Quedas: 1159
+Sem Bateria: 49
+Rodadas: 364356
+
+SEED 124: 
+v1: 
+Vitorias: 3952 (69.33%)
+Quedas: 1748
+Sem Bateria: 0
+Rodadas: 278770
+v2: 
+Vitorias: 4585 (80.44%)
+Quedas: 1073
+Sem Bateria: 42
+Rodadas: 350250
+
+SEED 125: 
+v1: 
+Vitorias: 4018 (70.49%)
+Quedas: 1682
+Sem Bateria: 0
+Rodadas: 284383
+v2: 
+Vitorias: 4643 (81.46%)
+Quedas: 1004
+Sem Bateria: 53
+Rodadas: 371531
+
+SEED 126: 
+v1: 
+Vitorias: 3933 (69.00%)
+Quedas: 1767
+Sem Bateria: 0
+Rodadas: 282282
+v2: 
+Vitorias: 4608 (80.84%)
+Quedas: 1045
+Sem Bateria: 47
+Rodadas: 365315
+
+SEED 127: 
+v1: 
+Vitorias: 3968 (69.61%)
+Quedas: 1732
+Sem Bateria: 0
+Rodadas: 280000
+v2: 
+Vitorias: 4609 (80.86%)
+Quedas: 1050
+Sem Bateria: 41
+Rodadas: 354657
+
+SEED 128: 
+v1: 
+Vitorias: 3912 (68.63%)
+Quedas: 1788
+Sem Bateria: 0
+Rodadas: 281472
+v2: 
+Vitorias: 4565 (80.09%)
+Quedas: 1089
+Sem Bateria: 46
+Rodadas: 363064
+
+SEED 129: 
+v1: 
+Vitorias: 3835 (67.28%)
+Quedas: 1865
+Sem Bateria: 0
+Rodadas: 282032
+v2: 
+Vitorias: 4613 (80.93%)
+Quedas: 1044
+Sem Bateria: 43
+Rodadas: 351038
+
+SEED 130: 
+v1: 
+Vitorias: 3953 (69.35%)
+Quedas: 1747
+Sem Bateria: 0
+Rodadas: 280851
+v2: 
+Vitorias: 4551 (79.84%)
+Quedas: 1102
+Sem Bateria: 47
+Rodadas: 355422
+
+SEED 131: 
+v1: 
+Vitorias: 3929 (68.93%)
+Quedas: 1771
+Sem Bateria: 0
+Rodadas: 277285
+v2: 
+Vitorias: 4593 (80.58%)
+Quedas: 1062
+Sem Bateria: 45
+Rodadas: 353304
+
+SEED 132: 
+v1: 
+Vitorias: 3929 (68.93%)
+Quedas: 1771
+Sem Bateria: 0
+Rodadas: 282082
+v2: 
+Vitorias: 4587 (80.47%)
+Quedas: 1074
+Sem Bateria: 39
+Rodadas: 345894
+
+SEED 133: 
+v1: 
+Vitorias: 3974 (69.72%)
+Quedas: 1726
+Sem Bateria: 0
+Rodadas: 284452
+v2: 
+Vitorias: 4621 (81.07%)
+Quedas: 1028
+Sem Bateria: 51
+Rodadas: 370495
+
+SEED 134: 
+v1: 
+Vitorias: 3878 (68.04%)
+Quedas: 1822
+Sem Bateria: 0
+Rodadas: 280299
+v2: 
+Vitorias: 4607 (80.82%)
+Quedas: 1038
+Sem Bateria: 55
+Rodadas: 368438
+
+SEED 135: 
+v1: 
+Vitorias: 3847 (67.49%)
+Quedas: 1853
+Sem Bateria: 0
+Rodadas: 278771
+v2: 
+Vitorias: 4495 (78.86%)
+Quedas: 1159
+Sem Bateria: 46
+Rodadas: 359316
+
+SEED 136: 
+v1: 
+Vitorias: 3857 (67.67%)
+Quedas: 1843
+Sem Bateria: 0
+Rodadas: 275352
+v2: 
+Vitorias: 4607 (80.82%)
+Quedas: 1048
+Sem Bateria: 45
+Rodadas: 359542
+
+SEED 137: 
+v1: 
+Vitorias: 3977 (69.77%)
+Quedas: 1723
+Sem Bateria: 0
+Rodadas: 284475
+v2: 
+Vitorias: 4635 (81.32%)
+Quedas: 1023
+Sem Bateria: 42
+Rodadas: 353842
+
+SEED 138: 
+v1: 
+Vitorias: 3816 (66.95%)
+Quedas: 1884
+Sem Bateria: 0
+Rodadas: 282448
+v2: 
+Vitorias: 4443 (77.95%)
+Quedas: 1217
+Sem Bateria: 40
+Rodadas: 353817
+
+SEED 139: 
+v1: 
+Vitorias: 3927 (68.89%)
+Quedas: 1773
+Sem Bateria: 0
+Rodadas: 281551
+v2: 
+Vitorias: 4624 (81.12%)
+Quedas: 1027
+Sem Bateria: 49
+Rodadas: 374265
+
+SEED 140: 
+v1: 
+Vitorias: 3842 (67.40%)
+Quedas: 1858
+Sem Bateria: 0
+Rodadas: 283147
+v2: 
+Vitorias: 4557 (79.95%)
+Quedas: 1110
+Sem Bateria: 33
+Rodadas: 341361
+
+SEED 141: 
+v1: 
+Vitorias: 3913 (68.65%)
+Quedas: 1787
+Sem Bateria: 0
+Rodadas: 278838
+v2: 
+Vitorias: 4605 (80.79%)
+Quedas: 1046
+Sem Bateria: 49
+Rodadas: 355511
+
+SEED 142: 
+v1: 
+Vitorias: 3763 (66.02%)
+Quedas: 1937
+Sem Bateria: 0
+Rodadas: 282005
+v2: 
+Vitorias: 4548 (79.79%)
+Quedas: 1109
+Sem Bateria: 43
+Rodadas: 354604
+
+SEED 143: 
+v1: 
+Vitorias: 3839 (67.35%)
+Quedas: 1861
+Sem Bateria: 0
+Rodadas: 279583
+v2: 
+Vitorias: 4477 (78.54%)
+Quedas: 1192
+Sem Bateria: 31
+Rodadas: 337226
+
+SEED 144: 
+v1: 
+Vitorias: 3794 (66.56%)
+Quedas: 1906
+Sem Bateria: 0
+Rodadas: 281944
+v2: 
+Vitorias: 4555 (79.91%)
+Quedas: 1101
+Sem Bateria: 44
+Rodadas: 358054
+
+SEED 145: 
+v1: 
+Vitorias: 3836 (67.30%)
+Quedas: 1864
+Sem Bateria: 0
+Rodadas: 283930
+v2: 
+Vitorias: 4501 (78.96%)
+Quedas: 1165
+Sem Bateria: 34
+Rodadas: 348786
+
+SEED 146: 
+v1: 
+Vitorias: 3912 (68.63%)
+Quedas: 1788
+Sem Bateria: 0
+Rodadas: 284572
+v2: 
+Vitorias: 4587 (80.47%)
+Quedas: 1069
+Sem Bateria: 44
+Rodadas: 356866
+
+SEED 147: 
+v1: 
+Vitorias: 3866 (67.82%)
+Quedas: 1834
+Sem Bateria: 0
+Rodadas: 277753
+v2: 
+Vitorias: 4515 (79.21%)
+Quedas: 1151
+Sem Bateria: 34
+Rodadas: 344706
+
+SEED 148: 
+v1: 
+Vitorias: 3953 (69.35%)
+Quedas: 1747
+Sem Bateria: 0
+Rodadas: 282802
+v2: 
+Vitorias: 4584 (80.42%)
+Quedas: 1078
+Sem Bateria: 38
+Rodadas: 347305
+
+SEED 149: 
+v1: 
+Vitorias: 3893 (68.30%)
+Quedas: 1807
+Sem Bateria: 0
+Rodadas: 280582
+v2: 
+Vitorias: 4562 (80.04%)
+Quedas: 1093
+Sem Bateria: 45
+Rodadas: 351977
+
+SEED 150: 
+v1: 
+Vitorias: 3914 (68.67%)
+Quedas: 1786
+Sem Bateria: 0
+Rodadas: 284052
+v2: 
+Vitorias: 4554 (79.89%)
+Quedas: 1091
+Sem Bateria: 55
+Rodadas: 377244
+
+SEED 151: 
+v1: 
+Vitorias: 3956 (69.40%)
+Quedas: 1744
+Sem Bateria: 0
+Rodadas: 285742
+v2: 
+Vitorias: 4616 (80.98%)
+Quedas: 1044
+Sem Bateria: 40
+Rodadas: 357211
+
+SEED 152: 
+v1: 
+Vitorias: 3821 (67.04%)
+Quedas: 1879
+Sem Bateria: 0
+Rodadas: 281625
+v2: 
+Vitorias: 4464 (78.32%)
+Quedas: 1195
+Sem Bateria: 41
+Rodadas: 352290
+
+SEED 153: 
+v1: 
+Vitorias: 3957 (69.42%)
+Quedas: 1743
+Sem Bateria: 0
+Rodadas: 280057
+v2: 
+Vitorias: 4584 (80.42%)
+Quedas: 1072
+Sem Bateria: 44
+Rodadas: 359367
+
+SEED 154: 
+v1: 
+Vitorias: 3963 (69.53%)
+Quedas: 1737
+Sem Bateria: 0
+Rodadas: 282129
+v2: 
+Vitorias: 4603 (80.75%)
+Quedas: 1059
+Sem Bateria: 38
+Rodadas: 343874
+
+SEED 155: 
+v1: 
+Vitorias: 3898 (68.39%)
+Quedas: 1802
+Sem Bateria: 0
+Rodadas: 282920
+v2: 
+Vitorias: 4526 (79.40%)
+Quedas: 1111
+Sem Bateria: 63
+Rodadas: 379673
+
+SEED 156: 
+v1: 
+Vitorias: 3965 (69.56%)
+Quedas: 1735
+Sem Bateria: 0
+Rodadas: 282720
+v2: 
+Vitorias: 4615 (80.96%)
+Quedas: 1052
+Sem Bateria: 33
+Rodadas: 342653
+
+SEED 157: 
+v1: 
+Vitorias: 3922 (68.81%)
+Quedas: 1778
+Sem Bateria: 0
+Rodadas: 284851
+v2: 
+Vitorias: 4507 (79.07%)
+Quedas: 1148
+Sem Bateria: 45
+Rodadas: 360443
+
+SEED 158: 
+v1: 
+Vitorias: 3857 (67.67%)
+Quedas: 1843
+Sem Bateria: 0
+Rodadas: 281814
+v2: 
+Vitorias: 4496 (78.88%)
+Quedas: 1156
+Sem Bateria: 48
+Rodadas: 362850
+
+SEED 159: 
+v1: 
+Vitorias: 3822 (67.05%)
+Quedas: 1878
+Sem Bateria: 0
+Rodadas: 281660
+v2: 
+Vitorias: 4618 (81.02%)
+Quedas: 1028
+Sem Bateria: 54
+Rodadas: 374257
+
+SEED 160: 
+v1: 
+Vitorias: 3924 (68.84%)
+Quedas: 1776
+Sem Bateria: 0
+Rodadas: 280682
+v2: 
+Vitorias: 4561 (80.02%)
+Quedas: 1098
+Sem Bateria: 41
+Rodadas: 352294
+
+SEED 161: 
+v1: 
+Vitorias: 3964 (69.54%)
+Quedas: 1736
+Sem Bateria: 0
+Rodadas: 281406
+v2: 
+Vitorias: 4611 (80.89%)
+Quedas: 1053
+Sem Bateria: 36
+Rodadas: 345157
+
+SEED 162: 
+v1: 
+Vitorias: 3998 (70.14%)
+Quedas: 1702
+Sem Bateria: 0
+Rodadas: 282900
+v2: 
+Vitorias: 4597 (80.65%)
+Quedas: 1053
+Sem Bateria: 50
+Rodadas: 362044
+
+SEED 163: 
+v1: 
+Vitorias: 3846 (67.47%)
+Quedas: 1854
+Sem Bateria: 0
+Rodadas: 283892
+v2: 
+Vitorias: 4513 (79.18%)
+Quedas: 1148
+Sem Bateria: 39
+Rodadas: 351193
+
+SEED 164: 
+v1: 
+Vitorias: 3861 (67.74%)
+Quedas: 1839
+Sem Bateria: 0
+Rodadas: 286116
+v2: 
+Vitorias: 4494 (78.84%)
+Quedas: 1160
+Sem Bateria: 46
+Rodadas: 359073
+
+SEED 165: 
+v1: 
+Vitorias: 4011 (70.37%)
+Quedas: 1689
+Sem Bateria: 0
+Rodadas: 287680
+v2: 
+Vitorias: 4616 (80.98%)
+Quedas: 1040
+Sem Bateria: 44
+Rodadas: 357371
+
+SEED 166: 
+v1: 
+Vitorias: 3916 (68.70%)
+Quedas: 1784
+Sem Bateria: 0
+Rodadas: 278771
+v2: 
+Vitorias: 4574 (80.25%)
+Quedas: 1083
+Sem Bateria: 43
+Rodadas: 356422
+
+SEED 167: 
+v1: 
+Vitorias: 3978 (69.79%)
+Quedas: 1722
+Sem Bateria: 0
+Rodadas: 282504
+v2: 
+Vitorias: 4604 (80.77%)
+Quedas: 1061
+Sem Bateria: 35
+Rodadas: 347098
+
+SEED 168: 
+v1: 
+Vitorias: 3966 (69.58%)
+Quedas: 1734
+Sem Bateria: 0
+Rodadas: 280623
+v2: 
+Vitorias: 4598 (80.67%)
+Quedas: 1054
+Sem Bateria: 48
+Rodadas: 364308
+
+SEED 169: 
+v1: 
+Vitorias: 3953 (69.35%)
+Quedas: 1747
+Sem Bateria: 0
+Rodadas: 279971
+v2: 
+Vitorias: 4615 (80.96%)
+Quedas: 1048
+Sem Bateria: 37
+Rodadas: 346563
+
+SEED 170: 
+v1: 
+Vitorias: 3830 (67.19%)
+Quedas: 1870
+Sem Bateria: 0
+Rodadas: 278826
+v2: 
+Vitorias: 4481 (78.61%)
+Quedas: 1181
+Sem Bateria: 38
+Rodadas: 346345
+
+SEED 171: 
+v1: 
+Vitorias: 3897 (68.37%)
+Quedas: 1803
+Sem Bateria: 0
+Rodadas: 284519
+v2: 
+Vitorias: 4583 (80.40%)
+Quedas: 1080
+Sem Bateria: 37
+Rodadas: 352462
+
+SEED 172: 
+v1: 
+Vitorias: 3960 (69.47%)
+Quedas: 1740
+Sem Bateria: 0
+Rodadas: 281096
+v2: 
+Vitorias: 4587 (80.47%)
+Quedas: 1056
+Sem Bateria: 57
+Rodadas: 371803
+
+SEED 173: 
+v1: 
+Vitorias: 3862 (67.75%)
+Quedas: 1838
+Sem Bateria: 0
+Rodadas: 284213
+v2: 
+Vitorias: 4521 (79.32%)
+Quedas: 1137
+Sem Bateria: 42
+Rodadas: 360538
+
+SEED 174: 
+v1: 
+Vitorias: 3969 (69.63%)
+Quedas: 1731
+Sem Bateria: 0
+Rodadas: 275460
+v2: 
+Vitorias: 4581 (80.37%)
+Quedas: 1090
+Sem Bateria: 29
+Rodadas: 330307
+
+SEED 175: 
+v1: 
+Vitorias: 3874 (67.96%)
+Quedas: 1826
+Sem Bateria: 0
+Rodadas: 279103
+v2: 
+Vitorias: 4547 (79.77%)
+Quedas: 1112
+Sem Bateria: 41
+Rodadas: 348058
+
+SEED 176: 
+v1: 
+Vitorias: 3911 (68.61%)
+Quedas: 1789
+Sem Bateria: 0
+Rodadas: 278905
+v2: 
+Vitorias: 4578 (80.32%)
+Quedas: 1085
+Sem Bateria: 37
+Rodadas: 347661
+
+SEED 177: 
+v1: 
+Vitorias: 3883 (68.12%)
+Quedas: 1817
+Sem Bateria: 0
+Rodadas: 281264
+v2: 
+Vitorias: 4518 (79.26%)
+Quedas: 1133
+Sem Bateria: 49
+Rodadas: 366493
+
+SEED 178: 
+v1: 
+Vitorias: 3841 (67.39%)
+Quedas: 1859
+Sem Bateria: 0
+Rodadas: 284618
+v2: 
+Vitorias: 4433 (77.77%)
+Quedas: 1221
+Sem Bateria: 46
+Rodadas: 356706
+
+SEED 179: 
+v1: 
+Vitorias: 4007 (70.30%)
+Quedas: 1693
+Sem Bateria: 0
+Rodadas: 280814
+v2: 
+Vitorias: 4641 (81.42%)
+Quedas: 1017
+Sem Bateria: 42
+Rodadas: 355265
+
+SEED 180: 
+v1: 
+Vitorias: 3836 (67.30%)
+Quedas: 1864
+Sem Bateria: 0
+Rodadas: 282379
+v2: 
+Vitorias: 4491 (78.79%)
+Quedas: 1167
+Sem Bateria: 42
+Rodadas: 356464
+
+SEED 181: 
+v1: 
+Vitorias: 3804 (66.74%)
+Quedas: 1896
+Sem Bateria: 0
+Rodadas: 280202
+v2: 
+Vitorias: 4520 (79.30%)
+Quedas: 1138
+Sem Bateria: 42
+Rodadas: 355031
+
+SEED 182: 
+v1: 
+Vitorias: 3810 (66.84%)
+Quedas: 1890
+Sem Bateria: 0
+Rodadas: 282473
+v2: 
+Vitorias: 4547 (79.77%)
+Quedas: 1111
+Sem Bateria: 42
+Rodadas: 358201
+
+SEED 183: 
+v1: 
+Vitorias: 3958 (69.44%)
+Quedas: 1742
+Sem Bateria: 0
+Rodadas: 279273
+v2: 
+Vitorias: 4623 (81.11%)
+Quedas: 1031
+Sem Bateria: 46
+Rodadas: 361190
+
+SEED 184: 
+v1: 
+Vitorias: 3890 (68.25%)
+Quedas: 1810
+Sem Bateria: 0
+Rodadas: 281403
+v2: 
+Vitorias: 4567 (80.12%)
+Quedas: 1094
+Sem Bateria: 39
+Rodadas: 350091
+
+SEED 185: 
+v1: 
+Vitorias: 3867 (67.84%)
+Quedas: 1833
+Sem Bateria: 0
+Rodadas: 283963
+v2: 
+Vitorias: 4546 (79.75%)
+Quedas: 1114
+Sem Bateria: 40
+Rodadas: 358953
+
+SEED 186: 
+v1: 
+Vitorias: 3842 (67.40%)
+Quedas: 1858
+Sem Bateria: 0
+Rodadas: 279145
+v2: 
+Vitorias: 4479 (78.58%)
+Quedas: 1190
+Sem Bateria: 31
+Rodadas: 339325
+
+SEED 187: 
+v1: 
+Vitorias: 3981 (69.84%)
+Quedas: 1719
+Sem Bateria: 0
+Rodadas: 286329
+v2: 
+Vitorias: 4605 (80.79%)
+Quedas: 1054
+Sem Bateria: 41
+Rodadas: 360047
+
+SEED 188: 
+v1: 
+Vitorias: 3960 (69.47%)
+Quedas: 1740
+Sem Bateria: 0
+Rodadas: 281053
+v2: 
+Vitorias: 4634 (81.30%)
+Quedas: 1018
+Sem Bateria: 48
+Rodadas: 365356
+
+SEED 189: 
+v1: 
+Vitorias: 3947 (69.25%)
+Quedas: 1753
+Sem Bateria: 0
+Rodadas: 282298
+v2: 
+Vitorias: 4578 (80.32%)
+Quedas: 1078
+Sem Bateria: 44
+Rodadas: 354321
+
+SEED 190: 
+v1: 
+Vitorias: 3912 (68.63%)
+Quedas: 1788
+Sem Bateria: 0
+Rodadas: 281496
+v2: 
+Vitorias: 4536 (79.58%)
+Quedas: 1120
+Sem Bateria: 44
+Rodadas: 359226
+
+SEED 191: 
+v1: 
+Vitorias: 3958 (69.44%)
+Quedas: 1742
+Sem Bateria: 0
+Rodadas: 281077
+v2: 
+Vitorias: 4597 (80.65%)
+Quedas: 1068
+Sem Bateria: 35
+Rodadas: 347462
+
+SEED 192: 
+v1: 
+Vitorias: 3879 (68.05%)
+Quedas: 1821
+Sem Bateria: 0
+Rodadas: 285086
+v2: 
+Vitorias: 4602 (80.74%)
+Quedas: 1056
+Sem Bateria: 42
+Rodadas: 359971
+
+SEED 193: 
+v1: 
+Vitorias: 3856 (67.65%)
+Quedas: 1844
+Sem Bateria: 0
+Rodadas: 285621
+v2: 
+Vitorias: 4493 (78.82%)
+Quedas: 1167
+Sem Bateria: 40
+Rodadas: 358061
+
+SEED 194: 
+v1: 
+Vitorias: 3869 (67.88%)
+Quedas: 1831
+Sem Bateria: 0
+Rodadas: 282751
+v2: 
+Vitorias: 4487 (78.72%)
+Quedas: 1167
+Sem Bateria: 46
+Rodadas: 353443
+
+SEED 195: 
+v1: 
+Vitorias: 3952 (69.33%)
+Quedas: 1748
+Sem Bateria: 0
+Rodadas: 279177
+v2: 
+Vitorias: 4620 (81.05%)
+Quedas: 1034
+Sem Bateria: 46
+Rodadas: 365960
+
+SEED 196: 
+v1: 
+Vitorias: 3794 (66.56%)
+Quedas: 1906
+Sem Bateria: 0
+Rodadas: 280671
+v2: 
+Vitorias: 4475 (78.51%)
+Quedas: 1187
+Sem Bateria: 38
+Rodadas: 345921
+
+SEED 197: 
+v1: 
+Vitorias: 3881 (68.09%)
+Quedas: 1819
+Sem Bateria: 0
+Rodadas: 282203
+v2: 
+Vitorias: 4623 (81.11%)
+Quedas: 1028
+Sem Bateria: 49
+Rodadas: 365894
+
+SEED 198: 
+v1: 
+Vitorias: 3805 (66.75%)
+Quedas: 1895
+Sem Bateria: 0
+Rodadas: 281451
+v2: 
+Vitorias: 4442 (77.93%)
+Quedas: 1219
+Sem Bateria: 39
+Rodadas: 351350
+
+SEED 199: 
+v1: 
+Vitorias: 3951 (69.32%)
+Quedas: 1749
+Sem Bateria: 0
+Rodadas: 283216
+v2: 
+Vitorias: 4635 (81.32%)
+Quedas: 1019
+Sem Bateria: 46
+Rodadas: 369012
+
+SEED 200: 
+v1: 
+Vitorias: 3863 (67.77%)
+Quedas: 1837
+Sem Bateria: 0
+Rodadas: 287685
+v2: 
+Vitorias: 4509 (79.11%)
+Quedas: 1148
+Sem Bateria: 43
+Rodadas: 357426
+
+SEED 201: 
+v1: 
+Vitorias: 3938 (69.09%)
+Quedas: 1762
+Sem Bateria: 0
+Rodadas: 282112
+v2: 
+Vitorias: 4626 (81.16%)
+Quedas: 1025
+Sem Bateria: 49
+Rodadas: 373226
+
+SEED 202: 
+v1: 
+Vitorias: 3904 (68.49%)
+Quedas: 1796
+Sem Bateria: 0
+Rodadas: 273027
+v2: 
+Vitorias: 4543 (79.70%)
+Quedas: 1121
+Sem Bateria: 36
+Rodadas: 339520
+
+SEED 203: 
+v1: 
+Vitorias: 3846 (67.47%)
+Quedas: 1854
+Sem Bateria: 0
+Rodadas: 277890
+v2: 
+Vitorias: 4488 (78.74%)
+Quedas: 1181
+Sem Bateria: 31
+Rodadas: 337956
+
+SEED 204: 
+v1: 
+Vitorias: 3837 (67.32%)
+Quedas: 1863
+Sem Bateria: 0
+Rodadas: 279195
+v2: 
+Vitorias: 4483 (78.65%)
+Quedas: 1171
+Sem Bateria: 46
+Rodadas: 360113
+
+SEED 205: 
+v1: 
+Vitorias: 3862 (67.75%)
+Quedas: 1838
+Sem Bateria: 0
+Rodadas: 281469
+v2: 
+Vitorias: 4590 (80.53%)
+Quedas: 1058
+Sem Bateria: 52
+Rodadas: 370071
+
+SEED 206: 
+v1: 
+Vitorias: 3928 (68.91%)
+Quedas: 1772
+Sem Bateria: 0
+Rodadas: 281158
+v2: 
+Vitorias: 4585 (80.44%)
+Quedas: 1076
+Sem Bateria: 39
+Rodadas: 353310
+
+SEED 207: 
+v1: 
+Vitorias: 3857 (67.67%)
+Quedas: 1843
+Sem Bateria: 0
+Rodadas: 283507
+v2: 
+Vitorias: 4503 (79.00%)
+Quedas: 1153
+Sem Bateria: 44
+Rodadas: 362481
+
+SEED 208: 
+v1: 
+Vitorias: 3856 (67.65%)
+Quedas: 1844
+Sem Bateria: 0
+Rodadas: 281036
+v2: 
+Vitorias: 4475 (78.51%)
+Quedas: 1192
+Sem Bateria: 33
+Rodadas: 340635
+
+SEED 209: 
+v1: 
+Vitorias: 3955 (69.39%)
+Quedas: 1745
+Sem Bateria: 0
+Rodadas: 280849
+v2: 
+Vitorias: 4599 (80.68%)
+Quedas: 1051
+Sem Bateria: 50
+Rodadas: 367954
+
+SEED 210: 
+v1: 
+Vitorias: 3927 (68.89%)
+Quedas: 1773
+Sem Bateria: 0
+Rodadas: 276753
+v2: 
+Vitorias: 4615 (80.96%)
+Quedas: 1056
+Sem Bateria: 29
+Rodadas: 332464
+
+SEED 211: 
+v1: 
+Vitorias: 3869 (67.88%)
+Quedas: 1831
+Sem Bateria: 0
+Rodadas: 281225
+v2: 
+Vitorias: 4523 (79.35%)
+Quedas: 1133
+Sem Bateria: 44
+Rodadas: 357191
+
+SEED 212: 
+v1: 
+Vitorias: 3845 (67.46%)
+Quedas: 1855
+Sem Bateria: 0
+Rodadas: 280572
+v2: 
+Vitorias: 4586 (80.46%)
+Quedas: 1070
+Sem Bateria: 44
+Rodadas: 360788
+
+SEED 213: 
+v1: 
+Vitorias: 3934 (69.02%)
+Quedas: 1766
+Sem Bateria: 0
+Rodadas: 283976
+v2: 
+Vitorias: 4476 (78.53%)
+Quedas: 1179
+Sem Bateria: 45
+Rodadas: 358098
+
+SEED 214: 
+v1: 
+Vitorias: 3842 (67.40%)
+Quedas: 1858
+Sem Bateria: 0
+Rodadas: 280727
+v2: 
+Vitorias: 4474 (78.49%)
+Quedas: 1184
+Sem Bateria: 42
+Rodadas: 349036
+
+SEED 215: 
+v1: 
+Vitorias: 3874 (67.96%)
+Quedas: 1826
+Sem Bateria: 0
+Rodadas: 282385
+v2: 
+Vitorias: 4534 (79.54%)
+Quedas: 1134
+Sem Bateria: 32
+Rodadas: 344617
+
+SEED 216: 
+v1: 
+Vitorias: 3881 (68.09%)
+Quedas: 1819
+Sem Bateria: 0
+Rodadas: 282702
+v2: 
+Vitorias: 4583 (80.40%)
+Quedas: 1075
+Sem Bateria: 42
+Rodadas: 359744
+
+SEED 217: 
+v1: 
+Vitorias: 3863 (67.77%)
+Quedas: 1837
+Sem Bateria: 0
+Rodadas: 280813
+v2: 
+Vitorias: 4502 (78.98%)
+Quedas: 1167
+Sem Bateria: 31
+Rodadas: 344073
+
+SEED 218: 
+v1: 
+Vitorias: 3864 (67.79%)
+Quedas: 1836
+Sem Bateria: 0
+Rodadas: 283972
+v2: 
+Vitorias: 4495 (78.86%)
+Quedas: 1160
+Sem Bateria: 45
+Rodadas: 354715
+
+SEED 219: 
+v1: 
+Vitorias: 3952 (69.33%)
+Quedas: 1748
+Sem Bateria: 0
+Rodadas: 286734
+v2: 
+Vitorias: 4601 (80.72%)
+Quedas: 1059
+Sem Bateria: 40
+Rodadas: 359351
+
+SEED 220: 
+v1: 
+Vitorias: 3819 (67.00%)
+Quedas: 1881
+Sem Bateria: 0
+Rodadas: 281885
+v2: 
+Vitorias: 4453 (78.12%)
+Quedas: 1204
+Sem Bateria: 43
+Rodadas: 356331
+
+SEED 221: 
+v1: 
+Vitorias: 3878 (68.04%)
+Quedas: 1822
+Sem Bateria: 0
+Rodadas: 282043
+v2: 
+Vitorias: 4548 (79.79%)
+Quedas: 1116
+Sem Bateria: 36
+Rodadas: 349662
+
+SEED 222: 
+v1: 
+Vitorias: 3943 (69.18%)
+Quedas: 1757
+Sem Bateria: 0
+Rodadas: 282696
+v2: 
+Vitorias: 4555 (79.91%)
+Quedas: 1104
+Sem Bateria: 41
+Rodadas: 354169
+
+SEED 223: 
+v1: 
+Vitorias: 3839 (67.35%)
+Quedas: 1861
+Sem Bateria: 0
+Rodadas: 286524
+v2: 
+Vitorias: 4499 (78.93%)
+Quedas: 1161
+Sem Bateria: 40
+Rodadas: 358522
+
+SEED 224: 
+v1: 
+Vitorias: 3942 (69.16%)
+Quedas: 1758
+Sem Bateria: 0
+Rodadas: 281256
+v2: 
+Vitorias: 4581 (80.37%)
+Quedas: 1066
+Sem Bateria: 53
+Rodadas: 372387
+
+SEED 225: 
+v1: 
+Vitorias: 3935 (69.04%)
+Quedas: 1765
+Sem Bateria: 0
+Rodadas: 280123
+v2: 
+Vitorias: 4621 (81.07%)
+Quedas: 1039
+Sem Bateria: 40
+Rodadas: 348358
+
+SEED 226: 
+v1: 
+Vitorias: 3933 (69.00%)
+Quedas: 1767
+Sem Bateria: 0
+Rodadas: 279789
+v2: 
+Vitorias: 4601 (80.72%)
+Quedas: 1058
+Sem Bateria: 41
+Rodadas: 356962
+
+SEED 227: 
+v1: 
+Vitorias: 3860 (67.72%)
+Quedas: 1840
+Sem Bateria: 0
+Rodadas: 281099
+v2: 
+Vitorias: 4508 (79.09%)
+Quedas: 1142
+Sem Bateria: 50
+Rodadas: 367839
+
+SEED 228: 
+v1: 
+Vitorias: 4011 (70.37%)
+Quedas: 1689
+Sem Bateria: 0
+Rodadas: 285595
+v2: 
+Vitorias: 4648 (81.54%)
+Quedas: 1016
+Sem Bateria: 36
+Rodadas: 350502
+
+SEED 229: 
+v1: 
+Vitorias: 3929 (68.93%)
+Quedas: 1771
+Sem Bateria: 0
+Rodadas: 285985
+v2: 
+Vitorias: 4570 (80.18%)
+Quedas: 1090
+Sem Bateria: 40
+Rodadas: 358208
+
+SEED 230: 
+v1: 
+Vitorias: 3956 (69.40%)
+Quedas: 1744
+Sem Bateria: 0
+Rodadas: 286677
+v2: 
+Vitorias: 4579 (80.33%)
+Quedas: 1080
+Sem Bateria: 41
+Rodadas: 354921
+
+SEED 231: 
+v1: 
+Vitorias: 3961 (69.49%)
+Quedas: 1739
+Sem Bateria: 0
+Rodadas: 280578
+v2: 
+Vitorias: 4611 (80.89%)
+Quedas: 1036
+Sem Bateria: 53
+Rodadas: 367895
+
+SEED 232: 
+v1: 
+Vitorias: 3919 (68.75%)
+Quedas: 1781
+Sem Bateria: 0
+Rodadas: 282568
+v2: 
+Vitorias: 4535 (79.56%)
+Quedas: 1123
+Sem Bateria: 42
+Rodadas: 349810
+
+SEED 233: 
+v1: 
+Vitorias: 3867 (67.84%)
+Quedas: 1833
+Sem Bateria: 0
+Rodadas: 280697
+v2: 
+Vitorias: 4491 (78.79%)
+Quedas: 1183
+Sem Bateria: 26
+Rodadas: 332464
+
+SEED 234: 
+v1: 
+Vitorias: 3920 (68.77%)
+Quedas: 1780
+Sem Bateria: 0
+Rodadas: 277175
+v2: 
+Vitorias: 4567 (80.12%)
+Quedas: 1090
+Sem Bateria: 43
+Rodadas: 349594
+
+SEED 235: 
+v1: 
+Vitorias: 4015 (70.44%)
+Quedas: 1685
+Sem Bateria: 0
+Rodadas: 284960
+v2: 
+Vitorias: 4649 (81.56%)
+Quedas: 1012
+Sem Bateria: 39
+Rodadas: 355091
+
+SEED 236: 
+v1: 
+Vitorias: 3895 (68.33%)
+Quedas: 1805
+Sem Bateria: 0
+Rodadas: 283133
+v2: 
+Vitorias: 4572 (80.21%)
+Quedas: 1084
+Sem Bateria: 44
+Rodadas: 361134
+
+SEED 237: 
+v1: 
+Vitorias: 3954 (69.37%)
+Quedas: 1746
+Sem Bateria: 0
+Rodadas: 281049
+v2: 
+Vitorias: 4620 (81.05%)
+Quedas: 1033
+Sem Bateria: 47
+Rodadas: 367329
+
+SEED 238: 
+v1: 
+Vitorias: 4000 (70.18%)
+Quedas: 1700
+Sem Bateria: 0
+Rodadas: 277192
+v2: 
+Vitorias: 4591 (80.54%)
+Quedas: 1073
+Sem Bateria: 36
+Rodadas: 349735
+
+SEED 239: 
+v1: 
+Vitorias: 3924 (68.84%)
+Quedas: 1776
+Sem Bateria: 0
+Rodadas: 279656
+v2: 
+Vitorias: 4609 (80.86%)
+Quedas: 1047
+Sem Bateria: 44
+Rodadas: 349558
+
+SEED 240: 
+v1: 
+Vitorias: 3918 (68.74%)
+Quedas: 1782
+Sem Bateria: 0
+Rodadas: 279877
+v2: 
+Vitorias: 4575 (80.26%)
+Quedas: 1079
+Sem Bateria: 46
+Rodadas: 360425
+
+SEED 241: 
+v1: 
+Vitorias: 3874 (67.96%)
+Quedas: 1826
+Sem Bateria: 0
+Rodadas: 276868
+v2: 
+Vitorias: 4569 (80.16%)
+Quedas: 1093
+Sem Bateria: 38
+Rodadas: 355381
+
+SEED 242: 
+v1: 
+Vitorias: 3931 (68.96%)
+Quedas: 1769
+Sem Bateria: 0
+Rodadas: 282967
+v2: 
+Vitorias: 4586 (80.46%)
+Quedas: 1070
+Sem Bateria: 44
+Rodadas: 359612
+
+SEED 243: 
+v1: 
+Vitorias: 3975 (69.74%)
+Quedas: 1725
+Sem Bateria: 0
+Rodadas: 279542
+v2: 
+Vitorias: 4644 (81.47%)
+Quedas: 1017
+Sem Bateria: 39
+Rodadas: 356963
+
+SEED 244: 
+v1: 
+Vitorias: 3804 (66.74%)
+Quedas: 1896
+Sem Bateria: 0
+Rodadas: 278292
+v2: 
+Vitorias: 4568 (80.14%)
+Quedas: 1094
+Sem Bateria: 38
+Rodadas: 344913
+
+SEED 245: 
+v1: 
+Vitorias: 3980 (69.82%)
+Quedas: 1720
+Sem Bateria: 0
+Rodadas: 281767
+v2: 
+Vitorias: 4520 (79.30%)
+Quedas: 1140
+Sem Bateria: 40
+Rodadas: 353979
+
+SEED 246: 
+v1: 
+Vitorias: 3964 (69.54%)
+Quedas: 1736
+Sem Bateria: 0
+Rodadas: 280222
+v2: 
+Vitorias: 4609 (80.86%)
+Quedas: 1041
+Sem Bateria: 50
+Rodadas: 365773
+
+SEED 247: 
+v1: 
+Vitorias: 3891 (68.26%)
+Quedas: 1809
+Sem Bateria: 0
+Rodadas: 283371
+v2: 
+Vitorias: 4571 (80.19%)
+Quedas: 1089
+Sem Bateria: 40
+Rodadas: 359525
+
+SEED 248: 
+v1: 
+Vitorias: 3879 (68.05%)
+Quedas: 1821
+Sem Bateria: 0
+Rodadas: 281151
+v2: 
+Vitorias: 4502 (78.98%)
+Quedas: 1061
+Sem Bateria: 137
+Rodadas: 377630
+
+SEED 249: 
+v1: 
+Vitorias: 3793 (66.54%)
+Quedas: 1907
+Sem Bateria: 0
+Rodadas: 275983
+v2: 
+Vitorias: 4486 (78.70%)
+Quedas: 1172
+Sem Bateria: 42
+Rodadas: 353751
+
+SEED 250: 
+v1: 
+Vitorias: 3956 (69.40%)
+Quedas: 1744
+Sem Bateria: 0
+Rodadas: 280959
+v2: 
+Vitorias: 4558 (79.96%)
+Quedas: 1096
+Sem Bateria: 46
+Rodadas: 354789
+
+SEED 251: 
+v1: 
+Vitorias: 3952 (69.33%)
+Quedas: 1748
+Sem Bateria: 0
+Rodadas: 277396
+v2: 
+Vitorias: 4591 (80.54%)
+Quedas: 1076
+Sem Bateria: 33
+Rodadas: 351174
+
+SEED 252: 
+v1: 
+Vitorias: 3951 (69.32%)
+Quedas: 1749
+Sem Bateria: 0
+Rodadas: 281910
+v2: 
+Vitorias: 4607 (80.82%)
+Quedas: 1054
+Sem Bateria: 39
+Rodadas: 351404
+
+SEED 253: 
+v1: 
+Vitorias: 3956 (69.40%)
+Quedas: 1744
+Sem Bateria: 0
+Rodadas: 282211
+v2: 
+Vitorias: 4611 (80.89%)
+Quedas: 1035
+Sem Bateria: 54
+Rodadas: 370288
+
+SEED 254: 
+v1: 
+Vitorias: 3823 (67.07%)
+Quedas: 1877
+Sem Bateria: 0
+Rodadas: 284278
+v2: 
+Vitorias: 4467 (78.37%)
+Quedas: 1187
+Sem Bateria: 46
+Rodadas: 359299
+
+SEED 255: 
+v1: 
+Vitorias: 3998 (70.14%)
+Quedas: 1702
+Sem Bateria: 0
+Rodadas: 283573
+v2: 
+Vitorias: 4592 (80.56%)
+Quedas: 1061
+Sem Bateria: 47
+Rodadas: 366325
+
+SEED 256: 
+v1: 
+Vitorias: 3968 (69.61%)
+Quedas: 1732
+Sem Bateria: 0
+Rodadas: 284545
+v2: 
+Vitorias: 4585 (80.44%)
+Quedas: 1076
+Sem Bateria: 39
+Rodadas: 354015
+
+SEED 257: 
+v1: 
+Vitorias: 3969 (69.63%)
+Quedas: 1731
+Sem Bateria: 0
+Rodadas: 284157
+v2: 
+Vitorias: 4624 (81.12%)
+Quedas: 1031
+Sem Bateria: 45
+Rodadas: 366289
+
+SEED 258: 
+v1: 
+Vitorias: 3973 (69.70%)
+Quedas: 1727
+Sem Bateria: 0
+Rodadas: 281047
+v2: 
+Vitorias: 4635 (81.32%)
+Quedas: 1032
+Sem Bateria: 33
+Rodadas: 344844
+
+SEED 259: 
+v1: 
+Vitorias: 3934 (69.02%)
+Quedas: 1766
+Sem Bateria: 0
+Rodadas: 280644
+v2: 
+Vitorias: 4619 (81.04%)
+Quedas: 1034
+Sem Bateria: 47
+Rodadas: 359742
+
+SEED 260: 
+v1: 
+Vitorias: 3991 (70.02%)
+Quedas: 1709
+Sem Bateria: 0
+Rodadas: 283907
+v2: 
+Vitorias: 4605 (80.79%)
+Quedas: 1043
+Sem Bateria: 52
+Rodadas: 364743
+
+SEED 261: 
+v1: 
+Vitorias: 3909 (68.58%)
+Quedas: 1791
+Sem Bateria: 0
+Rodadas: 281724
+v2: 
+Vitorias: 4582 (80.39%)
+Quedas: 1073
+Sem Bateria: 45
+Rodadas: 358693
+
+SEED 262: 
+v1: 
+Vitorias: 3909 (68.58%)
+Quedas: 1791
+Sem Bateria: 0
+Rodadas: 282479
+v2: 
+Vitorias: 4557 (79.95%)
+Quedas: 1105
+Sem Bateria: 38
+Rodadas: 347996
+
+SEED 263: 
+v1: 
+Vitorias: 4005 (70.26%)
+Quedas: 1695
+Sem Bateria: 0
+Rodadas: 287765
+v2: 
+Vitorias: 4565 (80.09%)
+Quedas: 1094
+Sem Bateria: 41
+Rodadas: 359499
+
+SEED 264: 
+v1: 
+Vitorias: 3914 (68.67%)
+Quedas: 1786
+Sem Bateria: 0
+Rodadas: 281718
+v2: 
+Vitorias: 4561 (80.02%)
+Quedas: 1104
+Sem Bateria: 35
+Rodadas: 346087
+
+SEED 265: 
+v1: 
+Vitorias: 3832 (67.23%)
+Quedas: 1868
+Sem Bateria: 0
+Rodadas: 279843
+v2: 
+Vitorias: 4599 (80.68%)
+Quedas: 1065
+Sem Bateria: 36
+Rodadas: 352220
+
+SEED 266: 
+v1: 
+Vitorias: 3778 (66.28%)
+Quedas: 1922
+Sem Bateria: 0
+Rodadas: 276516
+v2: 
+Vitorias: 4487 (78.72%)
+Quedas: 1177
+Sem Bateria: 36
+Rodadas: 347035
+
+SEED 267: 
+v1: 
+Vitorias: 3834 (67.26%)
+Quedas: 1866
+Sem Bateria: 0
+Rodadas: 282318
+v2: 
+Vitorias: 4613 (80.93%)
+Quedas: 1049
+Sem Bateria: 38
+Rodadas: 352482
+
+SEED 268: 
+v1: 
+Vitorias: 3897 (68.37%)
+Quedas: 1803
+Sem Bateria: 0
+Rodadas: 282925
+v2: 
+Vitorias: 4565 (80.09%)
+Quedas: 1086
+Sem Bateria: 49
+Rodadas: 371298
+
+SEED 269: 
+v1: 
+Vitorias: 3859 (67.70%)
+Quedas: 1841
+Sem Bateria: 0
+Rodadas: 285527
+v2: 
+Vitorias: 4518 (79.26%)
+Quedas: 1138
+Sem Bateria: 44
+Rodadas: 356574
+
+SEED 270: 
+v1: 
+Vitorias: 3948 (69.26%)
+Quedas: 1752
+Sem Bateria: 0
+Rodadas: 281920
+v2: 
+Vitorias: 4584 (80.42%)
+Quedas: 1074
+Sem Bateria: 42
+Rodadas: 351491
+
+SEED 271: 
+v1: 
+Vitorias: 3809 (66.82%)
+Quedas: 1891
+Sem Bateria: 0
+Rodadas: 281668
+v2: 
+Vitorias: 4485 (78.68%)
+Quedas: 1176
+Sem Bateria: 39
+Rodadas: 359159
+
+SEED 272: 
+v1: 
+Vitorias: 3930 (68.95%)
+Quedas: 1770
+Sem Bateria: 0
+Rodadas: 281389
+v2: 
+Vitorias: 4595 (80.61%)
+Quedas: 1067
+Sem Bateria: 38
+Rodadas: 347419
+
+SEED 273: 
+v1: 
+Vitorias: 3893 (68.30%)
+Quedas: 1807
+Sem Bateria: 0
+Rodadas: 282508
+v2: 
+Vitorias: 4536 (79.58%)
+Quedas: 1124
+Sem Bateria: 40
+Rodadas: 359989
+
+SEED 274: 
+v1: 
+Vitorias: 3949 (69.28%)
+Quedas: 1751
+Sem Bateria: 0
+Rodadas: 282031
+v2: 
+Vitorias: 4579 (80.33%)
+Quedas: 1073
+Sem Bateria: 48
+Rodadas: 357683
+
+SEED 275: 
+v1: 
+Vitorias: 3810 (66.84%)
+Quedas: 1890
+Sem Bateria: 0
+Rodadas: 282579
+v2: 
+Vitorias: 4490 (78.77%)
+Quedas: 1174
+Sem Bateria: 36
+Rodadas: 346167
+
+SEED 276: 
+v1: 
+Vitorias: 3838 (67.33%)
+Quedas: 1862
+Sem Bateria: 0
+Rodadas: 279444
+v2: 
+Vitorias: 4592 (80.56%)
+Quedas: 1067
+Sem Bateria: 41
+Rodadas: 352005
+
+SEED 277: 
+v1: 
+Vitorias: 4021 (70.54%)
+Quedas: 1679
+Sem Bateria: 0
+Rodadas: 281730
+v2: 
+Vitorias: 4500 (78.95%)
+Quedas: 1160
+Sem Bateria: 40
+Rodadas: 350326
+
+SEED 278: 
+v1: 
+Vitorias: 3886 (68.18%)
+Quedas: 1814
+Sem Bateria: 0
+Rodadas: 280344
+v2: 
+Vitorias: 4487 (78.72%)
+Quedas: 1176
+Sem Bateria: 37
+Rodadas: 346188
+
+SEED 279: 
+v1: 
+Vitorias: 3865 (67.81%)
+Quedas: 1835
+Sem Bateria: 0
+Rodadas: 286872
+v2: 
+Vitorias: 4555 (79.91%)
+Quedas: 1096
+Sem Bateria: 49
+Rodadas: 363593
+
+SEED 280: 
+v1: 
+Vitorias: 3927 (68.89%)
+Quedas: 1773
+Sem Bateria: 0
+Rodadas: 280275
+v2: 
+Vitorias: 4600 (80.70%)
+Quedas: 1054
+Sem Bateria: 46
+Rodadas: 362054
+
+SEED 281: 
+v1: 
+Vitorias: 3833 (67.25%)
+Quedas: 1867
+Sem Bateria: 0
+Rodadas: 280806
+v2: 
+Vitorias: 4599 (80.68%)
+Quedas: 1060
+Sem Bateria: 41
+Rodadas: 356348
+
+SEED 282: 
+v1: 
+Vitorias: 3820 (67.02%)
+Quedas: 1880
+Sem Bateria: 0
+Rodadas: 283889
+v2: 
+Vitorias: 4580 (80.35%)
+Quedas: 1075
+Sem Bateria: 45
+Rodadas: 359939
+
+SEED 283: 
+v1: 
+Vitorias: 3862 (67.75%)
+Quedas: 1838
+Sem Bateria: 0
+Rodadas: 283483
+v2: 
+Vitorias: 4615 (80.96%)
+Quedas: 1048
+Sem Bateria: 37
+Rodadas: 346078
+
+SEED 284: 
+v1: 
+Vitorias: 3983 (69.88%)
+Quedas: 1717
+Sem Bateria: 0
+Rodadas: 279463
+v2: 
+Vitorias: 4588 (80.49%)
+Quedas: 1070
+Sem Bateria: 42
+Rodadas: 354388
+
+SEED 285: 
+v1: 
+Vitorias: 3961 (69.49%)
+Quedas: 1739
+Sem Bateria: 0
+Rodadas: 283821
+v2: 
+Vitorias: 4619 (81.04%)
+Quedas: 1043
+Sem Bateria: 38
+Rodadas: 348342
+
+SEED 286: 
+v1: 
+Vitorias: 3820 (67.02%)
+Quedas: 1880
+Sem Bateria: 0
+Rodadas: 280666
+v2: 
+Vitorias: 4578 (80.32%)
+Quedas: 1085
+Sem Bateria: 37
+Rodadas: 347289
+
+SEED 287: 
+v1: 
+Vitorias: 3836 (67.30%)
+Quedas: 1864
+Sem Bateria: 0
+Rodadas: 279406
+v2: 
+Vitorias: 4507 (79.07%)
+Quedas: 1156
+Sem Bateria: 37
+Rodadas: 349246
+
+SEED 288: 
+v1: 
+Vitorias: 3936 (69.05%)
+Quedas: 1764
+Sem Bateria: 0
+Rodadas: 282244
+v2: 
+Vitorias: 4552 (79.86%)
+Quedas: 1090
+Sem Bateria: 58
+Rodadas: 372726
+
+SEED 289: 
+v1: 
+Vitorias: 3809 (66.82%)
+Quedas: 1891
+Sem Bateria: 0
+Rodadas: 279299
+v2: 
+Vitorias: 4499 (78.93%)
+Quedas: 1168
+Sem Bateria: 33
+Rodadas: 341141
+
+SEED 290: 
+v1: 
+Vitorias: 3851 (67.56%)
+Quedas: 1849
+Sem Bateria: 0
+Rodadas: 280305
+v2: 
+Vitorias: 4496 (78.88%)
+Quedas: 1149
+Sem Bateria: 55
+Rodadas: 373690
+
+SEED 291: 
+v1: 
+Vitorias: 3840 (67.37%)
+Quedas: 1860
+Sem Bateria: 0
+Rodadas: 276035
+v2: 
+Vitorias: 4510 (79.12%)
+Quedas: 1143
+Sem Bateria: 47
+Rodadas: 360050
+
+SEED 292: 
+v1: 
+Vitorias: 3936 (69.05%)
+Quedas: 1764
+Sem Bateria: 0
+Rodadas: 279865
+v2: 
+Vitorias: 4581 (80.37%)
+Quedas: 1066
+Sem Bateria: 53
+Rodadas: 371009
+
+SEED 293: 
+v1: 
+Vitorias: 3866 (67.82%)
+Quedas: 1834
+Sem Bateria: 0
+Rodadas: 283080
+v2: 
+Vitorias: 4522 (79.33%)
+Quedas: 1137
+Sem Bateria: 41
+Rodadas: 352740
+
+SEED 294: 
+v1: 
+Vitorias: 3925 (68.86%)
+Quedas: 1775
+Sem Bateria: 0
+Rodadas: 281612
+v2: 
+Vitorias: 4564 (80.07%)
+Quedas: 1095
+Sem Bateria: 41
+Rodadas: 354034
+
+SEED 295: 
+v1: 
+Vitorias: 3864 (67.79%)
+Quedas: 1836
+Sem Bateria: 0
+Rodadas: 280465
+v2: 
+Vitorias: 4615 (80.96%)
+Quedas: 1033
+Sem Bateria: 52
+Rodadas: 368061
+
+SEED 296: 
+v1: 
+Vitorias: 3915 (68.68%)
+Quedas: 1785
+Sem Bateria: 0
+Rodadas: 281745
+v2: 
+Vitorias: 4565 (80.09%)
+Quedas: 1099
+Sem Bateria: 36
+Rodadas: 346418
+
+SEED 297: 
+v1: 
+Vitorias: 3924 (68.84%)
+Quedas: 1776
+Sem Bateria: 0
+Rodadas: 280293
+v2: 
+Vitorias: 4620 (81.05%)
+Quedas: 1038
+Sem Bateria: 42
+Rodadas: 359912
+
+SEED 298: 
+v1: 
+Vitorias: 3847 (67.49%)
+Quedas: 1853
+Sem Bateria: 0
+Rodadas: 282712
+v2: 
+Vitorias: 4480 (78.60%)
+Quedas: 1175
+Sem Bateria: 45
+Rodadas: 360357
+
+SEED 299: 
+v1: 
+Vitorias: 3983 (69.88%)
+Quedas: 1717
+Sem Bateria: 0
+Rodadas: 278028
+v2: 
+Vitorias: 4618 (81.02%)
+Quedas: 1029
+Sem Bateria: 53
+Rodadas: 365503
+
+SEED 300: 
+v1: 
+Vitorias: 3809 (66.82%)
+Quedas: 1891
+Sem Bateria: 0
+Rodadas: 282185
+v2: 
+Vitorias: 4508 (79.09%)
+Quedas: 1154
+Sem Bateria: 38
+Rodadas: 350339
+
+SEED 301: 
+v1: 
+Vitorias: 3777 (66.26%)
+Quedas: 1923
+Sem Bateria: 0
+Rodadas: 277757
+v2: 
+Vitorias: 4494 (78.84%)
+Quedas: 1167
+Sem Bateria: 39
+Rodadas: 351746
+
+SEED 302: 
+v1: 
+Vitorias: 3925 (68.86%)
+Quedas: 1775
+Sem Bateria: 0
+Rodadas: 279473
+v2: 
+Vitorias: 4602 (80.74%)
+Quedas: 1057
+Sem Bateria: 41
+Rodadas: 349978
+
+SEED 303: 
+v1: 
+Vitorias: 3836 (67.30%)
+Quedas: 1864
+Sem Bateria: 0
+Rodadas: 285990
+v2: 
+Vitorias: 4481 (78.61%)
+Quedas: 1162
+Sem Bateria: 57
+Rodadas: 383346
+
+SEED 304: 
+v1: 
+Vitorias: 3904 (68.49%)
+Quedas: 1796
+Sem Bateria: 0
+Rodadas: 280618
+v2: 
+Vitorias: 4583 (80.40%)
+Quedas: 1072
+Sem Bateria: 45
+Rodadas: 351034
+
+SEED 305: 
+v1: 
+Vitorias: 3996 (70.11%)
+Quedas: 1704
+Sem Bateria: 0
+Rodadas: 284391
+v2: 
+Vitorias: 4632 (81.26%)
+Quedas: 1025
+Sem Bateria: 43
+Rodadas: 362081
+
+SEED 306: 
+v1: 
+Vitorias: 3823 (67.07%)
+Quedas: 1877
+Sem Bateria: 0
+Rodadas: 283392
+v2: 
+Vitorias: 4577 (80.30%)
+Quedas: 1084
+Sem Bateria: 39
+Rodadas: 347408
+
+SEED 307: 
+v1: 
+Vitorias: 3921 (68.79%)
+Quedas: 1779
+Sem Bateria: 0
+Rodadas: 284630
+v2: 
+Vitorias: 4603 (80.75%)
+Quedas: 1052
+Sem Bateria: 45
+Rodadas: 367657
+
+SEED 308: 
+v1: 
+Vitorias: 3838 (67.33%)
+Quedas: 1862
+Sem Bateria: 0
+Rodadas: 281994
+v2: 
+Vitorias: 4449 (78.05%)
+Quedas: 1209
+Sem Bateria: 42
+Rodadas: 350451
+
+SEED 309: 
+v1: 
+Vitorias: 3958 (69.44%)
+Quedas: 1742
+Sem Bateria: 0
+Rodadas: 283855
+v2: 
+Vitorias: 4646 (81.51%)
+Quedas: 1005
+Sem Bateria: 49
+Rodadas: 361164
+
+SEED 310: 
+v1: 
+Vitorias: 3939 (69.11%)
+Quedas: 1761
+Sem Bateria: 0
+Rodadas: 281702
+v2: 
+Vitorias: 4462 (78.28%)
+Quedas: 1200
+Sem Bateria: 38
+Rodadas: 347566
+
+SEED 311: 
+v1: 
+Vitorias: 3809 (66.82%)
+Quedas: 1891
+Sem Bateria: 0
+Rodadas: 281364
+v2: 
+Vitorias: 4484 (78.67%)
+Quedas: 1171
+Sem Bateria: 45
+Rodadas: 359366
+
+SEED 312: 
+v1: 
+Vitorias: 3942 (69.16%)
+Quedas: 1758
+Sem Bateria: 0
+Rodadas: 283804
+v2: 
+Vitorias: 4589 (80.51%)
+Quedas: 1069
+Sem Bateria: 42
+Rodadas: 353712
+
+SEED 313: 
+v1: 
+Vitorias: 3815 (66.93%)
+Quedas: 1885
+Sem Bateria: 0
+Rodadas: 280774
+v2: 
+Vitorias: 4567 (80.12%)
+Quedas: 1085
+Sem Bateria: 48
+Rodadas: 364713
+
+SEED 314: 
+v1: 
+Vitorias: 3926 (68.88%)
+Quedas: 1774
+Sem Bateria: 0
+Rodadas: 279466
+v2: 
+Vitorias: 4603 (80.75%)
+Quedas: 1053
+Sem Bateria: 44
+Rodadas: 353175
+
+SEED 315: 
+v1: 
+Vitorias: 3877 (68.02%)
+Quedas: 1823
+Sem Bateria: 0
+Rodadas: 278432
+v2: 
+Vitorias: 4530 (79.47%)
+Quedas: 1129
+Sem Bateria: 41
+Rodadas: 349830
+
+SEED 316: 
+v1: 
+Vitorias: 3907 (68.54%)
+Quedas: 1793
+Sem Bateria: 0
+Rodadas: 283276
+v2: 
+Vitorias: 4514 (79.19%)
+Quedas: 1144
+Sem Bateria: 42
+Rodadas: 349640
+
+SEED 317: 
+v1: 
+Vitorias: 3810 (66.84%)
+Quedas: 1890
+Sem Bateria: 0
+Rodadas: 284470
+v2: 
+Vitorias: 4478 (78.56%)
+Quedas: 1172
+Sem Bateria: 50
+Rodadas: 365633
+
+SEED 318: 
+v1: 
+Vitorias: 3836 (67.30%)
+Quedas: 1864
+Sem Bateria: 0
+Rodadas: 283913
+v2: 
+Vitorias: 4495 (78.86%)
+Quedas: 1158
+Sem Bateria: 47
+Rodadas: 367717
+
+SEED 319: 
+v1: 
+Vitorias: 3860 (67.72%)
+Quedas: 1840
+Sem Bateria: 0
+Rodadas: 285284
+v2: 
+Vitorias: 4524 (79.37%)
+Quedas: 1139
+Sem Bateria: 37
+Rodadas: 351192
+
+SEED 320: 
+v1: 
+Vitorias: 3940 (69.12%)
+Quedas: 1760
+Sem Bateria: 0
+Rodadas: 280390
+v2: 
+Vitorias: 4633 (81.28%)
+Quedas: 1028
+Sem Bateria: 39
+Rodadas: 349304
+
+SEED 321: 
+v1: 
+Vitorias: 3955 (69.39%)
+Quedas: 1745
+Sem Bateria: 0
+Rodadas: 279345
+v2: 
+Vitorias: 4599 (80.68%)
+Quedas: 1051
+Sem Bateria: 50
+Rodadas: 365894
+
+SEED 322: 
+v1: 
+Vitorias: 3845 (67.46%)
+Quedas: 1855
+Sem Bateria: 0
+Rodadas: 282558
+v2: 
+Vitorias: 4485 (78.68%)
+Quedas: 1171
+Sem Bateria: 44
+Rodadas: 350791
+
+SEED 323: 
+v1: 
+Vitorias: 3985 (69.91%)
+Quedas: 1715
+Sem Bateria: 0
+Rodadas: 284998
+v2: 
+Vitorias: 4625 (81.14%)
+Quedas: 1028
+Sem Bateria: 47
+Rodadas: 363451
+
+SEED 324: 
+v1: 
+Vitorias: 3873 (67.95%)
+Quedas: 1827
+Sem Bateria: 0
+Rodadas: 280537
+v2: 
+Vitorias: 4593 (80.58%)
+Quedas: 1060
+Sem Bateria: 47
+Rodadas: 356712
+
+SEED 325: 
+v1: 
+Vitorias: 3811 (66.86%)
+Quedas: 1889
+Sem Bateria: 0
+Rodadas: 281090
+v2: 
+Vitorias: 4502 (78.98%)
+Quedas: 1161
+Sem Bateria: 37
+Rodadas: 348508
+
+SEED 326: 
+v1: 
+Vitorias: 3967 (69.60%)
+Quedas: 1733
+Sem Bateria: 0
+Rodadas: 283731
+v2: 
+Vitorias: 4616 (80.98%)
+Quedas: 1028
+Sem Bateria: 56
+Rodadas: 372214
+
+SEED 327: 
+v1: 
+Vitorias: 3793 (66.54%)
+Quedas: 1907
+Sem Bateria: 0
+Rodadas: 279184
+v2: 
+Vitorias: 4471 (78.44%)
+Quedas: 1193
+Sem Bateria: 36
+Rodadas: 343737
+
+SEED 328: 
+v1: 
+Vitorias: 3929 (68.93%)
+Quedas: 1771
+Sem Bateria: 0
+Rodadas: 281815
+v2: 
+Vitorias: 4571 (80.19%)
+Quedas: 1084
+Sem Bateria: 45
+Rodadas: 357215
+
+SEED 329: 
+v1: 
+Vitorias: 3960 (69.47%)
+Quedas: 1740
+Sem Bateria: 0
+Rodadas: 281772
+v2: 
+Vitorias: 4627 (81.18%)
+Quedas: 1033
+Sem Bateria: 40
+Rodadas: 357999
+
+SEED 330: 
+v1: 
+Vitorias: 3934 (69.02%)
+Quedas: 1766
+Sem Bateria: 0
+Rodadas: 282120
+v2: 
+Vitorias: 4569 (80.16%)
+Quedas: 1079
+Sem Bateria: 52
+Rodadas: 364545
+
+SEED 331: 
+v1: 
+Vitorias: 3911 (68.61%)
+Quedas: 1789
+Sem Bateria: 0
+Rodadas: 280815
+v2: 
+Vitorias: 4602 (80.74%)
+Quedas: 1063
+Sem Bateria: 35
+Rodadas: 344236
+
+SEED 332: 
+v1: 
+Vitorias: 3926 (68.88%)
+Quedas: 1774
+Sem Bateria: 0
+Rodadas: 280157
+v2: 
+Vitorias: 4608 (80.84%)
+Quedas: 1056
+Sem Bateria: 36
+Rodadas: 341550
+
+SEED 333: 
+v1: 
+Vitorias: 3807 (66.79%)
+Quedas: 1893
+Sem Bateria: 0
+Rodadas: 280793
+v2: 
+Vitorias: 4422 (77.58%)
+Quedas: 1233
+Sem Bateria: 45
+Rodadas: 352906
+
+SEED 334: 
+v1: 
+Vitorias: 3985 (69.91%)
+Quedas: 1715
+Sem Bateria: 0
+Rodadas: 278323
+v2: 
+Vitorias: 4602 (80.74%)
+Quedas: 1053
+Sem Bateria: 45
+Rodadas: 354880
+
+SEED 335: 
+v1: 
+Vitorias: 3945 (69.21%)
+Quedas: 1755
+Sem Bateria: 0
+Rodadas: 283934
+v2: 
+Vitorias: 4642 (81.44%)
+Quedas: 1019
+Sem Bateria: 39
+Rodadas: 350510
+
+SEED 336: 
+v1: 
+Vitorias: 3833 (67.25%)
+Quedas: 1867
+Sem Bateria: 0
+Rodadas: 279800
+v2: 
+Vitorias: 4504 (79.02%)
+Quedas: 1159
+Sem Bateria: 37
+Rodadas: 345186
+
+SEED 337: 
+v1: 
+Vitorias: 3841 (67.39%)
+Quedas: 1859
+Sem Bateria: 0
+Rodadas: 282461
+v2: 
+Vitorias: 4498 (78.91%)
+Quedas: 1165
+Sem Bateria: 37
+Rodadas: 350574
+
+SEED 338: 
+v1: 
+Vitorias: 3807 (66.79%)
+Quedas: 1893
+Sem Bateria: 0
+Rodadas: 277417
+v2: 
+Vitorias: 4586 (80.46%)
+Quedas: 1087
+Sem Bateria: 27
+Rodadas: 335154
+
+SEED 339: 
+v1: 
+Vitorias: 3938 (69.09%)
+Quedas: 1762
+Sem Bateria: 0
+Rodadas: 279425
+v2: 
+Vitorias: 4629 (81.21%)
+Quedas: 1018
+Sem Bateria: 53
+Rodadas: 364471
+
+SEED 340: 
+v1: 
+Vitorias: 3946 (69.23%)
+Quedas: 1754
+Sem Bateria: 0
+Rodadas: 283590
+v2: 
+Vitorias: 4568 (80.14%)
+Quedas: 1087
+Sem Bateria: 45
+Rodadas: 358268
+
+SEED 341: 
+v1: 
+Vitorias: 3915 (68.68%)
+Quedas: 1785
+Sem Bateria: 0
+Rodadas: 281763
+v2: 
+Vitorias: 4605 (80.79%)
+Quedas: 1050
+Sem Bateria: 45
+Rodadas: 359447
+
+SEED 342: 
+v1: 
+Vitorias: 3873 (67.95%)
+Quedas: 1827
+Sem Bateria: 0
+Rodadas: 279691
+v2: 
+Vitorias: 4507 (79.07%)
+Quedas: 1145
+Sem Bateria: 48
+Rodadas: 360636
+
+SEED 343: 
+v1: 
+Vitorias: 3846 (67.47%)
+Quedas: 1854
+Sem Bateria: 0
+Rodadas: 283947
+v2: 
+Vitorias: 4496 (78.88%)
+Quedas: 1159
+Sem Bateria: 45
+Rodadas: 361216
+
+SEED 344: 
+v1: 
+Vitorias: 3936 (69.05%)
+Quedas: 1764
+Sem Bateria: 0
+Rodadas: 286445
+v2: 
+Vitorias: 4550 (79.82%)
+Quedas: 1090
+Sem Bateria: 60
+Rodadas: 377854
+
+SEED 345: 
+v1: 
+Vitorias: 3879 (68.05%)
+Quedas: 1821
+Sem Bateria: 0
+Rodadas: 278674
+v2: 
+Vitorias: 4538 (79.61%)
+Quedas: 1111
+Sem Bateria: 51
+Rodadas: 367179
+
+SEED 346: 
+v1: 
+Vitorias: 3882 (68.11%)
+Quedas: 1818
+Sem Bateria: 0
+Rodadas: 280965
+v2: 
+Vitorias: 4543 (79.70%)
+Quedas: 1118
+Sem Bateria: 39
+Rodadas: 356711
+
+SEED 347: 
+v1: 
+Vitorias: 3886 (68.18%)
+Quedas: 1814
+Sem Bateria: 0
+Rodadas: 281029
+v2: 
+Vitorias: 4526 (79.40%)
+Quedas: 1132
+Sem Bateria: 42
+Rodadas: 359993
+
+SEED 348: 
+v1: 
+Vitorias: 3911 (68.61%)
+Quedas: 1789
+Sem Bateria: 0
+Rodadas: 279413
+v2: 
+Vitorias: 4551 (79.84%)
+Quedas: 1100
+Sem Bateria: 49
+Rodadas: 366361
+
+SEED 349: 
+v1: 
+Vitorias: 3836 (67.30%)
+Quedas: 1864
+Sem Bateria: 0
+Rodadas: 284454
+v2: 
+Vitorias: 4503 (79.00%)
+Quedas: 1149
+Sem Bateria: 48
+Rodadas: 366741
+
+SEED 350: 
+v1: 
+Vitorias: 3841 (67.39%)
+Quedas: 1859
+Sem Bateria: 0
+Rodadas: 281893
+v2: 
+Vitorias: 4458 (78.21%)
+Quedas: 1201
+Sem Bateria: 41
+Rodadas: 357046
+
+SEED 351: 
+v1: 
+Vitorias: 3801 (66.68%)
+Quedas: 1899
+Sem Bateria: 0
+Rodadas: 277979
+v2: 
+Vitorias: 4470 (78.42%)
+Quedas: 1177
+Sem Bateria: 53
+Rodadas: 363411
+
+SEED 352: 
+v1: 
+Vitorias: 3836 (67.30%)
+Quedas: 1864
+Sem Bateria: 0
+Rodadas: 278815
+v2: 
+Vitorias: 4475 (78.51%)
+Quedas: 1182
+Sem Bateria: 43
+Rodadas: 351273
+
+SEED 353: 
+v1: 
+Vitorias: 3806 (66.77%)
+Quedas: 1894
+Sem Bateria: 0
+Rodadas: 283264
+v2: 
+Vitorias: 4622 (81.09%)
+Quedas: 1037
+Sem Bateria: 41
+Rodadas: 355460
+
+SEED 354: 
+v1: 
+Vitorias: 3927 (68.89%)
+Quedas: 1773
+Sem Bateria: 0
+Rodadas: 284313
+v2: 
+Vitorias: 4523 (79.35%)
+Quedas: 1132
+Sem Bateria: 45
+Rodadas: 362207
+
+SEED 355: 
+v1: 
+Vitorias: 3845 (67.46%)
+Quedas: 1855
+Sem Bateria: 0
+Rodadas: 282330
+v2: 
+Vitorias: 4478 (78.56%)
+Quedas: 1171
+Sem Bateria: 51
+Rodadas: 370079
+
+SEED 356: 
+v1: 
+Vitorias: 3846 (67.47%)
+Quedas: 1854
+Sem Bateria: 0
+Rodadas: 284695
+v2: 
+Vitorias: 4475 (78.51%)
+Quedas: 1191
+Sem Bateria: 34
+Rodadas: 348484
+
+SEED 357: 
+v1: 
+Vitorias: 3850 (67.54%)
+Quedas: 1850
+Sem Bateria: 0
+Rodadas: 287763
+v2: 
+Vitorias: 4525 (79.39%)
+Quedas: 1125
+Sem Bateria: 50
+Rodadas: 373378
+
+SEED 358: 
+v1: 
+Vitorias: 3896 (68.35%)
+Quedas: 1804
+Sem Bateria: 0
+Rodadas: 282258
+v2: 
+Vitorias: 4529 (79.46%)
+Quedas: 1131
+Sem Bateria: 40
+Rodadas: 347044
+
+SEED 359: 
+v1: 
+Vitorias: 3873 (67.95%)
+Quedas: 1827
+Sem Bateria: 0
+Rodadas: 276356
+v2: 
+Vitorias: 4539 (79.63%)
+Quedas: 1123
+Sem Bateria: 38
+Rodadas: 341039
+
+SEED 360: 
+v1: 
+Vitorias: 3868 (67.86%)
+Quedas: 1832
+Sem Bateria: 0
+Rodadas: 284634
+v2: 
+Vitorias: 4513 (79.18%)
+Quedas: 1143
+Sem Bateria: 44
+Rodadas: 352796
+
+SEED 361: 
+v1: 
+Vitorias: 3925 (68.86%)
+Quedas: 1775
+Sem Bateria: 0
+Rodadas: 277935
+v2: 
+Vitorias: 4605 (80.79%)
+Quedas: 1062
+Sem Bateria: 33
+Rodadas: 341437
+
+SEED 362: 
+v1: 
+Vitorias: 3931 (68.96%)
+Quedas: 1769
+Sem Bateria: 0
+Rodadas: 288035
+v2: 
+Vitorias: 4596 (80.63%)
+Quedas: 1061
+Sem Bateria: 43
+Rodadas: 363301
+
+SEED 363: 
+v1: 
+Vitorias: 3927 (68.89%)
+Quedas: 1773
+Sem Bateria: 0
+Rodadas: 280493
+v2: 
+Vitorias: 4605 (80.79%)
+Quedas: 1051
+Sem Bateria: 44
+Rodadas: 362686
+
+SEED 364: 
+v1: 
+Vitorias: 3919 (68.75%)
+Quedas: 1781
+Sem Bateria: 0
+Rodadas: 281997
+v2: 
+Vitorias: 4537 (79.60%)
+Quedas: 1122
+Sem Bateria: 41
+Rodadas: 348932
+
+SEED 365: 
+v1: 
+Vitorias: 3995 (70.09%)
+Quedas: 1705
+Sem Bateria: 0
+Rodadas: 284238
+v2: 
+Vitorias: 4654 (81.65%)
+Quedas: 988
+Sem Bateria: 58
+Rodadas: 376013
+
+SEED 366: 
+v1: 
+Vitorias: 3780 (66.32%)
+Quedas: 1920
+Sem Bateria: 0
+Rodadas: 281117
+v2: 
+Vitorias: 4492 (78.81%)
+Quedas: 1169
+Sem Bateria: 39
+Rodadas: 352502
+
+SEED 367: 
+v1: 
+Vitorias: 3896 (68.35%)
+Quedas: 1804
+Sem Bateria: 0
+Rodadas: 283169
+v2: 
+Vitorias: 4549 (79.81%)
+Quedas: 1112
+Sem Bateria: 39
+Rodadas: 349858
+
+SEED 368: 
+v1: 
+Vitorias: 3947 (69.25%)
+Quedas: 1753
+Sem Bateria: 0
+Rodadas: 282649
+v2: 
+Vitorias: 4620 (81.05%)
+Quedas: 1041
+Sem Bateria: 39
+Rodadas: 357769
+
+SEED 369: 
+v1: 
+Vitorias: 3874 (67.96%)
+Quedas: 1826
+Sem Bateria: 0
+Rodadas: 280168
+v2: 
+Vitorias: 4579 (80.33%)
+Quedas: 1079
+Sem Bateria: 42
+Rodadas: 356152
+
+SEED 370: 
+v1: 
+Vitorias: 3832 (67.23%)
+Quedas: 1868
+Sem Bateria: 0
+Rodadas: 281407
+v2: 
+Vitorias: 4506 (79.05%)
+Quedas: 1150
+Sem Bateria: 44
+Rodadas: 357188
+
+SEED 371: 
+v1: 
+Vitorias: 3954 (69.37%)
+Quedas: 1746
+Sem Bateria: 0
+Rodadas: 281132
+v2: 
+Vitorias: 4593 (80.58%)
+Quedas: 1072
+Sem Bateria: 35
+Rodadas: 344056
+
+SEED 372: 
+v1: 
+Vitorias: 3866 (67.82%)
+Quedas: 1834
+Sem Bateria: 0
+Rodadas: 284962
+v2: 
+Vitorias: 4500 (78.95%)
+Quedas: 1158
+Sem Bateria: 42
+Rodadas: 351594
+
+SEED 373: 
+v1: 
+Vitorias: 3907 (68.54%)
+Quedas: 1793
+Sem Bateria: 0
+Rodadas: 284243
+v2: 
+Vitorias: 4588 (80.49%)
+Quedas: 1074
+Sem Bateria: 38
+Rodadas: 353082
+
+SEED 374: 
+v1: 
+Vitorias: 3926 (68.88%)
+Quedas: 1774
+Sem Bateria: 0
+Rodadas: 278170
+v2: 
+Vitorias: 4546 (79.75%)
+Quedas: 1111
+Sem Bateria: 43
+Rodadas: 353153
+
+SEED 375: 
+v1: 
+Vitorias: 3958 (69.44%)
+Quedas: 1742
+Sem Bateria: 0
+Rodadas: 280181
+v2: 
+Vitorias: 4627 (81.18%)
+Quedas: 1032
+Sem Bateria: 41
+Rodadas: 350846
+
+SEED 376: 
+v1: 
+Vitorias: 3941 (69.14%)
+Quedas: 1759
+Sem Bateria: 0
+Rodadas: 279441
+v2: 
+Vitorias: 4473 (78.47%)
+Quedas: 1177
+Sem Bateria: 50
+Rodadas: 359686
+
+SEED 377: 
+v1: 
+Vitorias: 3857 (67.67%)
+Quedas: 1843
+Sem Bateria: 0
+Rodadas: 282537
+v2: 
+Vitorias: 4518 (79.26%)
+Quedas: 1143
+Sem Bateria: 39
+Rodadas: 352932
+
+SEED 378: 
+v1: 
+Vitorias: 3954 (69.37%)
+Quedas: 1746
+Sem Bateria: 0
+Rodadas: 278536
+v2: 
+Vitorias: 4600 (80.70%)
+Quedas: 1053
+Sem Bateria: 47
+Rodadas: 358246
+
+SEED 379: 
+v1: 
+Vitorias: 3811 (66.86%)
+Quedas: 1889
+Sem Bateria: 0
+Rodadas: 282914
+v2: 
+Vitorias: 4494 (78.84%)
+Quedas: 1160
+Sem Bateria: 46
+Rodadas: 354432
+
+SEED 380: 
+v1: 
+Vitorias: 3867 (67.84%)
+Quedas: 1833
+Sem Bateria: 0
+Rodadas: 282238
+v2: 
+Vitorias: 4497 (78.89%)
+Quedas: 1163
+Sem Bateria: 40
+Rodadas: 351103
+
+SEED 381: 
+v1: 
+Vitorias: 3958 (69.44%)
+Quedas: 1742
+Sem Bateria: 0
+Rodadas: 284266
+v2: 
+Vitorias: 4634 (81.30%)
+Quedas: 1019
+Sem Bateria: 47
+Rodadas: 365631
+
+SEED 382: 
+v1: 
+Vitorias: 3939 (69.11%)
+Quedas: 1761
+Sem Bateria: 0
+Rodadas: 282728
+v2: 
+Vitorias: 4522 (79.33%)
+Quedas: 1133
+Sem Bateria: 45
+Rodadas: 361501
+
+SEED 383: 
+v1: 
+Vitorias: 3944 (69.19%)
+Quedas: 1756
+Sem Bateria: 0
+Rodadas: 275485
+v2: 
+Vitorias: 4607 (80.82%)
+Quedas: 1048
+Sem Bateria: 45
+Rodadas: 358014
+
+SEED 384: 
+v1: 
+Vitorias: 3922 (68.81%)
+Quedas: 1778
+Sem Bateria: 0
+Rodadas: 275755
+v2: 
+Vitorias: 4584 (80.42%)
+Quedas: 1076
+Sem Bateria: 40
+Rodadas: 352164
+
+SEED 385: 
+v1: 
+Vitorias: 3953 (69.35%)
+Quedas: 1747
+Sem Bateria: 0
+Rodadas: 279426
+v2: 
+Vitorias: 4601 (80.72%)
+Quedas: 1060
+Sem Bateria: 39
+Rodadas: 354070
+
+SEED 386: 
+v1: 
+Vitorias: 3953 (69.35%)
+Quedas: 1747
+Sem Bateria: 0
+Rodadas: 280955
+v2: 
+Vitorias: 4621 (81.07%)
+Quedas: 1033
+Sem Bateria: 46
+Rodadas: 361562
+
+SEED 387: 
+v1: 
+Vitorias: 3939 (69.11%)
+Quedas: 1761
+Sem Bateria: 0
+Rodadas: 278890
+v2: 
+Vitorias: 4589 (80.51%)
+Quedas: 1068
+Sem Bateria: 43
+Rodadas: 350547
+
+SEED 388: 
+v1: 
+Vitorias: 3959 (69.46%)
+Quedas: 1741
+Sem Bateria: 0
+Rodadas: 281509
+v2: 
+Vitorias: 4579 (80.33%)
+Quedas: 1075
+Sem Bateria: 46
+Rodadas: 362848
+
+SEED 389: 
+v1: 
+Vitorias: 3965 (69.56%)
+Quedas: 1735
+Sem Bateria: 0
+Rodadas: 282746
+v2: 
+Vitorias: 4636 (81.33%)
+Quedas: 1012
+Sem Bateria: 52
+Rodadas: 367599
+
+SEED 390: 
+v1: 
+Vitorias: 3882 (68.11%)
+Quedas: 1818
+Sem Bateria: 0
+Rodadas: 286927
+v2: 
+Vitorias: 4494 (78.84%)
+Quedas: 1171
+Sem Bateria: 35
+Rodadas: 347150
+
+SEED 391: 
+v1: 
+Vitorias: 3934 (69.02%)
+Quedas: 1766
+Sem Bateria: 0
+Rodadas: 286808
+v2: 
+Vitorias: 4622 (81.09%)
+Quedas: 1042
+Sem Bateria: 36
+Rodadas: 351458
+
+SEED 392: 
+v1: 
+Vitorias: 3749 (65.77%)
+Quedas: 1951
+Sem Bateria: 0
+Rodadas: 281897
+v2: 
+Vitorias: 4447 (78.02%)
+Quedas: 1207
+Sem Bateria: 46
+Rodadas: 361192
+
+SEED 393: 
+v1: 
+Vitorias: 3937 (69.07%)
+Quedas: 1763
+Sem Bateria: 0
+Rodadas: 284089
+v2: 
+Vitorias: 4582 (80.39%)
+Quedas: 1074
+Sem Bateria: 44
+Rodadas: 353947
+
+SEED 394: 
+v1: 
+Vitorias: 3952 (69.33%)
+Quedas: 1748
+Sem Bateria: 0
+Rodadas: 279385
+v2: 
+Vitorias: 4551 (79.84%)
+Quedas: 1114
+Sem Bateria: 35
+Rodadas: 344014
+
+SEED 395: 
+v1: 
+Vitorias: 3884 (68.14%)
+Quedas: 1816
+Sem Bateria: 0
+Rodadas: 282098
+v2: 
+Vitorias: 4511 (79.14%)
+Quedas: 1147
+Sem Bateria: 42
+Rodadas: 352452
+
+SEED 396: 
+v1: 
+Vitorias: 3846 (67.47%)
+Quedas: 1854
+Sem Bateria: 0
+Rodadas: 281080
+v2: 
+Vitorias: 4627 (81.18%)
+Quedas: 1025
+Sem Bateria: 48
+Rodadas: 366357
+
+SEED 397: 
+v1: 
+Vitorias: 3928 (68.91%)
+Quedas: 1772
+Sem Bateria: 0
+Rodadas: 280262
+v2: 
+Vitorias: 4577 (80.30%)
+Quedas: 1081
+Sem Bateria: 42
+Rodadas: 360175
+
+SEED 398: 
+v1: 
+Vitorias: 3971 (69.67%)
+Quedas: 1729
+Sem Bateria: 0
+Rodadas: 277571
+v2: 
+Vitorias: 4604 (80.77%)
+Quedas: 1058
+Sem Bateria: 38
+Rodadas: 349768
+
+SEED 399: 
+v1: 
+Vitorias: 3854 (67.61%)
+Quedas: 1846
+Sem Bateria: 0
+Rodadas: 281168
+v2: 
+Vitorias: 4520 (79.30%)
+Quedas: 1135
+Sem Bateria: 45
+Rodadas: 357557
+
+SEED 400: 
+v1: 
+Vitorias: 3980 (69.82%)
+Quedas: 1720
+Sem Bateria: 0
+Rodadas: 283435
+v2: 
+Vitorias: 4619 (81.04%)
+Quedas: 1031
+Sem Bateria: 50
+Rodadas: 371611
+
+SEED 401: 
+v1: 
+Vitorias: 3848 (67.51%)
+Quedas: 1852
+Sem Bateria: 0
+Rodadas: 283586
+v2: 
+Vitorias: 4630 (81.23%)
+Quedas: 1034
+Sem Bateria: 36
+Rodadas: 350860
+
+SEED 402: 
+v1: 
+Vitorias: 3839 (67.35%)
+Quedas: 1861
+Sem Bateria: 0
+Rodadas: 281050
+v2: 
+Vitorias: 4494 (78.84%)
+Quedas: 1174
+Sem Bateria: 32
+Rodadas: 346621
+
+SEED 403: 
+v1: 
+Vitorias: 3988 (69.96%)
+Quedas: 1712
+Sem Bateria: 0
+Rodadas: 289362
+v2: 
+Vitorias: 4598 (80.67%)
+Quedas: 1059
+Sem Bateria: 43
+Rodadas: 365175
+
+SEED 404: 
+v1: 
+Vitorias: 3944 (69.19%)
+Quedas: 1756
+Sem Bateria: 0
+Rodadas: 284546
+v2: 
+Vitorias: 4586 (80.46%)
+Quedas: 1076
+Sem Bateria: 38
+Rodadas: 348709
+
+SEED 405: 
+v1: 
+Vitorias: 3770 (66.14%)
+Quedas: 1930
+Sem Bateria: 0
+Rodadas: 278138
+v2: 
+Vitorias: 4501 (78.96%)
+Quedas: 1150
+Sem Bateria: 49
+Rodadas: 364325
+
+SEED 406: 
+v1: 
+Vitorias: 3949 (69.28%)
+Quedas: 1751
+Sem Bateria: 0
+Rodadas: 280797
+v2: 
+Vitorias: 4601 (80.72%)
+Quedas: 1061
+Sem Bateria: 38
+Rodadas: 349315
+
+SEED 407: 
+v1: 
+Vitorias: 3812 (66.88%)
+Quedas: 1888
+Sem Bateria: 0
+Rodadas: 283653
+v2: 
+Vitorias: 4489 (78.75%)
+Quedas: 1161
+Sem Bateria: 50
+Rodadas: 366629
+
+SEED 408: 
+v1: 
+Vitorias: 3821 (67.04%)
+Quedas: 1879
+Sem Bateria: 0
+Rodadas: 289532
+v2: 
+Vitorias: 4485 (78.68%)
+Quedas: 1172
+Sem Bateria: 43
+Rodadas: 365435
+
+SEED 409: 
+v1: 
+Vitorias: 3947 (69.25%)
+Quedas: 1753
+Sem Bateria: 0
+Rodadas: 279343
+v2: 
+Vitorias: 4583 (80.40%)
+Quedas: 1080
+Sem Bateria: 37
+Rodadas: 350897
+
+SEED 410: 
+v1: 
+Vitorias: 3908 (68.56%)
+Quedas: 1792
+Sem Bateria: 0
+Rodadas: 279594
+v2: 
+Vitorias: 4524 (79.37%)
+Quedas: 1136
+Sem Bateria: 40
+Rodadas: 351090
+
+SEED 411: 
+v1: 
+Vitorias: 3869 (67.88%)
+Quedas: 1831
+Sem Bateria: 0
+Rodadas: 285083
+v2: 
+Vitorias: 4607 (80.82%)
+Quedas: 1039
+Sem Bateria: 54
+Rodadas: 368669
+
+SEED 412: 
+v1: 
+Vitorias: 3856 (67.65%)
+Quedas: 1844
+Sem Bateria: 0
+Rodadas: 278371
+v2: 
+Vitorias: 4518 (79.26%)
+Quedas: 1139
+Sem Bateria: 43
+Rodadas: 353354
+
+SEED 413: 
+v1: 
+Vitorias: 3977 (69.77%)
+Quedas: 1723
+Sem Bateria: 0
+Rodadas: 281861
+v2: 
+Vitorias: 4622 (81.09%)
+Quedas: 1051
+Sem Bateria: 27
+Rodadas: 335713
+
+SEED 414: 
+v1: 
+Vitorias: 3946 (69.23%)
+Quedas: 1754
+Sem Bateria: 0
+Rodadas: 281240
+v2: 
+Vitorias: 4612 (80.91%)
+Quedas: 1044
+Sem Bateria: 44
+Rodadas: 353379
+
+SEED 415: 
+v1: 
+Vitorias: 3790 (66.49%)
+Quedas: 1910
+Sem Bateria: 0
+Rodadas: 284553
+v2: 
+Vitorias: 4468 (78.39%)
+Quedas: 1196
+Sem Bateria: 36
+Rodadas: 353576
+
+SEED 416: 
+v1: 
+Vitorias: 3978 (69.79%)
+Quedas: 1722
+Sem Bateria: 0
+Rodadas: 284285
+v2: 
+Vitorias: 4612 (80.91%)
+Quedas: 1038
+Sem Bateria: 50
+Rodadas: 369325
+
+SEED 417: 
+v1: 
+Vitorias: 3839 (67.35%)
+Quedas: 1861
+Sem Bateria: 0
+Rodadas: 281810
+v2: 
+Vitorias: 4491 (78.79%)
+Quedas: 1163
+Sem Bateria: 46
+Rodadas: 365865
+
+SEED 418: 
+v1: 
+Vitorias: 3919 (68.75%)
+Quedas: 1781
+Sem Bateria: 0
+Rodadas: 282607
+v2: 
+Vitorias: 4517 (79.25%)
+Quedas: 1132
+Sem Bateria: 51
+Rodadas: 365678
+
+SEED 419: 
+v1: 
+Vitorias: 3864 (67.79%)
+Quedas: 1836
+Sem Bateria: 0
+Rodadas: 282105
+v2: 
+Vitorias: 4561 (80.02%)
+Quedas: 1088
+Sem Bateria: 51
+Rodadas: 377044
+
+SEED 420: 
+v1: 
+Vitorias: 3848 (67.51%)
+Quedas: 1852
+Sem Bateria: 0
+Rodadas: 281983
+v2: 
+Vitorias: 4602 (80.74%)
+Quedas: 1064
+Sem Bateria: 34
+Rodadas: 343244
+
+SEED 421: 
+v1: 
+Vitorias: 3892 (68.28%)
+Quedas: 1808
+Sem Bateria: 0
+Rodadas: 280645
+v2: 
+Vitorias: 4614 (80.95%)
+Quedas: 1040
+Sem Bateria: 46
+Rodadas: 361007
+
+SEED 422: 
+v1: 
+Vitorias: 3937 (69.07%)
+Quedas: 1763
+Sem Bateria: 0
+Rodadas: 282097
+v2: 
+Vitorias: 4586 (80.46%)
+Quedas: 1074
+Sem Bateria: 40
+Rodadas: 352821
+
+SEED 423: 
+v1: 
+Vitorias: 3860 (67.72%)
+Quedas: 1840
+Sem Bateria: 0
+Rodadas: 280309
+v2: 
+Vitorias: 4515 (79.21%)
+Quedas: 1138
+Sem Bateria: 47
+Rodadas: 366135
+
+SEED 424: 
+v1: 
+Vitorias: 3929 (68.93%)
+Quedas: 1771
+Sem Bateria: 0
+Rodadas: 278029
+v2: 
+Vitorias: 4592 (80.56%)
+Quedas: 1064
+Sem Bateria: 44
+Rodadas: 356928
+
+SEED 425: 
+v1: 
+Vitorias: 3991 (70.02%)
+Quedas: 1709
+Sem Bateria: 0
+Rodadas: 281067
+v2: 
+Vitorias: 4660 (81.75%)
+Quedas: 1006
+Sem Bateria: 34
+Rodadas: 346379
+
+SEED 426: 
+v1: 
+Vitorias: 3780 (66.32%)
+Quedas: 1920
+Sem Bateria: 0
+Rodadas: 279192
+v2: 
+Vitorias: 4576 (80.28%)
+Quedas: 1092
+Sem Bateria: 32
+Rodadas: 342745
+
+SEED 427: 
+v1: 
+Vitorias: 3965 (69.56%)
+Quedas: 1735
+Sem Bateria: 0
+Rodadas: 280421
+v2: 
+Vitorias: 4618 (81.02%)
+Quedas: 1039
+Sem Bateria: 43
+Rodadas: 358587
+
+SEED 428: 
+v1: 
+Vitorias: 3925 (68.86%)
+Quedas: 1775
+Sem Bateria: 0
+Rodadas: 279363
+v2: 
+Vitorias: 4458 (78.21%)
+Quedas: 1204
+Sem Bateria: 38
+Rodadas: 343589
+
+SEED 429: 
+v1: 
+Vitorias: 3804 (66.74%)
+Quedas: 1896
+Sem Bateria: 0
+Rodadas: 280790
+v2: 
+Vitorias: 4480 (78.60%)
+Quedas: 1172
+Sem Bateria: 48
+Rodadas: 361128
+
+SEED 430: 
+v1: 
+Vitorias: 3837 (67.32%)
+Quedas: 1863
+Sem Bateria: 0
+Rodadas: 280449
+v2: 
+Vitorias: 4476 (78.53%)
+Quedas: 1186
+Sem Bateria: 38
+Rodadas: 349283
+
+SEED 431: 
+v1: 
+Vitorias: 3863 (67.77%)
+Quedas: 1837
+Sem Bateria: 0
+Rodadas: 281156
+v2: 
+Vitorias: 4531 (79.49%)
+Quedas: 1131
+Sem Bateria: 38
+Rodadas: 354659
+
+SEED 432: 
+v1: 
+Vitorias: 3941 (69.14%)
+Quedas: 1759
+Sem Bateria: 0
+Rodadas: 281227
+v2: 
+Vitorias: 4581 (80.37%)
+Quedas: 1075
+Sem Bateria: 44
+Rodadas: 359511
+
+SEED 433: 
+v1: 
+Vitorias: 3865 (67.81%)
+Quedas: 1835
+Sem Bateria: 0
+Rodadas: 281510
+v2: 
+Vitorias: 4500 (78.95%)
+Quedas: 1161
+Sem Bateria: 39
+Rodadas: 354682
+
+SEED 434: 
+v1: 
+Vitorias: 3847 (67.49%)
+Quedas: 1853
+Sem Bateria: 0
+Rodadas: 278584
+v2: 
+Vitorias: 4493 (78.82%)
+Quedas: 1160
+Sem Bateria: 47
+Rodadas: 357682
+
+SEED 435: 
+v1: 
+Vitorias: 3959 (69.46%)
+Quedas: 1741
+Sem Bateria: 0
+Rodadas: 280364
+v2: 
+Vitorias: 4601 (80.72%)
+Quedas: 1059
+Sem Bateria: 40
+Rodadas: 350357
+
+SEED 436: 
+v1: 
+Vitorias: 3901 (68.44%)
+Quedas: 1799
+Sem Bateria: 0
+Rodadas: 283602
+v2: 
+Vitorias: 4557 (79.95%)
+Quedas: 1097
+Sem Bateria: 46
+Rodadas: 365786
+
+SEED 437: 
+v1: 
+Vitorias: 3887 (68.19%)
+Quedas: 1813
+Sem Bateria: 0
+Rodadas: 283802
+v2: 
+Vitorias: 4630 (81.23%)
+Quedas: 1029
+Sem Bateria: 41
+Rodadas: 353095
+
+SEED 438: 
+v1: 
+Vitorias: 3921 (68.79%)
+Quedas: 1779
+Sem Bateria: 0
+Rodadas: 285154
+v2: 
+Vitorias: 4533 (79.53%)
+Quedas: 1133
+Sem Bateria: 34
+Rodadas: 348132
+
+SEED 439: 
+v1: 
+Vitorias: 3854 (67.61%)
+Quedas: 1846
+Sem Bateria: 0
+Rodadas: 282976
+v2: 
+Vitorias: 4510 (79.12%)
+Quedas: 1144
+Sem Bateria: 46
+Rodadas: 362652
+
+SEED 440: 
+v1: 
+Vitorias: 3930 (68.95%)
+Quedas: 1770
+Sem Bateria: 0
+Rodadas: 282795
+v2: 
+Vitorias: 4469 (78.40%)
+Quedas: 1193
+Sem Bateria: 38
+Rodadas: 349186
+
+SEED 441: 
+v1: 
+Vitorias: 3944 (69.19%)
+Quedas: 1756
+Sem Bateria: 0
+Rodadas: 283961
+v2: 
+Vitorias: 4632 (81.26%)
+Quedas: 1022
+Sem Bateria: 46
+Rodadas: 365910
+
+SEED 442: 
+v1: 
+Vitorias: 3877 (68.02%)
+Quedas: 1823
+Sem Bateria: 0
+Rodadas: 282020
+v2: 
+Vitorias: 4540 (79.65%)
+Quedas: 1120
+Sem Bateria: 40
+Rodadas: 349108
+
+SEED 443: 
+v1: 
+Vitorias: 3849 (67.53%)
+Quedas: 1851
+Sem Bateria: 0
+Rodadas: 283188
+v2: 
+Vitorias: 4501 (78.96%)
+Quedas: 1160
+Sem Bateria: 39
+Rodadas: 352838
+
+SEED 444: 
+v1: 
+Vitorias: 3961 (69.49%)
+Quedas: 1739
+Sem Bateria: 0
+Rodadas: 285443
+v2: 
+Vitorias: 4587 (80.47%)
+Quedas: 1069
+Sem Bateria: 44
+Rodadas: 356175
+
+SEED 445: 
+v1: 
+Vitorias: 3856 (67.65%)
+Quedas: 1844
+Sem Bateria: 0
+Rodadas: 281542
+v2: 
+Vitorias: 4504 (79.02%)
+Quedas: 1155
+Sem Bateria: 41
+Rodadas: 353674
+
+SEED 446: 
+v1: 
+Vitorias: 3889 (68.23%)
+Quedas: 1811
+Sem Bateria: 0
+Rodadas: 284497
+v2: 
+Vitorias: 4562 (80.04%)
+Quedas: 1103
+Sem Bateria: 35
+Rodadas: 353657
+
+SEED 447: 
+v1: 
+Vitorias: 3921 (68.79%)
+Quedas: 1779
+Sem Bateria: 0
+Rodadas: 281607
+v2: 
+Vitorias: 4597 (80.65%)
+Quedas: 1059
+Sem Bateria: 44
+Rodadas: 360244
+
+SEED 448: 
+v1: 
+Vitorias: 3929 (68.93%)
+Quedas: 1771
+Sem Bateria: 0
+Rodadas: 283018
+v2: 
+Vitorias: 4564 (80.07%)
+Quedas: 1094
+Sem Bateria: 42
+Rodadas: 350795
+
+SEED 449: 
+v1: 
+Vitorias: 3910 (68.60%)
+Quedas: 1790
+Sem Bateria: 0
+Rodadas: 279592
+v2: 
+Vitorias: 4622 (81.09%)
+Quedas: 1037
+Sem Bateria: 41
+Rodadas: 350647
+
+SEED 450: 
+v1: 
+Vitorias: 3937 (69.07%)
+Quedas: 1763
+Sem Bateria: 0
+Rodadas: 282011
+v2: 
+Vitorias: 4586 (80.46%)
+Quedas: 1068
+Sem Bateria: 46
+Rodadas: 362577
+
+SEED 451: 
+v1: 
+Vitorias: 3983 (69.88%)
+Quedas: 1717
+Sem Bateria: 0
+Rodadas: 279659
+v2: 
+Vitorias: 4629 (81.21%)
+Quedas: 1040
+Sem Bateria: 31
+Rodadas: 335796
+
+SEED 452: 
+v1: 
+Vitorias: 3866 (67.82%)
+Quedas: 1834
+Sem Bateria: 0
+Rodadas: 285057
+v2: 
+Vitorias: 4507 (79.07%)
+Quedas: 1140
+Sem Bateria: 53
+Rodadas: 374749
+
+SEED 453: 
+v1: 
+Vitorias: 3858 (67.68%)
+Quedas: 1842
+Sem Bateria: 0
+Rodadas: 285252
+v2: 
+Vitorias: 4476 (78.53%)
+Quedas: 1177
+Sem Bateria: 47
+Rodadas: 366442
+
+SEED 454: 
+v1: 
+Vitorias: 3813 (66.89%)
+Quedas: 1887
+Sem Bateria: 0
+Rodadas: 278670
+v2: 
+Vitorias: 4487 (78.72%)
+Quedas: 1173
+Sem Bateria: 40
+Rodadas: 348653
+
+SEED 455: 
+v1: 
+Vitorias: 3855 (67.63%)
+Quedas: 1845
+Sem Bateria: 0
+Rodadas: 281465
+v2: 
+Vitorias: 4635 (81.32%)
+Quedas: 1020
+Sem Bateria: 45
+Rodadas: 360543
+
+SEED 456: 
+v1: 
+Vitorias: 3849 (67.53%)
+Quedas: 1851
+Sem Bateria: 0
+Rodadas: 280912
+v2: 
+Vitorias: 4470 (78.42%)
+Quedas: 1176
+Sem Bateria: 54
+Rodadas: 368778
+
+SEED 457: 
+v1: 
+Vitorias: 3928 (68.91%)
+Quedas: 1772
+Sem Bateria: 0
+Rodadas: 282709
+v2: 
+Vitorias: 4575 (80.26%)
+Quedas: 1086
+Sem Bateria: 39
+Rodadas: 356780
+
+SEED 458: 
+v1: 
+Vitorias: 3946 (69.23%)
+Quedas: 1754
+Sem Bateria: 0
+Rodadas: 279635
+v2: 
+Vitorias: 4605 (80.79%)
+Quedas: 1049
+Sem Bateria: 46
+Rodadas: 360021
+
+SEED 459: 
+v1: 
+Vitorias: 3932 (68.98%)
+Quedas: 1768
+Sem Bateria: 0
+Rodadas: 288115
+v2: 
+Vitorias: 4612 (80.91%)
+Quedas: 1031
+Sem Bateria: 57
+Rodadas: 385331
+
+SEED 460: 
+v1: 
+Vitorias: 3926 (68.88%)
+Quedas: 1774
+Sem Bateria: 0
+Rodadas: 281167
+v2: 
+Vitorias: 4562 (80.04%)
+Quedas: 1099
+Sem Bateria: 39
+Rodadas: 350060
+
+SEED 461: 
+v1: 
+Vitorias: 3787 (66.44%)
+Quedas: 1913
+Sem Bateria: 0
+Rodadas: 278428
+v2: 
+Vitorias: 4464 (78.32%)
+Quedas: 1190
+Sem Bateria: 46
+Rodadas: 355601
+
+SEED 462: 
+v1: 
+Vitorias: 3956 (69.40%)
+Quedas: 1744
+Sem Bateria: 0
+Rodadas: 280077
+v2: 
+Vitorias: 4577 (80.30%)
+Quedas: 1081
+Sem Bateria: 42
+Rodadas: 358276
+
+SEED 463: 
+v1: 
+Vitorias: 3862 (67.75%)
+Quedas: 1838
+Sem Bateria: 0
+Rodadas: 280149
+v2: 
+Vitorias: 4588 (80.49%)
+Quedas: 1072
+Sem Bateria: 40
+Rodadas: 354761
+
+SEED 464: 
+v1: 
+Vitorias: 3828 (67.16%)
+Quedas: 1872
+Sem Bateria: 0
+Rodadas: 280597
+v2: 
+Vitorias: 4487 (78.72%)
+Quedas: 1169
+Sem Bateria: 44
+Rodadas: 361357
+
+SEED 465: 
+v1: 
+Vitorias: 3953 (69.35%)
+Quedas: 1747
+Sem Bateria: 0
+Rodadas: 281011
+v2: 
+Vitorias: 4625 (81.14%)
+Quedas: 1033
+Sem Bateria: 42
+Rodadas: 351912
+
+SEED 466: 
+v1: 
+Vitorias: 3939 (69.11%)
+Quedas: 1761
+Sem Bateria: 0
+Rodadas: 280722
+v2: 
+Vitorias: 4606 (80.81%)
+Quedas: 1060
+Sem Bateria: 34
+Rodadas: 345595
+
+SEED 467: 
+v1: 
+Vitorias: 3945 (69.21%)
+Quedas: 1755
+Sem Bateria: 0
+Rodadas: 279152
+v2: 
+Vitorias: 4618 (81.02%)
+Quedas: 1034
+Sem Bateria: 48
+Rodadas: 361749
+
+SEED 468: 
+v1: 
+Vitorias: 3824 (67.09%)
+Quedas: 1876
+Sem Bateria: 0
+Rodadas: 280697
+v2: 
+Vitorias: 4573 (80.23%)
+Quedas: 1085
+Sem Bateria: 42
+Rodadas: 352555
+
+SEED 469: 
+v1: 
+Vitorias: 3834 (67.26%)
+Quedas: 1866
+Sem Bateria: 0
+Rodadas: 284979
+v2: 
+Vitorias: 4501 (78.96%)
+Quedas: 1150
+Sem Bateria: 49
+Rodadas: 368835
+
+SEED 470: 
+v1: 
+Vitorias: 3814 (66.91%)
+Quedas: 1886
+Sem Bateria: 0
+Rodadas: 280243
+v2: 
+Vitorias: 4561 (80.02%)
+Quedas: 1087
+Sem Bateria: 52
+Rodadas: 358851
+
+SEED 471: 
+v1: 
+Vitorias: 3795 (66.58%)
+Quedas: 1905
+Sem Bateria: 0
+Rodadas: 275613
+v2: 
+Vitorias: 4497 (78.89%)
+Quedas: 1163
+Sem Bateria: 40
+Rodadas: 351607
+
+SEED 472: 
+v1: 
+Vitorias: 3958 (69.44%)
+Quedas: 1742
+Sem Bateria: 0
+Rodadas: 280308
+v2: 
+Vitorias: 4570 (80.18%)
+Quedas: 1087
+Sem Bateria: 43
+Rodadas: 347879
+
+SEED 473: 
+v1: 
+Vitorias: 3906 (68.53%)
+Quedas: 1794
+Sem Bateria: 0
+Rodadas: 283564
+v2: 
+Vitorias: 4500 (78.95%)
+Quedas: 1171
+Sem Bateria: 29
+Rodadas: 340612
+
+SEED 474: 
+v1: 
+Vitorias: 3943 (69.18%)
+Quedas: 1757
+Sem Bateria: 0
+Rodadas: 281920
+v2: 
+Vitorias: 4617 (81.00%)
+Quedas: 1040
+Sem Bateria: 43
+Rodadas: 354259
+
+SEED 475: 
+v1: 
+Vitorias: 3854 (67.61%)
+Quedas: 1846
+Sem Bateria: 0
+Rodadas: 281468
+v2: 
+Vitorias: 4470 (78.42%)
+Quedas: 1189
+Sem Bateria: 41
+Rodadas: 353285
+
+SEED 476: 
+v1: 
+Vitorias: 3950 (69.30%)
+Quedas: 1750
+Sem Bateria: 0
+Rodadas: 283956
+v2: 
+Vitorias: 4595 (80.61%)
+Quedas: 1075
+Sem Bateria: 30
+Rodadas: 345067
+
+SEED 477: 
+v1: 
+Vitorias: 3917 (68.72%)
+Quedas: 1783
+Sem Bateria: 0
+Rodadas: 282792
+v2: 
+Vitorias: 4600 (80.70%)
+Quedas: 1040
+Sem Bateria: 60
+Rodadas: 379003
+
+SEED 478: 
+v1: 
+Vitorias: 3957 (69.42%)
+Quedas: 1743
+Sem Bateria: 0
+Rodadas: 284724
+v2: 
+Vitorias: 4581 (80.37%)
+Quedas: 1069
+Sem Bateria: 50
+Rodadas: 367883
+
+SEED 479: 
+v1: 
+Vitorias: 3950 (69.30%)
+Quedas: 1750
+Sem Bateria: 0
+Rodadas: 284311
+v2: 
+Vitorias: 4614 (80.95%)
+Quedas: 1044
+Sem Bateria: 42
+Rodadas: 352351
+
+SEED 480: 
+v1: 
+Vitorias: 3867 (67.84%)
+Quedas: 1833
+Sem Bateria: 0
+Rodadas: 280132
+v2: 
+Vitorias: 4515 (79.21%)
+Quedas: 1132
+Sem Bateria: 53
+Rodadas: 367486
+
+SEED 481: 
+v1: 
+Vitorias: 3756 (65.89%)
+Quedas: 1944
+Sem Bateria: 0
+Rodadas: 279285
+v2: 
+Vitorias: 4477 (78.54%)
+Quedas: 1185
+Sem Bateria: 38
+Rodadas: 356059
+
+SEED 482: 
+v1: 
+Vitorias: 3782 (66.35%)
+Quedas: 1918
+Sem Bateria: 0
+Rodadas: 283206
+v2: 
+Vitorias: 4494 (78.84%)
+Quedas: 1164
+Sem Bateria: 42
+Rodadas: 358268
+
+SEED 483: 
+v1: 
+Vitorias: 3923 (68.82%)
+Quedas: 1777
+Sem Bateria: 0
+Rodadas: 279886
+v2: 
+Vitorias: 4590 (80.53%)
+Quedas: 1074
+Sem Bateria: 36
+Rodadas: 348191
+
+SEED 484: 
+v1: 
+Vitorias: 3930 (68.95%)
+Quedas: 1770
+Sem Bateria: 0
+Rodadas: 280872
+v2: 
+Vitorias: 4564 (80.07%)
+Quedas: 1082
+Sem Bateria: 54
+Rodadas: 363199
+
+SEED 485: 
+v1: 
+Vitorias: 3943 (69.18%)
+Quedas: 1757
+Sem Bateria: 0
+Rodadas: 281671
+v2: 
+Vitorias: 4606 (80.81%)
+Quedas: 1055
+Sem Bateria: 39
+Rodadas: 352233
+
+SEED 486: 
+v1: 
+Vitorias: 3792 (66.53%)
+Quedas: 1908
+Sem Bateria: 0
+Rodadas: 281110
+v2: 
+Vitorias: 4584 (80.42%)
+Quedas: 1068
+Sem Bateria: 48
+Rodadas: 362581
+
+SEED 487: 
+v1: 
+Vitorias: 3895 (68.33%)
+Quedas: 1805
+Sem Bateria: 0
+Rodadas: 288345
+v2: 
+Vitorias: 4556 (79.93%)
+Quedas: 1098
+Sem Bateria: 46
+Rodadas: 364068
+
+SEED 488: 
+v1: 
+Vitorias: 3971 (69.67%)
+Quedas: 1729
+Sem Bateria: 0
+Rodadas: 283030
+v2: 
+Vitorias: 4593 (80.58%)
+Quedas: 1064
+Sem Bateria: 43
+Rodadas: 355808
+
+SEED 489: 
+v1: 
+Vitorias: 3885 (68.16%)
+Quedas: 1815
+Sem Bateria: 0
+Rodadas: 278872
+v2: 
+Vitorias: 4566 (80.11%)
+Quedas: 1099
+Sem Bateria: 35
+Rodadas: 346159
+
+SEED 490: 
+v1: 
+Vitorias: 3948 (69.26%)
+Quedas: 1752
+Sem Bateria: 0
+Rodadas: 281732
+v2: 
+Vitorias: 4598 (80.67%)
+Quedas: 1069
+Sem Bateria: 33
+Rodadas: 338013
+
+SEED 491: 
+v1: 
+Vitorias: 3894 (68.32%)
+Quedas: 1806
+Sem Bateria: 0
+Rodadas: 279087
+v2: 
+Vitorias: 4516 (79.23%)
+Quedas: 1146
+Sem Bateria: 38
+Rodadas: 341263
+
+SEED 492: 
+v1: 
+Vitorias: 3923 (68.82%)
+Quedas: 1777
+Sem Bateria: 0
+Rodadas: 279657
+v2: 
+Vitorias: 4555 (79.91%)
+Quedas: 1097
+Sem Bateria: 48
+Rodadas: 361804
+
+SEED 493: 
+v1: 
+Vitorias: 3843 (67.42%)
+Quedas: 1857
+Sem Bateria: 0
+Rodadas: 287654
+v2: 
+Vitorias: 4503 (79.00%)
+Quedas: 1141
+Sem Bateria: 56
+Rodadas: 380259
+
+SEED 494: 
+v1: 
+Vitorias: 3960 (69.47%)
+Quedas: 1740
+Sem Bateria: 0
+Rodadas: 281717
+v2: 
+Vitorias: 4616 (80.98%)
+Quedas: 1038
+Sem Bateria: 46
+Rodadas: 362750
+
+SEED 495: 
+v1: 
+Vitorias: 3922 (68.81%)
+Quedas: 1778
+Sem Bateria: 0
+Rodadas: 288575
+v2: 
+Vitorias: 4578 (80.32%)
+Quedas: 1073
+Sem Bateria: 49
+Rodadas: 365809
+
+SEED 496: 
+v1: 
+Vitorias: 3905 (68.51%)
+Quedas: 1795
+Sem Bateria: 0
+Rodadas: 283411
+v2: 
+Vitorias: 4592 (80.56%)
+Quedas: 1074
+Sem Bateria: 34
+Rodadas: 344805
+
+SEED 497: 
+v1: 
+Vitorias: 3840 (67.37%)
+Quedas: 1860
+Sem Bateria: 0
+Rodadas: 284663
+v2: 
+Vitorias: 4485 (78.68%)
+Quedas: 1166
+Sem Bateria: 49
+Rodadas: 366725
+
+SEED 498: 
+v1: 
+Vitorias: 3987 (69.95%)
+Quedas: 1713
+Sem Bateria: 0
+Rodadas: 280581
+v2: 
+Vitorias: 4589 (80.51%)
+Quedas: 1065
+Sem Bateria: 46
+Rodadas: 351540
+
+SEED 499: 
+v1: 
+Vitorias: 3783 (66.37%)
+Quedas: 1917
+Sem Bateria: 0
+Rodadas: 283484
+v2: 
+Vitorias: 4433 (77.77%)
+Quedas: 1233
+Sem Bateria: 34
+Rodadas: 342533
+
+SEED 500: 
+v1: 
+Vitorias: 3797 (66.61%)
+Quedas: 1903
+Sem Bateria: 0
+Rodadas: 281383
+v2: 
+Vitorias: 4485 (78.68%)
+Quedas: 1171
+Sem Bateria: 44
+Rodadas: 359057
+
+SEED 501: 
+v1: 
+Vitorias: 3898 (68.39%)
+Quedas: 1802
+Sem Bateria: 0
+Rodadas: 280240
+v2: 
+Vitorias: 4548 (79.79%)
+Quedas: 1110
+Sem Bateria: 42
+Rodadas: 353138
+
+SEED 502: 
+v1: 
+Vitorias: 3877 (68.02%)
+Quedas: 1823
+Sem Bateria: 0
+Rodadas: 283135
+v2: 
+Vitorias: 4478 (78.56%)
+Quedas: 1174
+Sem Bateria: 48
+Rodadas: 363046
+
+SEED 503: 
+v1: 
+Vitorias: 3943 (69.18%)
+Quedas: 1757
+Sem Bateria: 0
+Rodadas: 281865
+v2: 
+Vitorias: 4618 (81.02%)
+Quedas: 1036
+Sem Bateria: 46
+Rodadas: 365383
+
+SEED 504: 
+v1: 
+Vitorias: 3846 (67.47%)
+Quedas: 1854
+Sem Bateria: 0
+Rodadas: 283575
+v2: 
+Vitorias: 4569 (80.16%)
+Quedas: 1093
+Sem Bateria: 38
+Rodadas: 343362
+
+SEED 505: 
+v1: 
+Vitorias: 3896 (68.35%)
+Quedas: 1804
+Sem Bateria: 0
+Rodadas: 280384
+v2: 
+Vitorias: 4528 (79.44%)
+Quedas: 1137
+Sem Bateria: 35
+Rodadas: 340689
+
+SEED 506: 
+v1: 
+Vitorias: 3815 (66.93%)
+Quedas: 1885
+Sem Bateria: 0
+Rodadas: 277893
+v2: 
+Vitorias: 4477 (78.54%)
+Quedas: 1177
+Sem Bateria: 46
+Rodadas: 354047
+
+SEED 507: 
+v1: 
+Vitorias: 3969 (69.63%)
+Quedas: 1731
+Sem Bateria: 0
+Rodadas: 282892
+v2: 
+Vitorias: 4608 (80.84%)
+Quedas: 1052
+Sem Bateria: 40
+Rodadas: 351844
+
+SEED 508: 
+v1: 
+Vitorias: 3835 (67.28%)
+Quedas: 1865
+Sem Bateria: 0
+Rodadas: 282285
+v2: 
+Vitorias: 4566 (80.11%)
+Quedas: 1080
+Sem Bateria: 54
+Rodadas: 368791
+
+SEED 509: 
+v1: 
+Vitorias: 3794 (66.56%)
+Quedas: 1906
+Sem Bateria: 0
+Rodadas: 282875
+v2: 
+Vitorias: 4592 (80.56%)
+Quedas: 1063
+Sem Bateria: 45
+Rodadas: 359274
+
+SEED 510: 
+v1: 
+Vitorias: 3913 (68.65%)
+Quedas: 1787
+Sem Bateria: 0
+Rodadas: 278557
+v2: 
+Vitorias: 4598 (80.67%)
+Quedas: 1048
+Sem Bateria: 54
+Rodadas: 376246
+
+SEED 511: 
+v1: 
+Vitorias: 3845 (67.46%)
+Quedas: 1855
+Sem Bateria: 0
+Rodadas: 281409
+v2: 
+Vitorias: 4551 (79.84%)
+Quedas: 1094
+Sem Bateria: 55
+Rodadas: 373758
+
+SEED 512: 
+v1: 
+Vitorias: 3840 (67.37%)
+Quedas: 1860
+Sem Bateria: 0
+Rodadas: 284470
+v2: 
+Vitorias: 4499 (78.93%)
+Quedas: 1144
+Sem Bateria: 57
+Rodadas: 377129
+
+SEED 513: 
+v1: 
+Vitorias: 3845 (67.46%)
+Quedas: 1855
+Sem Bateria: 0
+Rodadas: 279720
+v2: 
+Vitorias: 4495 (78.86%)
+Quedas: 1158
+Sem Bateria: 47
+Rodadas: 356427
+
+SEED 514: 
+v1: 
+Vitorias: 3922 (68.81%)
+Quedas: 1778
+Sem Bateria: 0
+Rodadas: 280351
+v2: 
+Vitorias: 4552 (79.86%)
+Quedas: 1110
+Sem Bateria: 38
+Rodadas: 345911
+
+SEED 515: 
+v1: 
+Vitorias: 3931 (68.96%)
+Quedas: 1769
+Sem Bateria: 0
+Rodadas: 279689
+v2: 
+Vitorias: 4600 (80.70%)
+Quedas: 1058
+Sem Bateria: 42
+Rodadas: 351128
+
+SEED 516: 
+v1: 
+Vitorias: 3929 (68.93%)
+Quedas: 1771
+Sem Bateria: 0
+Rodadas: 279065
+v2: 
+Vitorias: 4581 (80.37%)
+Quedas: 1085
+Sem Bateria: 34
+Rodadas: 338396
+
+SEED 517: 
+v1: 
+Vitorias: 3912 (68.63%)
+Quedas: 1788
+Sem Bateria: 0
+Rodadas: 280158
+v2: 
+Vitorias: 4475 (78.51%)
+Quedas: 1184
+Sem Bateria: 41
+Rodadas: 355063
+
+SEED 518: 
+v1: 
+Vitorias: 3953 (69.35%)
+Quedas: 1747
+Sem Bateria: 0
+Rodadas: 284340
+v2: 
+Vitorias: 4632 (81.26%)
+Quedas: 1031
+Sem Bateria: 37
+Rodadas: 352245
+
+SEED 519: 
+v1: 
+Vitorias: 3937 (69.07%)
+Quedas: 1763
+Sem Bateria: 0
+Rodadas: 277842
+v2: 
+Vitorias: 4600 (80.70%)
+Quedas: 1042
+Sem Bateria: 58
+Rodadas: 371779
+
+SEED 520: 
+v1: 
+Vitorias: 3824 (67.09%)
+Quedas: 1876
+Sem Bateria: 0
+Rodadas: 278718
+v2: 
+Vitorias: 4461 (78.26%)
+Quedas: 1193
+Sem Bateria: 46
+Rodadas: 358840
+
+SEED 521: 
+v1: 
+Vitorias: 3846 (67.47%)
+Quedas: 1854
+Sem Bateria: 0
+Rodadas: 281154
+v2: 
+Vitorias: 4530 (79.47%)
+Quedas: 1029
+Sem Bateria: 141
+Rodadas: 390569
+
+SEED 522: 
+v1: 
+Vitorias: 3768 (66.11%)
+Quedas: 1932
+Sem Bateria: 0
+Rodadas: 282319
+v2: 
+Vitorias: 4473 (78.47%)
+Quedas: 1190
+Sem Bateria: 37
+Rodadas: 345482
+
+SEED 523: 
+v1: 
+Vitorias: 3977 (69.77%)
+Quedas: 1723
+Sem Bateria: 0
+Rodadas: 283207
+v2: 
+Vitorias: 4608 (80.84%)
+Quedas: 1044
+Sem Bateria: 48
+Rodadas: 362178
+
+SEED 524: 
+v1: 
+Vitorias: 3863 (67.77%)
+Quedas: 1837
+Sem Bateria: 0
+Rodadas: 279249
+v2: 
+Vitorias: 4489 (78.75%)
+Quedas: 1166
+Sem Bateria: 45
+Rodadas: 351122
+
+SEED 525: 
+v1: 
+Vitorias: 3945 (69.21%)
+Quedas: 1755
+Sem Bateria: 0
+Rodadas: 281754
+v2: 
+Vitorias: 4631 (81.25%)
+Quedas: 1026
+Sem Bateria: 43
+Rodadas: 356614
+
+SEED 526: 
+v1: 
+Vitorias: 3947 (69.25%)
+Quedas: 1753
+Sem Bateria: 0
+Rodadas: 280130
+v2: 
+Vitorias: 4586 (80.46%)
+Quedas: 1069
+Sem Bateria: 45
+Rodadas: 357418
+
+SEED 527: 
+v1: 
+Vitorias: 3910 (68.60%)
+Quedas: 1790
+Sem Bateria: 0
+Rodadas: 276329
+v2: 
+Vitorias: 4580 (80.35%)
+Quedas: 1080
+Sem Bateria: 40
+Rodadas: 348707
+
+SEED 528: 
+v1: 
+Vitorias: 3945 (69.21%)
+Quedas: 1755
+Sem Bateria: 0
+Rodadas: 287349
+v2: 
+Vitorias: 4567 (80.12%)
+Quedas: 1090
+Sem Bateria: 43
+Rodadas: 355397
+
+SEED 529: 
+v1: 
+Vitorias: 3846 (67.47%)
+Quedas: 1854
+Sem Bateria: 0
+Rodadas: 285659
+v2: 
+Vitorias: 4605 (80.79%)
+Quedas: 1056
+Sem Bateria: 39
+Rodadas: 356603
+
+SEED 530: 
+v1: 
+Vitorias: 3978 (69.79%)
+Quedas: 1722
+Sem Bateria: 0
+Rodadas: 286370
+v2: 
+Vitorias: 4584 (80.42%)
+Quedas: 1070
+Sem Bateria: 46
+Rodadas: 357997
+
+SEED 531: 
+v1: 
+Vitorias: 3851 (67.56%)
+Quedas: 1849
+Sem Bateria: 0
+Rodadas: 281950
+v2: 
+Vitorias: 4518 (79.26%)
+Quedas: 1138
+Sem Bateria: 44
+Rodadas: 365949
+
+SEED 532: 
+v1: 
+Vitorias: 3853 (67.60%)
+Quedas: 1847
+Sem Bateria: 0
+Rodadas: 284192
+v2: 
+Vitorias: 4592 (80.56%)
+Quedas: 1069
+Sem Bateria: 39
+Rodadas: 346511
+
+SEED 533: 
+v1: 
+Vitorias: 3981 (69.84%)
+Quedas: 1719
+Sem Bateria: 0
+Rodadas: 288256
+v2: 
+Vitorias: 4662 (81.79%)
+Quedas: 984
+Sem Bateria: 54
+Rodadas: 373825
+
+SEED 534: 
+v1: 
+Vitorias: 3773 (66.19%)
+Quedas: 1927
+Sem Bateria: 0
+Rodadas: 281363
+v2: 
+Vitorias: 4547 (79.77%)
+Quedas: 1107
+Sem Bateria: 46
+Rodadas: 361330
+
+SEED 535: 
+v1: 
+Vitorias: 3946 (69.23%)
+Quedas: 1754
+Sem Bateria: 0
+Rodadas: 283463
+v2: 
+Vitorias: 4589 (80.51%)
+Quedas: 1064
+Sem Bateria: 47
+Rodadas: 365314
+
+SEED 536: 
+v1: 
+Vitorias: 3996 (70.11%)
+Quedas: 1704
+Sem Bateria: 0
+Rodadas: 282841
+v2: 
+Vitorias: 4595 (80.61%)
+Quedas: 1065
+Sem Bateria: 40
+Rodadas: 357142
+
+SEED 537: 
+v1: 
+Vitorias: 3937 (69.07%)
+Quedas: 1763
+Sem Bateria: 0
+Rodadas: 278798
+v2: 
+Vitorias: 4593 (80.58%)
+Quedas: 1068
+Sem Bateria: 39
+Rodadas: 354897
+
+SEED 538: 
+v1: 
+Vitorias: 3941 (69.14%)
+Quedas: 1759
+Sem Bateria: 0
+Rodadas: 280578
+v2: 
+Vitorias: 4569 (80.16%)
+Quedas: 1092
+Sem Bateria: 39
+Rodadas: 347234
+
+SEED 539: 
+v1: 
+Vitorias: 3857 (67.67%)
+Quedas: 1843
+Sem Bateria: 0
+Rodadas: 278677
+v2: 
+Vitorias: 4485 (78.68%)
+Quedas: 1179
+Sem Bateria: 36
+Rodadas: 341010
+
+SEED 540: 
+v1: 
+Vitorias: 3935 (69.04%)
+Quedas: 1765
+Sem Bateria: 0
+Rodadas: 283176
+v2: 
+Vitorias: 4598 (80.67%)
+Quedas: 1052
+Sem Bateria: 50
+Rodadas: 360988
+
+SEED 541: 
+v1: 
+Vitorias: 3776 (66.25%)
+Quedas: 1924
+Sem Bateria: 0
+Rodadas: 282902
+v2: 
+Vitorias: 4471 (78.44%)
+Quedas: 1185
+Sem Bateria: 44
+Rodadas: 363370
+
+SEED 542: 
+v1: 
+Vitorias: 3832 (67.23%)
+Quedas: 1868
+Sem Bateria: 0
+Rodadas: 283993
+v2: 
+Vitorias: 4490 (78.77%)
+Quedas: 1173
+Sem Bateria: 37
+Rodadas: 349269
+
+SEED 543: 
+v1: 
+Vitorias: 3905 (68.51%)
+Quedas: 1795
+Sem Bateria: 0
+Rodadas: 284210
+v2: 
+Vitorias: 4619 (81.04%)
+Quedas: 1040
+Sem Bateria: 41
+Rodadas: 354225
+
+SEED 544: 
+v1: 
+Vitorias: 3825 (67.11%)
+Quedas: 1875
+Sem Bateria: 0
+Rodadas: 276062
+v2: 
+Vitorias: 4462 (78.28%)
+Quedas: 1198
+Sem Bateria: 40
+Rodadas: 346418
+
+SEED 545: 
+v1: 
+Vitorias: 3971 (69.67%)
+Quedas: 1729
+Sem Bateria: 0
+Rodadas: 284830
+v2: 
+Vitorias: 4630 (81.23%)
+Quedas: 1035
+Sem Bateria: 35
+Rodadas: 346547
+
+SEED 546: 
+v1: 
+Vitorias: 3983 (69.88%)
+Quedas: 1717
+Sem Bateria: 0
+Rodadas: 277939
+v2: 
+Vitorias: 4594 (80.60%)
+Quedas: 1055
+Sem Bateria: 51
+Rodadas: 365394
+
+SEED 547: 
+v1: 
+Vitorias: 3897 (68.37%)
+Quedas: 1803
+Sem Bateria: 0
+Rodadas: 284604
+v2: 
+Vitorias: 4474 (78.49%)
+Quedas: 1190
+Sem Bateria: 36
+Rodadas: 341782
+
+SEED 548: 
+v1: 
+Vitorias: 3933 (69.00%)
+Quedas: 1767
+Sem Bateria: 0
+Rodadas: 280678
+v2: 
+Vitorias: 4581 (80.37%)
+Quedas: 1086
+Sem Bateria: 33
+Rodadas: 344669
+
+SEED 549: 
+v1: 
+Vitorias: 3797 (66.61%)
+Quedas: 1903
+Sem Bateria: 0
+Rodadas: 277272
+v2: 
+Vitorias: 4496 (78.88%)
+Quedas: 1155
+Sem Bateria: 49
+Rodadas: 361208
+
+SEED 550: 
+v1: 
+Vitorias: 3964 (69.54%)
+Quedas: 1736
+Sem Bateria: 0
+Rodadas: 281940
+v2: 
+Vitorias: 4541 (79.67%)
+Quedas: 1112
+Sem Bateria: 47
+Rodadas: 359903
+
+SEED 551: 
+v1: 
+Vitorias: 3850 (67.54%)
+Quedas: 1850
+Sem Bateria: 0
+Rodadas: 277880
+v2: 
+Vitorias: 4509 (79.11%)
+Quedas: 1149
+Sem Bateria: 42
+Rodadas: 349729
+
+SEED 552: 
+v1: 
+Vitorias: 3819 (67.00%)
+Quedas: 1881
+Sem Bateria: 0
+Rodadas: 285661
+v2: 
+Vitorias: 4520 (79.30%)
+Quedas: 1138
+Sem Bateria: 42
+Rodadas: 358058
+
+SEED 553: 
+v1: 
+Vitorias: 3954 (69.37%)
+Quedas: 1746
+Sem Bateria: 0
+Rodadas: 278604
+v2: 
+Vitorias: 4607 (80.82%)
+Quedas: 1062
+Sem Bateria: 31
+Rodadas: 338578
+
+SEED 554: 
+v1: 
+Vitorias: 3937 (69.07%)
+Quedas: 1763
+Sem Bateria: 0
+Rodadas: 279040
+v2: 
+Vitorias: 4608 (80.84%)
+Quedas: 1044
+Sem Bateria: 48
+Rodadas: 360457
+
+SEED 555: 
+v1: 
+Vitorias: 3842 (67.40%)
+Quedas: 1858
+Sem Bateria: 0
+Rodadas: 283488
+v2: 
+Vitorias: 4458 (78.21%)
+Quedas: 1195
+Sem Bateria: 47
+Rodadas: 362418
+
+SEED 556: 
+v1: 
+Vitorias: 3945 (69.21%)
+Quedas: 1755
+Sem Bateria: 0
+Rodadas: 281535
+v2: 
+Vitorias: 4594 (80.60%)
+Quedas: 1069
+Sem Bateria: 37
+Rodadas: 350446
+
+SEED 557: 
+v1: 
+Vitorias: 3946 (69.23%)
+Quedas: 1754
+Sem Bateria: 0
+Rodadas: 285071
+v2: 
+Vitorias: 4615 (80.96%)
+Quedas: 1042
+Sem Bateria: 43
+Rodadas: 361473
+
+SEED 558: 
+v1: 
+Vitorias: 3955 (69.39%)
+Quedas: 1745
+Sem Bateria: 0
+Rodadas: 278405
+v2: 
+Vitorias: 4593 (80.58%)
+Quedas: 1070
+Sem Bateria: 37
+Rodadas: 340176
+
+SEED 559: 
+v1: 
+Vitorias: 3945 (69.21%)
+Quedas: 1755
+Sem Bateria: 0
+Rodadas: 282208
+v2: 
+Vitorias: 4502 (78.98%)
+Quedas: 1167
+Sem Bateria: 31
+Rodadas: 343784
+
+SEED 560: 
+v1: 
+Vitorias: 3829 (67.18%)
+Quedas: 1871
+Sem Bateria: 0
+Rodadas: 278740
+v2: 
+Vitorias: 4499 (78.93%)
+Quedas: 1157
+Sem Bateria: 44
+Rodadas: 355576
+
+SEED 561: 
+v1: 
+Vitorias: 3825 (67.11%)
+Quedas: 1875
+Sem Bateria: 0
+Rodadas: 281604
+v2: 
+Vitorias: 4464 (78.32%)
+Quedas: 1195
+Sem Bateria: 41
+Rodadas: 355618
+
+SEED 562: 
+v1: 
+Vitorias: 3808 (66.81%)
+Quedas: 1892
+Sem Bateria: 0
+Rodadas: 282995
+v2: 
+Vitorias: 4480 (78.60%)
+Quedas: 1178
+Sem Bateria: 42
+Rodadas: 357802
+
+SEED 563: 
+v1: 
+Vitorias: 3828 (67.16%)
+Quedas: 1872
+Sem Bateria: 0
+Rodadas: 280486
+v2: 
+Vitorias: 4570 (80.18%)
+Quedas: 1088
+Sem Bateria: 42
+Rodadas: 356956
+
+SEED 564: 
+v1: 
+Vitorias: 3964 (69.54%)
+Quedas: 1736
+Sem Bateria: 0
+Rodadas: 279173
+v2: 
+Vitorias: 4616 (80.98%)
+Quedas: 1050
+Sem Bateria: 34
+Rodadas: 343765
+
+SEED 565: 
+v1: 
+Vitorias: 3884 (68.14%)
+Quedas: 1816
+Sem Bateria: 0
+Rodadas: 288257
+v2: 
+Vitorias: 4525 (79.39%)
+Quedas: 1133
+Sem Bateria: 42
+Rodadas: 366768
+
+SEED 566: 
+v1: 
+Vitorias: 3840 (67.37%)
+Quedas: 1860
+Sem Bateria: 0
+Rodadas: 280074
+v2: 
+Vitorias: 4501 (78.96%)
+Quedas: 1161
+Sem Bateria: 38
+Rodadas: 351297
+
+SEED 567: 
+v1: 
+Vitorias: 3914 (68.67%)
+Quedas: 1786
+Sem Bateria: 0
+Rodadas: 279252
+v2: 
+Vitorias: 4533 (79.53%)
+Quedas: 1127
+Sem Bateria: 40
+Rodadas: 352342
+
+SEED 568: 
+v1: 
+Vitorias: 3867 (67.84%)
+Quedas: 1833
+Sem Bateria: 0
+Rodadas: 279318
+v2: 
+Vitorias: 4490 (78.77%)
+Quedas: 1151
+Sem Bateria: 59
+Rodadas: 379437
+
+SEED 569: 
+v1: 
+Vitorias: 3815 (66.93%)
+Quedas: 1885
+Sem Bateria: 0
+Rodadas: 286039
+v2: 
+Vitorias: 4586 (80.46%)
+Quedas: 1063
+Sem Bateria: 51
+Rodadas: 368357
+
+SEED 570: 
+v1: 
+Vitorias: 3963 (69.53%)
+Quedas: 1737
+Sem Bateria: 0
+Rodadas: 278808
+v2: 
+Vitorias: 4613 (80.93%)
+Quedas: 1050
+Sem Bateria: 37
+Rodadas: 349443
+
+SEED 571: 
+v1: 
+Vitorias: 3953 (69.35%)
+Quedas: 1747
+Sem Bateria: 0
+Rodadas: 280261
+v2: 
+Vitorias: 4556 (79.93%)
+Quedas: 1097
+Sem Bateria: 47
+Rodadas: 360284
+
+SEED 572: 
+v1: 
+Vitorias: 3905 (68.51%)
+Quedas: 1795
+Sem Bateria: 0
+Rodadas: 280421
+v2: 
+Vitorias: 4599 (80.68%)
+Quedas: 1053
+Sem Bateria: 48
+Rodadas: 361852
+
+SEED 573: 
+v1: 
+Vitorias: 3766 (66.07%)
+Quedas: 1934
+Sem Bateria: 0
+Rodadas: 281657
+v2: 
+Vitorias: 4467 (78.37%)
+Quedas: 1174
+Sem Bateria: 59
+Rodadas: 379189
+
+SEED 574: 
+v1: 
+Vitorias: 3955 (69.39%)
+Quedas: 1745
+Sem Bateria: 0
+Rodadas: 280582
+v2: 
+Vitorias: 4606 (80.81%)
+Quedas: 1044
+Sem Bateria: 50
+Rodadas: 366696
+
+SEED 575: 
+v1: 
+Vitorias: 3971 (69.67%)
+Quedas: 1729
+Sem Bateria: 0
+Rodadas: 278913
+v2: 
+Vitorias: 4630 (81.23%)
+Quedas: 1021
+Sem Bateria: 49
+Rodadas: 366778
+
+SEED 576: 
+v1: 
+Vitorias: 3940 (69.12%)
+Quedas: 1760
+Sem Bateria: 0
+Rodadas: 282053
+v2: 
+Vitorias: 4569 (80.16%)
+Quedas: 1081
+Sem Bateria: 50
+Rodadas: 367943
+
+SEED 577: 
+v1: 
+Vitorias: 3807 (66.79%)
+Quedas: 1893
+Sem Bateria: 0
+Rodadas: 280508
+v2: 
+Vitorias: 4486 (78.70%)
+Quedas: 1182
+Sem Bateria: 32
+Rodadas: 344970
+
+SEED 578: 
+v1: 
+Vitorias: 3980 (69.82%)
+Quedas: 1720
+Sem Bateria: 0
+Rodadas: 284790
+v2: 
+Vitorias: 4600 (80.70%)
+Quedas: 1058
+Sem Bateria: 42
+Rodadas: 355533
+
+SEED 579: 
+v1: 
+Vitorias: 3805 (66.75%)
+Quedas: 1895
+Sem Bateria: 0
+Rodadas: 283397
+v2: 
+Vitorias: 4606 (80.81%)
+Quedas: 1044
+Sem Bateria: 50
+Rodadas: 367754
+
+SEED 580: 
+v1: 
+Vitorias: 3854 (67.61%)
+Quedas: 1846
+Sem Bateria: 0
+Rodadas: 279136
+v2: 
+Vitorias: 4490 (78.77%)
+Quedas: 1179
+Sem Bateria: 31
+Rodadas: 336650
+
+SEED 581: 
+v1: 
+Vitorias: 3849 (67.53%)
+Quedas: 1851
+Sem Bateria: 0
+Rodadas: 279733
+v2: 
+Vitorias: 4530 (79.47%)
+Quedas: 1139
+Sem Bateria: 31
+Rodadas: 341152
+
+SEED 582: 
+v1: 
+Vitorias: 3947 (69.25%)
+Quedas: 1753
+Sem Bateria: 0
+Rodadas: 282285
+v2: 
+Vitorias: 4583 (80.40%)
+Quedas: 1077
+Sem Bateria: 40
+Rodadas: 349309
+
+SEED 583: 
+v1: 
+Vitorias: 3971 (69.67%)
+Quedas: 1729
+Sem Bateria: 0
+Rodadas: 283536
+v2: 
+Vitorias: 4580 (80.35%)
+Quedas: 1083
+Sem Bateria: 37
+Rodadas: 348163
+
+SEED 584: 
+v1: 
+Vitorias: 3873 (67.95%)
+Quedas: 1827
+Sem Bateria: 0
+Rodadas: 282290
+v2: 
+Vitorias: 4511 (79.14%)
+Quedas: 1148
+Sem Bateria: 41
+Rodadas: 352749
+
+SEED 585: 
+v1: 
+Vitorias: 3846 (67.47%)
+Quedas: 1854
+Sem Bateria: 0
+Rodadas: 286046
+v2: 
+Vitorias: 4484 (78.67%)
+Quedas: 1179
+Sem Bateria: 37
+Rodadas: 353643
+
+SEED 586: 
+v1: 
+Vitorias: 3851 (67.56%)
+Quedas: 1849
+Sem Bateria: 0
+Rodadas: 278160
+v2: 
+Vitorias: 4492 (78.81%)
+Quedas: 1172
+Sem Bateria: 36
+Rodadas: 343033
+
+SEED 587: 
+v1: 
+Vitorias: 3801 (66.68%)
+Quedas: 1899
+Sem Bateria: 0
+Rodadas: 281735
+v2: 
+Vitorias: 4514 (79.19%)
+Quedas: 1141
+Sem Bateria: 45
+Rodadas: 365616
+
+SEED 588: 
+v1: 
+Vitorias: 3843 (67.42%)
+Quedas: 1857
+Sem Bateria: 0
+Rodadas: 284517
+v2: 
+Vitorias: 4470 (78.42%)
+Quedas: 1186
+Sem Bateria: 44
+Rodadas: 362388
+
+SEED 589: 
+v1: 
+Vitorias: 3824 (67.09%)
+Quedas: 1876
+Sem Bateria: 0
+Rodadas: 282508
+v2: 
+Vitorias: 4484 (78.67%)
+Quedas: 1183
+Sem Bateria: 33
+Rodadas: 345119
+
+SEED 590: 
+v1: 
+Vitorias: 3852 (67.58%)
+Quedas: 1848
+Sem Bateria: 0
+Rodadas: 281204
+v2: 
+Vitorias: 4492 (78.81%)
+Quedas: 1168
+Sem Bateria: 40
+Rodadas: 353472
+
+SEED 591: 
+v1: 
+Vitorias: 3973 (69.70%)
+Quedas: 1727
+Sem Bateria: 0
+Rodadas: 279265
+v2: 
+Vitorias: 4640 (81.40%)
+Quedas: 1023
+Sem Bateria: 37
+Rodadas: 344601
+
+SEED 592: 
+v1: 
+Vitorias: 3974 (69.72%)
+Quedas: 1726
+Sem Bateria: 0
+Rodadas: 281151
+v2: 
+Vitorias: 4601 (80.72%)
+Quedas: 1054
+Sem Bateria: 45
+Rodadas: 353971
+
+SEED 593: 
+v1: 
+Vitorias: 3896 (68.35%)
+Quedas: 1804
+Sem Bateria: 0
+Rodadas: 280132
+v2: 
+Vitorias: 4519 (79.28%)
+Quedas: 1142
+Sem Bateria: 39
+Rodadas: 351239
+
+SEED 594: 
+v1: 
+Vitorias: 3782 (66.35%)
+Quedas: 1918
+Sem Bateria: 0
+Rodadas: 280522
+v2: 
+Vitorias: 4459 (78.23%)
+Quedas: 1202
+Sem Bateria: 39
+Rodadas: 348131
+
+SEED 595: 
+v1: 
+Vitorias: 3974 (69.72%)
+Quedas: 1726
+Sem Bateria: 0
+Rodadas: 280329
+v2: 
+Vitorias: 4599 (80.68%)
+Quedas: 1062
+Sem Bateria: 39
+Rodadas: 350613
+
+SEED 596: 
+v1: 
+Vitorias: 3956 (69.40%)
+Quedas: 1744
+Sem Bateria: 0
+Rodadas: 281171
+v2: 
+Vitorias: 4595 (80.61%)
+Quedas: 1065
+Sem Bateria: 40
+Rodadas: 349907
+
+SEED 597: 
+v1: 
+Vitorias: 3850 (67.54%)
+Quedas: 1850
+Sem Bateria: 0
+Rodadas: 280358
+v2: 
+Vitorias: 4497 (78.89%)
+Quedas: 1172
+Sem Bateria: 31
+Rodadas: 338285
+
+SEED 598: 
+v1: 
+Vitorias: 3842 (67.40%)
+Quedas: 1858
+Sem Bateria: 0
+Rodadas: 282492
+v2: 
+Vitorias: 4575 (80.26%)
+Quedas: 1087
+Sem Bateria: 38
+Rodadas: 350337
+
+SEED 599: 
+v1: 
+Vitorias: 3952 (69.33%)
+Quedas: 1748
+Sem Bateria: 0
+Rodadas: 281792
+v2: 
+Vitorias: 4626 (81.16%)
+Quedas: 1034
+Sem Bateria: 40
+Rodadas: 353770
+
+SEED 600: 
+v1: 
+Vitorias: 3853 (67.60%)
+Quedas: 1847
+Sem Bateria: 0
+Rodadas: 281769
+v2: 
+Vitorias: 4496 (78.88%)
+Quedas: 1168
+Sem Bateria: 36
+Rodadas: 347383
+
+SEED 601: 
+v1: 
+Vitorias: 3893 (68.30%)
+Quedas: 1807
+Sem Bateria: 0
+Rodadas: 283644
+v2: 
+Vitorias: 4611 (80.89%)
+Quedas: 1047
+Sem Bateria: 42
+Rodadas: 364570
+
+SEED 602: 
+v1: 
+Vitorias: 3894 (68.32%)
+Quedas: 1806
+Sem Bateria: 0
+Rodadas: 277312
+v2: 
+Vitorias: 4512 (79.16%)
+Quedas: 1145
+Sem Bateria: 43
+Rodadas: 350880
+
+SEED 603: 
+v1: 
+Vitorias: 3941 (69.14%)
+Quedas: 1759
+Sem Bateria: 0
+Rodadas: 283874
+v2: 
+Vitorias: 4595 (80.61%)
+Quedas: 1066
+Sem Bateria: 39
+Rodadas: 355263
+
+SEED 604: 
+v1: 
+Vitorias: 3899 (68.40%)
+Quedas: 1801
+Sem Bateria: 0
+Rodadas: 278891
+v2: 
+Vitorias: 4571 (80.19%)
+Quedas: 1087
+Sem Bateria: 42
+Rodadas: 359326
+
+SEED 605: 
+v1: 
+Vitorias: 3837 (67.32%)
+Quedas: 1863
+Sem Bateria: 0
+Rodadas: 282221
+v2: 
+Vitorias: 4495 (78.86%)
+Quedas: 1168
+Sem Bateria: 37
+Rodadas: 348264
+
+SEED 606: 
+v1: 
+Vitorias: 3985 (69.91%)
+Quedas: 1715
+Sem Bateria: 0
+Rodadas: 283189
+v2: 
+Vitorias: 4605 (80.79%)
+Quedas: 1061
+Sem Bateria: 34
+Rodadas: 347400
+
+SEED 607: 
+v1: 
+Vitorias: 3936 (69.05%)
+Quedas: 1764
+Sem Bateria: 0
+Rodadas: 283134
+v2: 
+Vitorias: 4571 (80.19%)
+Quedas: 1084
+Sem Bateria: 45
+Rodadas: 364046
+
+SEED 608: 
+v1: 
+Vitorias: 3923 (68.82%)
+Quedas: 1777
+Sem Bateria: 0
+Rodadas: 278160
+v2: 
+Vitorias: 4586 (80.46%)
+Quedas: 1077
+Sem Bateria: 37
+Rodadas: 349874
+
+SEED 609: 
+v1: 
+Vitorias: 3927 (68.89%)
+Quedas: 1773
+Sem Bateria: 0
+Rodadas: 276289
+v2: 
+Vitorias: 4601 (80.72%)
+Quedas: 1053
+Sem Bateria: 46
+Rodadas: 364450
+
+SEED 610: 
+v1: 
+Vitorias: 3997 (70.12%)
+Quedas: 1703
+Sem Bateria: 0
+Rodadas: 282007
+v2: 
+Vitorias: 4651 (81.60%)
+Quedas: 1008
+Sem Bateria: 41
+Rodadas: 351757
+
+SEED 611: 
+v1: 
+Vitorias: 3941 (69.14%)
+Quedas: 1759
+Sem Bateria: 0
+Rodadas: 280297
+v2: 
+Vitorias: 4561 (80.02%)
+Quedas: 1098
+Sem Bateria: 41
+Rodadas: 358641
+
+SEED 612: 
+v1: 
+Vitorias: 3815 (66.93%)
+Quedas: 1885
+Sem Bateria: 0
+Rodadas: 282802
+v2: 
+Vitorias: 4444 (77.96%)
+Quedas: 1193
+Sem Bateria: 63
+Rodadas: 385260
+
+SEED 613: 
+v1: 
+Vitorias: 3840 (67.37%)
+Quedas: 1860
+Sem Bateria: 0
+Rodadas: 280267
+v2: 
+Vitorias: 4606 (80.81%)
+Quedas: 1062
+Sem Bateria: 32
+Rodadas: 343538
+
+SEED 614: 
+v1: 
+Vitorias: 3945 (69.21%)
+Quedas: 1755
+Sem Bateria: 0
+Rodadas: 282523
+v2: 
+Vitorias: 4600 (80.70%)
+Quedas: 1050
+Sem Bateria: 50
+Rodadas: 365382
+
+SEED 615: 
+v1: 
+Vitorias: 3892 (68.28%)
+Quedas: 1808
+Sem Bateria: 0
+Rodadas: 283617
+v2: 
+Vitorias: 4501 (78.96%)
+Quedas: 1156
+Sem Bateria: 43
+Rodadas: 363954
+
+SEED 616: 
+v1: 
+Vitorias: 3873 (67.95%)
+Quedas: 1827
+Sem Bateria: 0
+Rodadas: 280334
+v2: 
+Vitorias: 4564 (80.07%)
+Quedas: 1102
+Sem Bateria: 34
+Rodadas: 344005
+
+SEED 617: 
+v1: 
+Vitorias: 3874 (67.96%)
+Quedas: 1826
+Sem Bateria: 0
+Rodadas: 281600
+v2: 
+Vitorias: 4533 (79.53%)
+Quedas: 1122
+Sem Bateria: 45
+Rodadas: 360779
+
+SEED 618: 
+v1: 
+Vitorias: 3949 (69.28%)
+Quedas: 1751
+Sem Bateria: 0
+Rodadas: 282727
+v2: 
+Vitorias: 4606 (80.81%)
+Quedas: 1054
+Sem Bateria: 40
+Rodadas: 356468
+
+SEED 619: 
+v1: 
+Vitorias: 3993 (70.05%)
+Quedas: 1707
+Sem Bateria: 0
+Rodadas: 281282
+v2: 
+Vitorias: 4610 (80.88%)
+Quedas: 1047
+Sem Bateria: 43
+Rodadas: 356586
+
+SEED 620: 
+v1: 
+Vitorias: 3900 (68.42%)
+Quedas: 1800
+Sem Bateria: 0
+Rodadas: 281287
+v2: 
+Vitorias: 4522 (79.33%)
+Quedas: 1134
+Sem Bateria: 44
+Rodadas: 360142
+
+SEED 621: 
+v1: 
+Vitorias: 3895 (68.33%)
+Quedas: 1805
+Sem Bateria: 0
+Rodadas: 284734
+v2: 
+Vitorias: 4570 (80.18%)
+Quedas: 1088
+Sem Bateria: 42
+Rodadas: 364174
+
+SEED 622: 
+v1: 
+Vitorias: 3859 (67.70%)
+Quedas: 1841
+Sem Bateria: 0
+Rodadas: 281797
+v2: 
+Vitorias: 4489 (78.75%)
+Quedas: 1172
+Sem Bateria: 39
+Rodadas: 359657
+
+SEED 623: 
+v1: 
+Vitorias: 3944 (69.19%)
+Quedas: 1756
+Sem Bateria: 0
+Rodadas: 281004
+v2: 
+Vitorias: 4602 (80.74%)
+Quedas: 1060
+Sem Bateria: 38
+Rodadas: 352347
+
+SEED 624: 
+v1: 
+Vitorias: 3881 (68.09%)
+Quedas: 1819
+Sem Bateria: 0
+Rodadas: 281912
+v2: 
+Vitorias: 4488 (78.74%)
+Quedas: 1172
+Sem Bateria: 40
+Rodadas: 350398
+
+SEED 625: 
+v1: 
+Vitorias: 3836 (67.30%)
+Quedas: 1864
+Sem Bateria: 0
+Rodadas: 277549
+v2: 
+Vitorias: 4605 (80.79%)
+Quedas: 1060
+Sem Bateria: 35
+Rodadas: 343887
+
+SEED 626: 
+v1: 
+Vitorias: 3772 (66.18%)
+Quedas: 1928
+Sem Bateria: 0
+Rodadas: 277793
+v2: 
+Vitorias: 4471 (78.44%)
+Quedas: 1192
+Sem Bateria: 37
+Rodadas: 346396
+
+SEED 627: 
+v1: 
+Vitorias: 3858 (67.68%)
+Quedas: 1842
+Sem Bateria: 0
+Rodadas: 279467
+v2: 
+Vitorias: 4496 (78.88%)
+Quedas: 1160
+Sem Bateria: 44
+Rodadas: 359954
+
+SEED 628: 
+v1: 
+Vitorias: 3858 (67.68%)
+Quedas: 1842
+Sem Bateria: 0
+Rodadas: 282600
+v2: 
+Vitorias: 4500 (78.95%)
+Quedas: 1159
+Sem Bateria: 41
+Rodadas: 356088
+
+SEED 629: 
+v1: 
+Vitorias: 3959 (69.46%)
+Quedas: 1741
+Sem Bateria: 0
+Rodadas: 282752
+v2: 
+Vitorias: 4624 (81.12%)
+Quedas: 1048
+Sem Bateria: 28
+Rodadas: 339370
+
+SEED 630: 
+v1: 
+Vitorias: 3901 (68.44%)
+Quedas: 1799
+Sem Bateria: 0
+Rodadas: 280298
+v2: 
+Vitorias: 4542 (79.68%)
+Quedas: 1109
+Sem Bateria: 49
+Rodadas: 362333
+
+SEED 631: 
+v1: 
+Vitorias: 3839 (67.35%)
+Quedas: 1861
+Sem Bateria: 0
+Rodadas: 280503
+v2: 
+Vitorias: 4513 (79.18%)
+Quedas: 1145
+Sem Bateria: 42
+Rodadas: 360323
+
+SEED 632: 
+v1: 
+Vitorias: 3861 (67.74%)
+Quedas: 1839
+Sem Bateria: 0
+Rodadas: 282490
+v2: 
+Vitorias: 4530 (79.47%)
+Quedas: 1136
+Sem Bateria: 34
+Rodadas: 344161
+
+SEED 633: 
+v1: 
+Vitorias: 3879 (68.05%)
+Quedas: 1821
+Sem Bateria: 0
+Rodadas: 282138
+v2: 
+Vitorias: 4479 (78.58%)
+Quedas: 1184
+Sem Bateria: 37
+Rodadas: 347564
+
+SEED 634: 
+v1: 
+Vitorias: 3861 (67.74%)
+Quedas: 1839
+Sem Bateria: 0
+Rodadas: 280599
+v2: 
+Vitorias: 4480 (78.60%)
+Quedas: 1169
+Sem Bateria: 51
+Rodadas: 365454
+
+SEED 635: 
+v1: 
+Vitorias: 3872 (67.93%)
+Quedas: 1828
+Sem Bateria: 0
+Rodadas: 282230
+v2: 
+Vitorias: 4529 (79.46%)
+Quedas: 1141
+Sem Bateria: 30
+Rodadas: 339034
+
+SEED 636: 
+v1: 
+Vitorias: 3866 (67.82%)
+Quedas: 1834
+Sem Bateria: 0
+Rodadas: 280827
+v2: 
+Vitorias: 4495 (78.86%)
+Quedas: 1168
+Sem Bateria: 37
+Rodadas: 348492
+
+SEED 637: 
+v1: 
+Vitorias: 3834 (67.26%)
+Quedas: 1866
+Sem Bateria: 0
+Rodadas: 283863
+v2: 
+Vitorias: 4512 (79.16%)
+Quedas: 1149
+Sem Bateria: 39
+Rodadas: 357197
+
+SEED 638: 
+v1: 
+Vitorias: 3955 (69.39%)
+Quedas: 1745
+Sem Bateria: 0
+Rodadas: 281578
+v2: 
+Vitorias: 4593 (80.58%)
+Quedas: 1058
+Sem Bateria: 49
+Rodadas: 358288
+
+SEED 639: 
+v1: 
+Vitorias: 3905 (68.51%)
+Quedas: 1795
+Sem Bateria: 0
+Rodadas: 282956
+v2: 
+Vitorias: 4603 (80.75%)
+Quedas: 1056
+Sem Bateria: 41
+Rodadas: 359506
+
+SEED 640: 
+v1: 
+Vitorias: 3868 (67.86%)
+Quedas: 1832
+Sem Bateria: 0
+Rodadas: 284964
+v2: 
+Vitorias: 4620 (81.05%)
+Quedas: 1041
+Sem Bateria: 39
+Rodadas: 351179
+
+SEED 641: 
+v1: 
+Vitorias: 3858 (67.68%)
+Quedas: 1842
+Sem Bateria: 0
+Rodadas: 281270
+v2: 
+Vitorias: 4575 (80.26%)
+Quedas: 1079
+Sem Bateria: 46
+Rodadas: 365739
+
+SEED 642: 
+v1: 
+Vitorias: 3835 (67.28%)
+Quedas: 1865
+Sem Bateria: 0
+Rodadas: 278001
+v2: 
+Vitorias: 4498 (78.91%)
+Quedas: 1163
+Sem Bateria: 39
+Rodadas: 346437
+
+SEED 643: 
+v1: 
+Vitorias: 3847 (67.49%)
+Quedas: 1853
+Sem Bateria: 0
+Rodadas: 281825
+v2: 
+Vitorias: 4496 (78.88%)
+Quedas: 1157
+Sem Bateria: 47
+Rodadas: 370435
+
+SEED 644: 
+v1: 
+Vitorias: 3845 (67.46%)
+Quedas: 1855
+Sem Bateria: 0
+Rodadas: 278491
+v2: 
+Vitorias: 4494 (78.84%)
+Quedas: 1173
+Sem Bateria: 33
+Rodadas: 342462
+
+SEED 645: 
+v1: 
+Vitorias: 3825 (67.11%)
+Quedas: 1875
+Sem Bateria: 0
+Rodadas: 281603
+v2: 
+Vitorias: 4509 (79.11%)
+Quedas: 1145
+Sem Bateria: 46
+Rodadas: 365105
+
+SEED 646: 
+v1: 
+Vitorias: 3949 (69.28%)
+Quedas: 1751
+Sem Bateria: 0
+Rodadas: 283196
+v2: 
+Vitorias: 4607 (80.82%)
+Quedas: 1062
+Sem Bateria: 31
+Rodadas: 341163
+
+SEED 647: 
+v1: 
+Vitorias: 3989 (69.98%)
+Quedas: 1711
+Sem Bateria: 0
+Rodadas: 284551
+v2: 
+Vitorias: 4603 (80.75%)
+Quedas: 1059
+Sem Bateria: 38
+Rodadas: 350037
+
+SEED 648: 
+v1: 
+Vitorias: 3836 (67.30%)
+Quedas: 1864
+Sem Bateria: 0
+Rodadas: 282188
+v2: 
+Vitorias: 4513 (79.18%)
+Quedas: 1141
+Sem Bateria: 46
+Rodadas: 357424
+
+SEED 649: 
+v1: 
+Vitorias: 3891 (68.26%)
+Quedas: 1809
+Sem Bateria: 0
+Rodadas: 282578
+v2: 
+Vitorias: 4574 (80.25%)
+Quedas: 1085
+Sem Bateria: 41
+Rodadas: 356582
+
+SEED 650: 
+v1: 
+Vitorias: 3925 (68.86%)
+Quedas: 1775
+Sem Bateria: 0
+Rodadas: 279183
+v2: 
+Vitorias: 4633 (81.28%)
+Quedas: 1031
+Sem Bateria: 36
+Rodadas: 343466
+
+SEED 651: 
+v1: 
+Vitorias: 3962 (69.51%)
+Quedas: 1738
+Sem Bateria: 0
+Rodadas: 278623
+v2: 
+Vitorias: 4559 (79.98%)
+Quedas: 1107
+Sem Bateria: 34
+Rodadas: 341598
+
+SEED 652: 
+v1: 
+Vitorias: 3935 (69.04%)
+Quedas: 1765
+Sem Bateria: 0
+Rodadas: 284035
+v2: 
+Vitorias: 4488 (78.74%)
+Quedas: 1168
+Sem Bateria: 44
+Rodadas: 352359
+
+SEED 653: 
+v1: 
+Vitorias: 3961 (69.49%)
+Quedas: 1739
+Sem Bateria: 0
+Rodadas: 279836
+v2: 
+Vitorias: 4597 (80.65%)
+Quedas: 1065
+Sem Bateria: 38
+Rodadas: 350369
+
+SEED 654: 
+v1: 
+Vitorias: 3844 (67.44%)
+Quedas: 1856
+Sem Bateria: 0
+Rodadas: 280683
+v2: 
+Vitorias: 4513 (79.18%)
+Quedas: 1146
+Sem Bateria: 41
+Rodadas: 360023
+
+SEED 655: 
+v1: 
+Vitorias: 3956 (69.40%)
+Quedas: 1744
+Sem Bateria: 0
+Rodadas: 280449
+v2: 
+Vitorias: 4609 (80.86%)
+Quedas: 1059
+Sem Bateria: 32
+Rodadas: 340375
+
+SEED 656: 
+v1: 
+Vitorias: 3948 (69.26%)
+Quedas: 1752
+Sem Bateria: 0
+Rodadas: 281742
+v2: 
+Vitorias: 4587 (80.47%)
+Quedas: 1053
+Sem Bateria: 60
+Rodadas: 385235
+
+SEED 657: 
+v1: 
+Vitorias: 3839 (67.35%)
+Quedas: 1861
+Sem Bateria: 0
+Rodadas: 278717
+v2: 
+Vitorias: 4505 (79.04%)
+Quedas: 1162
+Sem Bateria: 33
+Rodadas: 346589
+
+SEED 658: 
+v1: 
+Vitorias: 3859 (67.70%)
+Quedas: 1841
+Sem Bateria: 0
+Rodadas: 282761
+v2: 
+Vitorias: 4470 (78.42%)
+Quedas: 1191
+Sem Bateria: 39
+Rodadas: 354319
+
+SEED 659: 
+v1: 
+Vitorias: 3871 (67.91%)
+Quedas: 1829
+Sem Bateria: 0
+Rodadas: 282321
+v2: 
+Vitorias: 4507 (79.07%)
+Quedas: 1143
+Sem Bateria: 50
+Rodadas: 364171
+
+SEED 660: 
+v1: 
+Vitorias: 3815 (66.93%)
+Quedas: 1885
+Sem Bateria: 0
+Rodadas: 280322
+v2: 
+Vitorias: 4454 (78.14%)
+Quedas: 1204
+Sem Bateria: 42
+Rodadas: 356524
+
+SEED 661: 
+v1: 
+Vitorias: 3826 (67.12%)
+Quedas: 1874
+Sem Bateria: 0
+Rodadas: 284587
+v2: 
+Vitorias: 4594 (80.60%)
+Quedas: 1061
+Sem Bateria: 45
+Rodadas: 364236
+
+SEED 662: 
+v1: 
+Vitorias: 3858 (67.68%)
+Quedas: 1842
+Sem Bateria: 0
+Rodadas: 284809
+v2: 
+Vitorias: 4494 (78.84%)
+Quedas: 1172
+Sem Bateria: 34
+Rodadas: 346334
+
+SEED 663: 
+v1: 
+Vitorias: 3949 (69.28%)
+Quedas: 1751
+Sem Bateria: 0
+Rodadas: 280245
+v2: 
+Vitorias: 4576 (80.28%)
+Quedas: 1079
+Sem Bateria: 45
+Rodadas: 365104
+
+SEED 664: 
+v1: 
+Vitorias: 3835 (67.28%)
+Quedas: 1865
+Sem Bateria: 0
+Rodadas: 278312
+v2: 
+Vitorias: 4514 (79.19%)
+Quedas: 1142
+Sem Bateria: 44
+Rodadas: 353235
+
+SEED 665: 
+v1: 
+Vitorias: 3870 (67.89%)
+Quedas: 1830
+Sem Bateria: 0
+Rodadas: 283317
+v2: 
+Vitorias: 4523 (79.35%)
+Quedas: 1131
+Sem Bateria: 46
+Rodadas: 361365
+
+SEED 666: 
+v1: 
+Vitorias: 3879 (68.05%)
+Quedas: 1821
+Sem Bateria: 0
+Rodadas: 278428
+v2: 
+Vitorias: 4523 (79.35%)
+Quedas: 1134
+Sem Bateria: 43
+Rodadas: 352765
+
+SEED 667: 
+v1: 
+Vitorias: 3948 (69.26%)
+Quedas: 1752
+Sem Bateria: 0
+Rodadas: 282416
+v2: 
+Vitorias: 4597 (80.65%)
+Quedas: 1066
+Sem Bateria: 37
+Rodadas: 355717
+
+SEED 668: 
+v1: 
+Vitorias: 3811 (66.86%)
+Quedas: 1889
+Sem Bateria: 0
+Rodadas: 283949
+v2: 
+Vitorias: 4466 (78.35%)
+Quedas: 1188
+Sem Bateria: 46
+Rodadas: 363971
+
+SEED 669: 
+v1: 
+Vitorias: 3796 (66.60%)
+Quedas: 1904
+Sem Bateria: 0
+Rodadas: 284970
+v2: 
+Vitorias: 4485 (78.68%)
+Quedas: 1176
+Sem Bateria: 39
+Rodadas: 360832
+
+SEED 670: 
+v1: 
+Vitorias: 3847 (67.49%)
+Quedas: 1853
+Sem Bateria: 0
+Rodadas: 279640
+v2: 
+Vitorias: 4480 (78.60%)
+Quedas: 1189
+Sem Bateria: 31
+Rodadas: 339543
+
+SEED 671: 
+v1: 
+Vitorias: 3920 (68.77%)
+Quedas: 1780
+Sem Bateria: 0
+Rodadas: 279233
+v2: 
+Vitorias: 4570 (80.18%)
+Quedas: 1093
+Sem Bateria: 37
+Rodadas: 346336
+
+SEED 672: 
+v1: 
+Vitorias: 3971 (69.67%)
+Quedas: 1729
+Sem Bateria: 0
+Rodadas: 279657
+v2: 
+Vitorias: 4617 (81.00%)
+Quedas: 1044
+Sem Bateria: 39
+Rodadas: 351414
+
+SEED 673: 
+v1: 
+Vitorias: 3888 (68.21%)
+Quedas: 1812
+Sem Bateria: 0
+Rodadas: 286408
+v2: 
+Vitorias: 4513 (79.18%)
+Quedas: 1147
+Sem Bateria: 40
+Rodadas: 355039
+
+SEED 674: 
+v1: 
+Vitorias: 3779 (66.30%)
+Quedas: 1921
+Sem Bateria: 0
+Rodadas: 276880
+v2: 
+Vitorias: 4443 (77.95%)
+Quedas: 1221
+Sem Bateria: 36
+Rodadas: 346060
+
+SEED 675: 
+v1: 
+Vitorias: 4002 (70.21%)
+Quedas: 1698
+Sem Bateria: 0
+Rodadas: 277418
+v2: 
+Vitorias: 4634 (81.30%)
+Quedas: 1029
+Sem Bateria: 37
+Rodadas: 352428
+
+SEED 676: 
+v1: 
+Vitorias: 4030 (70.70%)
+Quedas: 1670
+Sem Bateria: 0
+Rodadas: 282258
+v2: 
+Vitorias: 4667 (81.88%)
+Quedas: 998
+Sem Bateria: 35
+Rodadas: 347763
+
+SEED 677: 
+v1: 
+Vitorias: 3970 (69.65%)
+Quedas: 1730
+Sem Bateria: 0
+Rodadas: 286654
+v2: 
+Vitorias: 4645 (81.49%)
+Quedas: 1009
+Sem Bateria: 46
+Rodadas: 367408
+
+SEED 678: 
+v1: 
+Vitorias: 3847 (67.49%)
+Quedas: 1853
+Sem Bateria: 0
+Rodadas: 280913
+v2: 
+Vitorias: 4473 (78.47%)
+Quedas: 1182
+Sem Bateria: 45
+Rodadas: 357277
+
+SEED 679: 
+v1: 
+Vitorias: 3909 (68.58%)
+Quedas: 1791
+Sem Bateria: 0
+Rodadas: 282212
+v2: 
+Vitorias: 4589 (80.51%)
+Quedas: 1077
+Sem Bateria: 34
+Rodadas: 349894
+
+SEED 680: 
+v1: 
+Vitorias: 3894 (68.32%)
+Quedas: 1806
+Sem Bateria: 0
+Rodadas: 283757
+v2: 
+Vitorias: 4517 (79.25%)
+Quedas: 1137
+Sem Bateria: 46
+Rodadas: 365040
+
+SEED 681: 
+v1: 
+Vitorias: 3883 (68.12%)
+Quedas: 1817
+Sem Bateria: 0
+Rodadas: 275724
+v2: 
+Vitorias: 4583 (80.40%)
+Quedas: 1074
+Sem Bateria: 43
+Rodadas: 352224
+
+SEED 682: 
+v1: 
+Vitorias: 3905 (68.51%)
+Quedas: 1795
+Sem Bateria: 0
+Rodadas: 277894
+v2: 
+Vitorias: 4550 (79.82%)
+Quedas: 1109
+Sem Bateria: 41
+Rodadas: 352247
+
+SEED 683: 
+v1: 
+Vitorias: 3910 (68.60%)
+Quedas: 1790
+Sem Bateria: 0
+Rodadas: 281213
+v2: 
+Vitorias: 4550 (79.82%)
+Quedas: 1116
+Sem Bateria: 34
+Rodadas: 352366
+
+SEED 684: 
+v1: 
+Vitorias: 3831 (67.21%)
+Quedas: 1869
+Sem Bateria: 0
+Rodadas: 278994
+v2: 
+Vitorias: 4493 (78.82%)
+Quedas: 1170
+Sem Bateria: 37
+Rodadas: 346983
+
+SEED 685: 
+v1: 
+Vitorias: 3968 (69.61%)
+Quedas: 1732
+Sem Bateria: 0
+Rodadas: 282698
+v2: 
+Vitorias: 4637 (81.35%)
+Quedas: 1021
+Sem Bateria: 42
+Rodadas: 362781
+
+SEED 686: 
+v1: 
+Vitorias: 3847 (67.49%)
+Quedas: 1853
+Sem Bateria: 0
+Rodadas: 282116
+v2: 
+Vitorias: 4614 (80.95%)
+Quedas: 1036
+Sem Bateria: 50
+Rodadas: 368151
+
+SEED 687: 
+v1: 
+Vitorias: 3945 (69.21%)
+Quedas: 1755
+Sem Bateria: 0
+Rodadas: 283303
+v2: 
+Vitorias: 4594 (80.60%)
+Quedas: 1064
+Sem Bateria: 42
+Rodadas: 362178
+
+SEED 688: 
+v1: 
+Vitorias: 3891 (68.26%)
+Quedas: 1809
+Sem Bateria: 0
+Rodadas: 283552
+v2: 
+Vitorias: 4493 (78.82%)
+Quedas: 1164
+Sem Bateria: 43
+Rodadas: 356756
+
+SEED 689: 
+v1: 
+Vitorias: 3927 (68.89%)
+Quedas: 1773
+Sem Bateria: 0
+Rodadas: 283581
+v2: 
+Vitorias: 4648 (81.54%)
+Quedas: 1007
+Sem Bateria: 45
+Rodadas: 365645
+
+SEED 690: 
+v1: 
+Vitorias: 3982 (69.86%)
+Quedas: 1718
+Sem Bateria: 0
+Rodadas: 285558
+v2: 
+Vitorias: 4595 (80.61%)
+Quedas: 1062
+Sem Bateria: 43
+Rodadas: 358493
+
+SEED 691: 
+v1: 
+Vitorias: 3867 (67.84%)
+Quedas: 1833
+Sem Bateria: 0
+Rodadas: 278727
+v2: 
+Vitorias: 4602 (80.74%)
+Quedas: 1061
+Sem Bateria: 37
+Rodadas: 342897
+
+SEED 692: 
+v1: 
+Vitorias: 3829 (67.18%)
+Quedas: 1871
+Sem Bateria: 0
+Rodadas: 282088
+v2: 
+Vitorias: 4476 (78.53%)
+Quedas: 1187
+Sem Bateria: 37
+Rodadas: 348240
+
+SEED 693: 
+v1: 
+Vitorias: 3837 (67.32%)
+Quedas: 1863
+Sem Bateria: 0
+Rodadas: 284409
+v2: 
+Vitorias: 4515 (79.21%)
+Quedas: 1153
+Sem Bateria: 32
+Rodadas: 346354
+
+SEED 694: 
+v1: 
+Vitorias: 3836 (67.30%)
+Quedas: 1864
+Sem Bateria: 0
+Rodadas: 280902
+v2: 
+Vitorias: 4478 (78.56%)
+Quedas: 1183
+Sem Bateria: 39
+Rodadas: 346096
+
+SEED 695: 
+v1: 
+Vitorias: 3950 (69.30%)
+Quedas: 1750
+Sem Bateria: 0
+Rodadas: 281910
+v2: 
+Vitorias: 4588 (80.49%)
+Quedas: 1064
+Sem Bateria: 48
+Rodadas: 366576
+
+SEED 696: 
+v1: 
+Vitorias: 3855 (67.63%)
+Quedas: 1845
+Sem Bateria: 0
+Rodadas: 281913
+v2: 
+Vitorias: 4519 (79.28%)
+Quedas: 1140
+Sem Bateria: 41
+Rodadas: 356233
+
+SEED 697: 
+v1: 
+Vitorias: 3868 (67.86%)
+Quedas: 1832
+Sem Bateria: 0
+Rodadas: 282069
+v2: 
+Vitorias: 4597 (80.65%)
+Quedas: 1058
+Sem Bateria: 45
+Rodadas: 369280
+
+SEED 698: 
+v1: 
+Vitorias: 3873 (67.95%)
+Quedas: 1827
+Sem Bateria: 0
+Rodadas: 282400
+v2: 
+Vitorias: 4533 (79.53%)
+Quedas: 1130
+Sem Bateria: 37
+Rodadas: 352010
+
+SEED 699: 
+v1: 
+Vitorias: 3801 (66.68%)
+Quedas: 1899
+Sem Bateria: 0
+Rodadas: 279782
+v2: 
+Vitorias: 4484 (78.67%)
+Quedas: 1174
+Sem Bateria: 42
+Rodadas: 360212
+
+SEED 700: 
+v1: 
+Vitorias: 3949 (69.28%)
+Quedas: 1751
+Sem Bateria: 0
+Rodadas: 281024
+v2: 
+Vitorias: 4615 (80.96%)
+Quedas: 1037
+Sem Bateria: 48
+Rodadas: 364554
+
+SEED 701: 
+v1: 
+Vitorias: 3861 (67.74%)
+Quedas: 1839
+Sem Bateria: 0
+Rodadas: 281733
+v2: 
+Vitorias: 4635 (81.32%)
+Quedas: 1032
+Sem Bateria: 33
+Rodadas: 347220
+
+SEED 702: 
+v1: 
+Vitorias: 3918 (68.74%)
+Quedas: 1782
+Sem Bateria: 0
+Rodadas: 280204
+v2: 
+Vitorias: 4527 (79.42%)
+Quedas: 1140
+Sem Bateria: 33
+Rodadas: 339475
+
+SEED 703: 
+v1: 
+Vitorias: 3958 (69.44%)
+Quedas: 1742
+Sem Bateria: 0
+Rodadas: 285438
+v2: 
+Vitorias: 4573 (80.23%)
+Quedas: 1094
+Sem Bateria: 33
+Rodadas: 346410
+
+SEED 704: 
+v1: 
+Vitorias: 3863 (67.77%)
+Quedas: 1837
+Sem Bateria: 0
+Rodadas: 286079
+v2: 
+Vitorias: 4493 (78.82%)
+Quedas: 1167
+Sem Bateria: 40
+Rodadas: 354686
+
+SEED 705: 
+v1: 
+Vitorias: 3849 (67.53%)
+Quedas: 1851
+Sem Bateria: 0
+Rodadas: 276718
+v2: 
+Vitorias: 4617 (81.00%)
+Quedas: 1043
+Sem Bateria: 40
+Rodadas: 357449
+
+SEED 706: 
+v1: 
+Vitorias: 3920 (68.77%)
+Quedas: 1780
+Sem Bateria: 0
+Rodadas: 279588
+v2: 
+Vitorias: 4599 (80.68%)
+Quedas: 1071
+Sem Bateria: 30
+Rodadas: 341332
+
+SEED 707: 
+v1: 
+Vitorias: 3951 (69.32%)
+Quedas: 1749
+Sem Bateria: 0
+Rodadas: 279561
+v2: 
+Vitorias: 4607 (80.82%)
+Quedas: 1061
+Sem Bateria: 32
+Rodadas: 340787
+
+SEED 708: 
+v1: 
+Vitorias: 3969 (69.63%)
+Quedas: 1731
+Sem Bateria: 0
+Rodadas: 283472
+v2: 
+Vitorias: 4597 (80.65%)
+Quedas: 1058
+Sem Bateria: 45
+Rodadas: 361412
+
+SEED 709: 
+v1: 
+Vitorias: 3938 (69.09%)
+Quedas: 1762
+Sem Bateria: 0
+Rodadas: 282118
+v2: 
+Vitorias: 4616 (80.98%)
+Quedas: 1047
+Sem Bateria: 37
+Rodadas: 354737
+
+SEED 710: 
+v1: 
+Vitorias: 3925 (68.86%)
+Quedas: 1775
+Sem Bateria: 0
+Rodadas: 279732
+v2: 
+Vitorias: 4586 (80.46%)
+Quedas: 1067
+Sem Bateria: 47
+Rodadas: 361439
+
+SEED 711: 
+v1: 
+Vitorias: 3877 (68.02%)
+Quedas: 1823
+Sem Bateria: 0
+Rodadas: 283025
+v2: 
+Vitorias: 4500 (78.95%)
+Quedas: 1165
+Sem Bateria: 35
+Rodadas: 349121
+
+SEED 712: 
+v1: 
+Vitorias: 3851 (67.56%)
+Quedas: 1849
+Sem Bateria: 0
+Rodadas: 280211
+v2: 
+Vitorias: 4450 (78.07%)
+Quedas: 1208
+Sem Bateria: 42
+Rodadas: 351464
+
+SEED 713: 
+v1: 
+Vitorias: 3965 (69.56%)
+Quedas: 1735
+Sem Bateria: 0
+Rodadas: 283487
+v2: 
+Vitorias: 4599 (80.68%)
+Quedas: 1065
+Sem Bateria: 36
+Rodadas: 350514
+
+SEED 714: 
+v1: 
+Vitorias: 3818 (66.98%)
+Quedas: 1882
+Sem Bateria: 0
+Rodadas: 283134
+v2: 
+Vitorias: 4559 (79.98%)
+Quedas: 1106
+Sem Bateria: 35
+Rodadas: 350733
+
+SEED 715: 
+v1: 
+Vitorias: 3866 (67.82%)
+Quedas: 1834
+Sem Bateria: 0
+Rodadas: 278712
+v2: 
+Vitorias: 4475 (78.51%)
+Quedas: 1193
+Sem Bateria: 32
+Rodadas: 336098
+
+SEED 716: 
+v1: 
+Vitorias: 3939 (69.11%)
+Quedas: 1761
+Sem Bateria: 0
+Rodadas: 273718
+v2: 
+Vitorias: 4592 (80.56%)
+Quedas: 1069
+Sem Bateria: 39
+Rodadas: 347342
+
+SEED 717: 
+v1: 
+Vitorias: 3969 (69.63%)
+Quedas: 1731
+Sem Bateria: 0
+Rodadas: 284730
+v2: 
+Vitorias: 4619 (81.04%)
+Quedas: 1042
+Sem Bateria: 39
+Rodadas: 355208
+
+SEED 718: 
+v1: 
+Vitorias: 3898 (68.39%)
+Quedas: 1802
+Sem Bateria: 0
+Rodadas: 279892
+v2: 
+Vitorias: 4504 (79.02%)
+Quedas: 1149
+Sem Bateria: 47
+Rodadas: 365233
+
+SEED 719: 
+v1: 
+Vitorias: 3952 (69.33%)
+Quedas: 1748
+Sem Bateria: 0
+Rodadas: 279573
+v2: 
+Vitorias: 4620 (81.05%)
+Quedas: 1036
+Sem Bateria: 44
+Rodadas: 359626
+
+SEED 720: 
+v1: 
+Vitorias: 3844 (67.44%)
+Quedas: 1856
+Sem Bateria: 0
+Rodadas: 277198
+v2: 
+Vitorias: 4603 (80.75%)
+Quedas: 1062
+Sem Bateria: 35
+Rodadas: 343478
+
+SEED 721: 
+v1: 
+Vitorias: 3931 (68.96%)
+Quedas: 1769
+Sem Bateria: 0
+Rodadas: 276920
+v2: 
+Vitorias: 4620 (81.05%)
+Quedas: 1041
+Sem Bateria: 39
+Rodadas: 353147
+
+SEED 722: 
+v1: 
+Vitorias: 3962 (69.51%)
+Quedas: 1738
+Sem Bateria: 0
+Rodadas: 283524
+v2: 
+Vitorias: 4603 (80.75%)
+Quedas: 1043
+Sem Bateria: 54
+Rodadas: 369866
+
+SEED 723: 
+v1: 
+Vitorias: 3934 (69.02%)
+Quedas: 1766
+Sem Bateria: 0
+Rodadas: 285636
+v2: 
+Vitorias: 4562 (80.04%)
+Quedas: 1101
+Sem Bateria: 37
+Rodadas: 355046
+
+SEED 724: 
+v1: 
+Vitorias: 3934 (69.02%)
+Quedas: 1766
+Sem Bateria: 0
+Rodadas: 281543
+v2: 
+Vitorias: 4583 (80.40%)
+Quedas: 1079
+Sem Bateria: 38
+Rodadas: 352759
+
+SEED 725: 
+v1: 
+Vitorias: 3849 (67.53%)
+Quedas: 1851
+Sem Bateria: 0
+Rodadas: 284186
+v2: 
+Vitorias: 4542 (79.68%)
+Quedas: 1122
+Sem Bateria: 36
+Rodadas: 357245
+
+SEED 726: 
+v1: 
+Vitorias: 3918 (68.74%)
+Quedas: 1782
+Sem Bateria: 0
+Rodadas: 284574
+v2: 
+Vitorias: 4594 (80.60%)
+Quedas: 1069
+Sem Bateria: 37
+Rodadas: 353713
+
+SEED 727: 
+v1: 
+Vitorias: 3829 (67.18%)
+Quedas: 1871
+Sem Bateria: 0
+Rodadas: 283255
+v2: 
+Vitorias: 4496 (78.88%)
+Quedas: 1163
+Sem Bateria: 41
+Rodadas: 361933
+
+SEED 728: 
+v1: 
+Vitorias: 3966 (69.58%)
+Quedas: 1734
+Sem Bateria: 0
+Rodadas: 280082
+v2: 
+Vitorias: 4590 (80.53%)
+Quedas: 1067
+Sem Bateria: 43
+Rodadas: 355711
+
+SEED 729: 
+v1: 
+Vitorias: 3947 (69.25%)
+Quedas: 1753
+Sem Bateria: 0
+Rodadas: 278574
+v2: 
+Vitorias: 4611 (80.89%)
+Quedas: 1047
+Sem Bateria: 42
+Rodadas: 352213
+
+SEED 730: 
+v1: 
+Vitorias: 3844 (67.44%)
+Quedas: 1856
+Sem Bateria: 0
+Rodadas: 283402
+v2: 
+Vitorias: 4500 (78.95%)
+Quedas: 1155
+Sem Bateria: 45
+Rodadas: 362899
+
+SEED 731: 
+v1: 
+Vitorias: 3973 (69.70%)
+Quedas: 1727
+Sem Bateria: 0
+Rodadas: 281796
+v2: 
+Vitorias: 4564 (80.07%)
+Quedas: 1098
+Sem Bateria: 38
+Rodadas: 350629
+
+SEED 732: 
+v1: 
+Vitorias: 3863 (67.77%)
+Quedas: 1837
+Sem Bateria: 0
+Rodadas: 283726
+v2: 
+Vitorias: 4504 (79.02%)
+Quedas: 1152
+Sem Bateria: 44
+Rodadas: 369480
+
+SEED 733: 
+v1: 
+Vitorias: 3838 (67.33%)
+Quedas: 1862
+Sem Bateria: 0
+Rodadas: 282046
+v2: 
+Vitorias: 4482 (78.63%)
+Quedas: 1166
+Sem Bateria: 52
+Rodadas: 367123
+
+SEED 734: 
+v1: 
+Vitorias: 3875 (67.98%)
+Quedas: 1825
+Sem Bateria: 0
+Rodadas: 278705
+v2: 
+Vitorias: 4510 (79.12%)
+Quedas: 1151
+Sem Bateria: 39
+Rodadas: 349722
+
+SEED 735: 
+v1: 
+Vitorias: 3857 (67.67%)
+Quedas: 1843
+Sem Bateria: 0
+Rodadas: 277693
+v2: 
+Vitorias: 4462 (78.28%)
+Quedas: 1200
+Sem Bateria: 38
+Rodadas: 352035
+
+SEED 736: 
+v1: 
+Vitorias: 3954 (69.37%)
+Quedas: 1746
+Sem Bateria: 0
+Rodadas: 281911
+v2: 
+Vitorias: 4630 (81.23%)
+Quedas: 1033
+Sem Bateria: 37
+Rodadas: 356199
+
+SEED 737: 
+v1: 
+Vitorias: 3971 (69.67%)
+Quedas: 1729
+Sem Bateria: 0
+Rodadas: 283319
+v2: 
+Vitorias: 4631 (81.25%)
+Quedas: 1031
+Sem Bateria: 38
+Rodadas: 349522
+
+SEED 738: 
+v1: 
+Vitorias: 3862 (67.75%)
+Quedas: 1838
+Sem Bateria: 0
+Rodadas: 285243
+v2: 
+Vitorias: 4517 (79.25%)
+Quedas: 1131
+Sem Bateria: 52
+Rodadas: 372751
+
+SEED 739: 
+v1: 
+Vitorias: 3852 (67.58%)
+Quedas: 1848
+Sem Bateria: 0
+Rodadas: 283082
+v2: 
+Vitorias: 4602 (80.74%)
+Quedas: 1062
+Sem Bateria: 36
+Rodadas: 353834
+
+SEED 740: 
+v1: 
+Vitorias: 3867 (67.84%)
+Quedas: 1833
+Sem Bateria: 0
+Rodadas: 284745
+v2: 
+Vitorias: 4488 (78.74%)
+Quedas: 1162
+Sem Bateria: 50
+Rodadas: 361455
+
+SEED 741: 
+v1: 
+Vitorias: 3824 (67.09%)
+Quedas: 1876
+Sem Bateria: 0
+Rodadas: 278583
+v2: 
+Vitorias: 4547 (79.77%)
+Quedas: 1115
+Sem Bateria: 38
+Rodadas: 357000
+
+SEED 742: 
+v1: 
+Vitorias: 3867 (67.84%)
+Quedas: 1833
+Sem Bateria: 0
+Rodadas: 282359
+v2: 
+Vitorias: 4486 (78.70%)
+Quedas: 1180
+Sem Bateria: 34
+Rodadas: 346516
+
+SEED 743: 
+v1: 
+Vitorias: 3940 (69.12%)
+Quedas: 1760
+Sem Bateria: 0
+Rodadas: 283950
+v2: 
+Vitorias: 4593 (80.58%)
+Quedas: 1077
+Sem Bateria: 30
+Rodadas: 342552
+
+SEED 744: 
+v1: 
+Vitorias: 3829 (67.18%)
+Quedas: 1871
+Sem Bateria: 0
+Rodadas: 282641
+v2: 
+Vitorias: 4498 (78.91%)
+Quedas: 1159
+Sem Bateria: 43
+Rodadas: 356027
+
+SEED 745: 
+v1: 
+Vitorias: 4002 (70.21%)
+Quedas: 1698
+Sem Bateria: 0
+Rodadas: 283666
+v2: 
+Vitorias: 4636 (81.33%)
+Quedas: 1037
+Sem Bateria: 27
+Rodadas: 340020
+
+SEED 746: 
+v1: 
+Vitorias: 3972 (69.68%)
+Quedas: 1728
+Sem Bateria: 0
+Rodadas: 279453
+v2: 
+Vitorias: 4605 (80.79%)
+Quedas: 1057
+Sem Bateria: 38
+Rodadas: 346449
+
+SEED 747: 
+v1: 
+Vitorias: 3839 (67.35%)
+Quedas: 1861
+Sem Bateria: 0
+Rodadas: 280180
+v2: 
+Vitorias: 4580 (80.35%)
+Quedas: 1077
+Sem Bateria: 43
+Rodadas: 363448
+
+SEED 748: 
+v1: 
+Vitorias: 3846 (67.47%)
+Quedas: 1854
+Sem Bateria: 0
+Rodadas: 280074
+v2: 
+Vitorias: 4509 (79.11%)
+Quedas: 1159
+Sem Bateria: 32
+Rodadas: 343184
+
+SEED 749: 
+v1: 
+Vitorias: 3805 (66.75%)
+Quedas: 1895
+Sem Bateria: 0
+Rodadas: 278705
+v2: 
+Vitorias: 4496 (78.88%)
+Quedas: 1164
+Sem Bateria: 40
+Rodadas: 352920
+
+SEED 750: 
+v1: 
+Vitorias: 3891 (68.26%)
+Quedas: 1809
+Sem Bateria: 0
+Rodadas: 282235
+v2: 
+Vitorias: 4505 (79.04%)
+Quedas: 1158
+Sem Bateria: 37
+Rodadas: 340858
+
+SEED 751: 
+v1: 
+Vitorias: 3842 (67.40%)
+Quedas: 1858
+Sem Bateria: 0
+Rodadas: 279846
+v2: 
+Vitorias: 4496 (78.88%)
+Quedas: 1164
+Sem Bateria: 40
+Rodadas: 357758
+
+SEED 752: 
+v1: 
+Vitorias: 4013 (70.40%)
+Quedas: 1687
+Sem Bateria: 0
+Rodadas: 279378
+v2: 
+Vitorias: 4641 (81.42%)
+Quedas: 1016
+Sem Bateria: 43
+Rodadas: 353277
+
+SEED 753: 
+v1: 
+Vitorias: 3882 (68.11%)
+Quedas: 1818
+Sem Bateria: 0
+Rodadas: 284002
+v2: 
+Vitorias: 4602 (80.74%)
+Quedas: 1053
+Sem Bateria: 45
+Rodadas: 365458
+
+SEED 754: 
+v1: 
+Vitorias: 3874 (67.96%)
+Quedas: 1826
+Sem Bateria: 0
+Rodadas: 277045
+v2: 
+Vitorias: 4529 (79.46%)
+Quedas: 1137
+Sem Bateria: 34
+Rodadas: 340888
+
+SEED 755: 
+v1: 
+Vitorias: 3946 (69.23%)
+Quedas: 1754
+Sem Bateria: 0
+Rodadas: 279890
+v2: 
+Vitorias: 4513 (79.18%)
+Quedas: 1149
+Sem Bateria: 38
+Rodadas: 355873
+
+SEED 756: 
+v1: 
+Vitorias: 3863 (67.77%)
+Quedas: 1837
+Sem Bateria: 0
+Rodadas: 282676
+v2: 
+Vitorias: 4500 (78.95%)
+Quedas: 1164
+Sem Bateria: 36
+Rodadas: 344179
+
+SEED 757: 
+v1: 
+Vitorias: 3855 (67.63%)
+Quedas: 1845
+Sem Bateria: 0
+Rodadas: 281752
+v2: 
+Vitorias: 4650 (81.58%)
+Quedas: 1010
+Sem Bateria: 40
+Rodadas: 357285
+
+SEED 758: 
+v1: 
+Vitorias: 3832 (67.23%)
+Quedas: 1868
+Sem Bateria: 0
+Rodadas: 281078
+v2: 
+Vitorias: 4447 (78.02%)
+Quedas: 1208
+Sem Bateria: 45
+Rodadas: 355250
+
+SEED 759: 
+v1: 
+Vitorias: 3934 (69.02%)
+Quedas: 1766
+Sem Bateria: 0
+Rodadas: 281981
+v2: 
+Vitorias: 4596 (80.63%)
+Quedas: 1065
+Sem Bateria: 39
+Rodadas: 358094
+
+SEED 760: 
+v1: 
+Vitorias: 3971 (69.67%)
+Quedas: 1729
+Sem Bateria: 0
+Rodadas: 280385
+v2: 
+Vitorias: 4514 (79.19%)
+Quedas: 1143
+Sem Bateria: 43
+Rodadas: 353756
+
+SEED 761: 
+v1: 
+Vitorias: 3961 (69.49%)
+Quedas: 1739
+Sem Bateria: 0
+Rodadas: 275760
+v2: 
+Vitorias: 4579 (80.33%)
+Quedas: 1088
+Sem Bateria: 33
+Rodadas: 341224
+
+SEED 762: 
+v1: 
+Vitorias: 3968 (69.61%)
+Quedas: 1732
+Sem Bateria: 0
+Rodadas: 279115
+v2: 
+Vitorias: 4629 (81.21%)
+Quedas: 1042
+Sem Bateria: 29
+Rodadas: 342142
+
+SEED 763: 
+v1: 
+Vitorias: 3958 (69.44%)
+Quedas: 1742
+Sem Bateria: 0
+Rodadas: 286298
+v2: 
+Vitorias: 4592 (80.56%)
+Quedas: 1069
+Sem Bateria: 39
+Rodadas: 352983
+
+SEED 764: 
+v1: 
+Vitorias: 3880 (68.07%)
+Quedas: 1820
+Sem Bateria: 0
+Rodadas: 282311
+v2: 
+Vitorias: 4461 (78.26%)
+Quedas: 1193
+Sem Bateria: 46
+Rodadas: 357851
+
+SEED 765: 
+v1: 
+Vitorias: 3909 (68.58%)
+Quedas: 1791
+Sem Bateria: 0
+Rodadas: 281679
+v2: 
+Vitorias: 4568 (80.14%)
+Quedas: 1101
+Sem Bateria: 31
+Rodadas: 345476
+
+SEED 766: 
+v1: 
+Vitorias: 3889 (68.23%)
+Quedas: 1811
+Sem Bateria: 0
+Rodadas: 276825
+v2: 
+Vitorias: 4549 (79.81%)
+Quedas: 1109
+Sem Bateria: 42
+Rodadas: 356102
+
+SEED 767: 
+v1: 
+Vitorias: 3865 (67.81%)
+Quedas: 1835
+Sem Bateria: 0
+Rodadas: 282822
+v2: 
+Vitorias: 4509 (79.11%)
+Quedas: 1146
+Sem Bateria: 45
+Rodadas: 364075
+
+SEED 768: 
+v1: 
+Vitorias: 3929 (68.93%)
+Quedas: 1771
+Sem Bateria: 0
+Rodadas: 282447
+v2: 
+Vitorias: 4492 (78.81%)
+Quedas: 1168
+Sem Bateria: 40
+Rodadas: 353774
+
+SEED 769: 
+v1: 
+Vitorias: 3773 (66.19%)
+Quedas: 1927
+Sem Bateria: 0
+Rodadas: 283917
+v2: 
+Vitorias: 4465 (78.33%)
+Quedas: 1193
+Sem Bateria: 42
+Rodadas: 358403
+
+SEED 770: 
+v1: 
+Vitorias: 3916 (68.70%)
+Quedas: 1784
+Sem Bateria: 0
+Rodadas: 281850
+v2: 
+Vitorias: 4544 (79.72%)
+Quedas: 1116
+Sem Bateria: 40
+Rodadas: 352513
+
+SEED 771: 
+v1: 
+Vitorias: 3970 (69.65%)
+Quedas: 1730
+Sem Bateria: 0
+Rodadas: 279639
+v2: 
+Vitorias: 4594 (80.60%)
+Quedas: 1057
+Sem Bateria: 49
+Rodadas: 372429
+
+SEED 772: 
+v1: 
+Vitorias: 3952 (69.33%)
+Quedas: 1748
+Sem Bateria: 0
+Rodadas: 283639
+v2: 
+Vitorias: 4630 (81.23%)
+Quedas: 1036
+Sem Bateria: 34
+Rodadas: 349923
+
+SEED 773: 
+v1: 
+Vitorias: 3860 (67.72%)
+Quedas: 1840
+Sem Bateria: 0
+Rodadas: 285252
+v2: 
+Vitorias: 4631 (81.25%)
+Quedas: 1032
+Sem Bateria: 37
+Rodadas: 355173
+
+SEED 774: 
+v1: 
+Vitorias: 3851 (67.56%)
+Quedas: 1849
+Sem Bateria: 0
+Rodadas: 280342
+v2: 
+Vitorias: 4496 (78.88%)
+Quedas: 1159
+Sem Bateria: 45
+Rodadas: 363947
+
+SEED 775: 
+v1: 
+Vitorias: 3910 (68.60%)
+Quedas: 1790
+Sem Bateria: 0
+Rodadas: 281669
+v2: 
+Vitorias: 4496 (78.88%)
+Quedas: 1157
+Sem Bateria: 47
+Rodadas: 366478
+
+SEED 776: 
+v1: 
+Vitorias: 3900 (68.42%)
+Quedas: 1800
+Sem Bateria: 0
+Rodadas: 282898
+v2: 
+Vitorias: 4474 (78.49%)
+Quedas: 1178
+Sem Bateria: 48
+Rodadas: 364382
+
+SEED 777: 
+v1: 
+Vitorias: 3963 (69.53%)
+Quedas: 1737
+Sem Bateria: 0
+Rodadas: 279415
+v2: 
+Vitorias: 4603 (80.75%)
+Quedas: 1052
+Sem Bateria: 45
+Rodadas: 360686
+
+SEED 778: 
+v1: 
+Vitorias: 3892 (68.28%)
+Quedas: 1808
+Sem Bateria: 0
+Rodadas: 281527
+v2: 
+Vitorias: 4481 (78.61%)
+Quedas: 1184
+Sem Bateria: 35
+Rodadas: 343070
+
+SEED 779: 
+v1: 
+Vitorias: 3962 (69.51%)
+Quedas: 1738
+Sem Bateria: 0
+Rodadas: 282428
+v2: 
+Vitorias: 4607 (80.82%)
+Quedas: 1054
+Sem Bateria: 39
+Rodadas: 354515
+
+SEED 780: 
+v1: 
+Vitorias: 3972 (69.68%)
+Quedas: 1728
+Sem Bateria: 0
+Rodadas: 283003
+v2: 
+Vitorias: 4575 (80.26%)
+Quedas: 1096
+Sem Bateria: 29
+Rodadas: 335649
+
+SEED 781: 
+v1: 
+Vitorias: 3797 (66.61%)
+Quedas: 1903
+Sem Bateria: 0
+Rodadas: 284193
+v2: 
+Vitorias: 4483 (78.65%)
+Quedas: 1172
+Sem Bateria: 45
+Rodadas: 365351
+
+SEED 782: 
+v1: 
+Vitorias: 3908 (68.56%)
+Quedas: 1792
+Sem Bateria: 0
+Rodadas: 284003
+v2: 
+Vitorias: 4608 (80.84%)
+Quedas: 1047
+Sem Bateria: 45
+Rodadas: 362035
+
+SEED 783: 
+v1: 
+Vitorias: 3959 (69.46%)
+Quedas: 1741
+Sem Bateria: 0
+Rodadas: 281584
+v2: 
+Vitorias: 4607 (80.82%)
+Quedas: 1054
+Sem Bateria: 39
+Rodadas: 358148
+
+SEED 784: 
+v1: 
+Vitorias: 3837 (67.32%)
+Quedas: 1863
+Sem Bateria: 0
+Rodadas: 279860
+v2: 
+Vitorias: 4482 (78.63%)
+Quedas: 1185
+Sem Bateria: 33
+Rodadas: 345794
+
+SEED 785: 
+v1: 
+Vitorias: 3877 (68.02%)
+Quedas: 1823
+Sem Bateria: 0
+Rodadas: 280981
+v2: 
+Vitorias: 4513 (79.18%)
+Quedas: 1142
+Sem Bateria: 45
+Rodadas: 360905
+
+SEED 786: 
+v1: 
+Vitorias: 3965 (69.56%)
+Quedas: 1735
+Sem Bateria: 0
+Rodadas: 278685
+v2: 
+Vitorias: 4580 (80.35%)
+Quedas: 1076
+Sem Bateria: 44
+Rodadas: 356823
+
+SEED 787: 
+v1: 
+Vitorias: 3849 (67.53%)
+Quedas: 1851
+Sem Bateria: 0
+Rodadas: 283347
+v2: 
+Vitorias: 4590 (80.53%)
+Quedas: 1079
+Sem Bateria: 31
+Rodadas: 347909
+
+SEED 788: 
+v1: 
+Vitorias: 3868 (67.86%)
+Quedas: 1832
+Sem Bateria: 0
+Rodadas: 278204
+v2: 
+Vitorias: 4493 (78.82%)
+Quedas: 1167
+Sem Bateria: 40
+Rodadas: 349903
+
+SEED 789: 
+v1: 
+Vitorias: 3949 (69.28%)
+Quedas: 1751
+Sem Bateria: 0
+Rodadas: 284849
+v2: 
+Vitorias: 4602 (80.74%)
+Quedas: 1065
+Sem Bateria: 33
+Rodadas: 351537
+
+SEED 790: 
+v1: 
+Vitorias: 3864 (67.79%)
+Quedas: 1836
+Sem Bateria: 0
+Rodadas: 280041
+v2: 
+Vitorias: 4580 (80.35%)
+Quedas: 1082
+Sem Bateria: 38
+Rodadas: 349302
+
+SEED 791: 
+v1: 
+Vitorias: 3916 (68.70%)
+Quedas: 1784
+Sem Bateria: 0
+Rodadas: 276012
+v2: 
+Vitorias: 4552 (79.86%)
+Quedas: 1121
+Sem Bateria: 27
+Rodadas: 333207
+
+SEED 792: 
+v1: 
+Vitorias: 3958 (69.44%)
+Quedas: 1742
+Sem Bateria: 0
+Rodadas: 281205
+v2: 
+Vitorias: 4559 (79.98%)
+Quedas: 1096
+Sem Bateria: 45
+Rodadas: 356723
+
+SEED 793: 
+v1: 
+Vitorias: 3970 (69.65%)
+Quedas: 1730
+Sem Bateria: 0
+Rodadas: 282851
+v2: 
+Vitorias: 4628 (81.19%)
+Quedas: 1042
+Sem Bateria: 30
+Rodadas: 342514
+
+SEED 794: 
+v1: 
+Vitorias: 3874 (67.96%)
+Quedas: 1826
+Sem Bateria: 0
+Rodadas: 279918
+v2: 
+Vitorias: 4491 (78.79%)
+Quedas: 1160
+Sem Bateria: 49
+Rodadas: 361689
+
+SEED 795: 
+v1: 
+Vitorias: 3850 (67.54%)
+Quedas: 1850
+Sem Bateria: 0
+Rodadas: 283670
+v2: 
+Vitorias: 4498 (78.91%)
+Quedas: 1169
+Sem Bateria: 33
+Rodadas: 351623
+
+SEED 796: 
+v1: 
+Vitorias: 3943 (69.18%)
+Quedas: 1757
+Sem Bateria: 0
+Rodadas: 281360
+v2: 
+Vitorias: 4599 (80.68%)
+Quedas: 1057
+Sem Bateria: 44
+Rodadas: 362333
+
+SEED 797: 
+v1: 
+Vitorias: 3825 (67.11%)
+Quedas: 1875
+Sem Bateria: 0
+Rodadas: 276793
+v2: 
+Vitorias: 4615 (80.96%)
+Quedas: 1041
+Sem Bateria: 44
+Rodadas: 355490
+
+SEED 798: 
+v1: 
+Vitorias: 4024 (70.60%)
+Quedas: 1676
+Sem Bateria: 0
+Rodadas: 284008
+v2: 
+Vitorias: 4603 (80.75%)
+Quedas: 1054
+Sem Bateria: 43
+Rodadas: 359203
+
+SEED 799: 
+v1: 
+Vitorias: 3984 (69.89%)
+Quedas: 1716
+Sem Bateria: 0
+Rodadas: 279595
+v2: 
+Vitorias: 4630 (81.23%)
+Quedas: 1032
+Sem Bateria: 38
+Rodadas: 349437
+
+SEED 800: 
+v1: 
+Vitorias: 3938 (69.09%)
+Quedas: 1762
+Sem Bateria: 0
+Rodadas: 280331
+v2: 
+Vitorias: 4576 (80.28%)
+Quedas: 1075
+Sem Bateria: 49
+Rodadas: 363274
+
+SEED 801: 
+v1: 
+Vitorias: 3925 (68.86%)
+Quedas: 1775
+Sem Bateria: 0
+Rodadas: 284548
+v2: 
+Vitorias: 4587 (80.47%)
+Quedas: 1076
+Sem Bateria: 37
+Rodadas: 354171
+
+SEED 802: 
+v1: 
+Vitorias: 3807 (66.79%)
+Quedas: 1893
+Sem Bateria: 0
+Rodadas: 280210
+v2: 
+Vitorias: 4451 (78.09%)
+Quedas: 1209
+Sem Bateria: 40
+Rodadas: 353040
+
+SEED 803: 
+v1: 
+Vitorias: 3989 (69.98%)
+Quedas: 1711
+Sem Bateria: 0
+Rodadas: 281235
+v2: 
+Vitorias: 4604 (80.77%)
+Quedas: 1056
+Sem Bateria: 40
+Rodadas: 353681
+
+SEED 804: 
+v1: 
+Vitorias: 3925 (68.86%)
+Quedas: 1775
+Sem Bateria: 0
+Rodadas: 282419
+v2: 
+Vitorias: 4621 (81.07%)
+Quedas: 1037
+Sem Bateria: 42
+Rodadas: 358709
+
+SEED 805: 
+v1: 
+Vitorias: 3840 (67.37%)
+Quedas: 1860
+Sem Bateria: 0
+Rodadas: 279884
+v2: 
+Vitorias: 4534 (79.54%)
+Quedas: 1127
+Sem Bateria: 39
+Rodadas: 354272
+
+SEED 806: 
+v1: 
+Vitorias: 3964 (69.54%)
+Quedas: 1736
+Sem Bateria: 0
+Rodadas: 285924
+v2: 
+Vitorias: 4602 (80.74%)
+Quedas: 1057
+Sem Bateria: 41
+Rodadas: 361408
+
+SEED 807: 
+v1: 
+Vitorias: 3898 (68.39%)
+Quedas: 1802
+Sem Bateria: 0
+Rodadas: 281265
+v2: 
+Vitorias: 4562 (80.04%)
+Quedas: 1098
+Sem Bateria: 40
+Rodadas: 361322
+
+SEED 808: 
+v1: 
+Vitorias: 3831 (67.21%)
+Quedas: 1869
+Sem Bateria: 0
+Rodadas: 279381
+v2: 
+Vitorias: 4502 (78.98%)
+Quedas: 1163
+Sem Bateria: 35
+Rodadas: 341308
+
+SEED 809: 
+v1: 
+Vitorias: 3874 (67.96%)
+Quedas: 1826
+Sem Bateria: 0
+Rodadas: 280804
+v2: 
+Vitorias: 4637 (81.35%)
+Quedas: 1028
+Sem Bateria: 35
+Rodadas: 348639
+
+SEED 810: 
+v1: 
+Vitorias: 3961 (69.49%)
+Quedas: 1739
+Sem Bateria: 0
+Rodadas: 281743
+v2: 
+Vitorias: 4597 (80.65%)
+Quedas: 1060
+Sem Bateria: 43
+Rodadas: 355191
+
+SEED 811: 
+v1: 
+Vitorias: 3927 (68.89%)
+Quedas: 1773
+Sem Bateria: 0
+Rodadas: 277538
+v2: 
+Vitorias: 4554 (79.89%)
+Quedas: 1107
+Sem Bateria: 39
+Rodadas: 352693
+
+SEED 812: 
+v1: 
+Vitorias: 3805 (66.75%)
+Quedas: 1895
+Sem Bateria: 0
+Rodadas: 284842
+v2: 
+Vitorias: 4448 (78.04%)
+Quedas: 1207
+Sem Bateria: 45
+Rodadas: 358549
+
+SEED 813: 
+v1: 
+Vitorias: 3951 (69.32%)
+Quedas: 1749
+Sem Bateria: 0
+Rodadas: 279256
+v2: 
+Vitorias: 4595 (80.61%)
+Quedas: 1063
+Sem Bateria: 42
+Rodadas: 356713
+
+SEED 814: 
+v1: 
+Vitorias: 3888 (68.21%)
+Quedas: 1812
+Sem Bateria: 0
+Rodadas: 279816
+v2: 
+Vitorias: 4534 (79.54%)
+Quedas: 1130
+Sem Bateria: 36
+Rodadas: 348481
+
+SEED 815: 
+v1: 
+Vitorias: 4000 (70.18%)
+Quedas: 1700
+Sem Bateria: 0
+Rodadas: 279977
+v2: 
+Vitorias: 4628 (81.19%)
+Quedas: 1034
+Sem Bateria: 38
+Rodadas: 349263
+
+SEED 816: 
+v1: 
+Vitorias: 3886 (68.18%)
+Quedas: 1814
+Sem Bateria: 0
+Rodadas: 279380
+v2: 
+Vitorias: 4614 (80.95%)
+Quedas: 1045
+Sem Bateria: 41
+Rodadas: 353194
+
+SEED 817: 
+v1: 
+Vitorias: 3971 (69.67%)
+Quedas: 1729
+Sem Bateria: 0
+Rodadas: 283053
+v2: 
+Vitorias: 4559 (79.98%)
+Quedas: 1106
+Sem Bateria: 35
+Rodadas: 347680
+
+SEED 818: 
+v1: 
+Vitorias: 3978 (69.79%)
+Quedas: 1722
+Sem Bateria: 0
+Rodadas: 282037
+v2: 
+Vitorias: 4600 (80.70%)
+Quedas: 1062
+Sem Bateria: 38
+Rodadas: 353227
+
+SEED 819: 
+v1: 
+Vitorias: 3772 (66.18%)
+Quedas: 1928
+Sem Bateria: 0
+Rodadas: 279730
+v2: 
+Vitorias: 4563 (80.05%)
+Quedas: 1100
+Sem Bateria: 37
+Rodadas: 349262
+
+SEED 820: 
+v1: 
+Vitorias: 3940 (69.12%)
+Quedas: 1760
+Sem Bateria: 0
+Rodadas: 284739
+v2: 
+Vitorias: 4584 (80.42%)
+Quedas: 1079
+Sem Bateria: 37
+Rodadas: 354387
+
+SEED 821: 
+v1: 
+Vitorias: 3776 (66.25%)
+Quedas: 1924
+Sem Bateria: 0
+Rodadas: 281125
+v2: 
+Vitorias: 4449 (78.05%)
+Quedas: 1211
+Sem Bateria: 40
+Rodadas: 357712
+
+SEED 822: 
+v1: 
+Vitorias: 3939 (69.11%)
+Quedas: 1761
+Sem Bateria: 0
+Rodadas: 280267
+v2: 
+Vitorias: 4562 (80.04%)
+Quedas: 1100
+Sem Bateria: 38
+Rodadas: 352206
+
+SEED 823: 
+v1: 
+Vitorias: 3989 (69.98%)
+Quedas: 1711
+Sem Bateria: 0
+Rodadas: 283034
+v2: 
+Vitorias: 4603 (80.75%)
+Quedas: 1059
+Sem Bateria: 38
+Rodadas: 353785
+
+SEED 824: 
+v1: 
+Vitorias: 3928 (68.91%)
+Quedas: 1772
+Sem Bateria: 0
+Rodadas: 283490
+v2: 
+Vitorias: 4565 (80.09%)
+Quedas: 1094
+Sem Bateria: 41
+Rodadas: 361614
+
+SEED 825: 
+v1: 
+Vitorias: 3810 (66.84%)
+Quedas: 1890
+Sem Bateria: 0
+Rodadas: 276900
+v2: 
+Vitorias: 4484 (78.67%)
+Quedas: 1183
+Sem Bateria: 33
+Rodadas: 343569
+
+SEED 826: 
+v1: 
+Vitorias: 3906 (68.53%)
+Quedas: 1794
+Sem Bateria: 0
+Rodadas: 282323
+v2: 
+Vitorias: 4587 (80.47%)
+Quedas: 1077
+Sem Bateria: 36
+Rodadas: 348702
+
+SEED 827: 
+v1: 
+Vitorias: 3877 (68.02%)
+Quedas: 1823
+Sem Bateria: 0
+Rodadas: 283002
+v2: 
+Vitorias: 4477 (78.54%)
+Quedas: 1185
+Sem Bateria: 38
+Rodadas: 350249
+
+SEED 828: 
+v1: 
+Vitorias: 3984 (69.89%)
+Quedas: 1716
+Sem Bateria: 0
+Rodadas: 282677
+v2: 
+Vitorias: 4615 (80.96%)
+Quedas: 1034
+Sem Bateria: 51
+Rodadas: 376164
+
+SEED 829: 
+v1: 
+Vitorias: 3938 (69.09%)
+Quedas: 1762
+Sem Bateria: 0
+Rodadas: 283802
+v2: 
+Vitorias: 4599 (80.68%)
+Quedas: 1058
+Sem Bateria: 43
+Rodadas: 359019
+
+SEED 830: 
+v1: 
+Vitorias: 3986 (69.93%)
+Quedas: 1714
+Sem Bateria: 0
+Rodadas: 283110
+v2: 
+Vitorias: 4616 (80.98%)
+Quedas: 1043
+Sem Bateria: 41
+Rodadas: 355550
+
+SEED 831: 
+v1: 
+Vitorias: 3820 (67.02%)
+Quedas: 1880
+Sem Bateria: 0
+Rodadas: 278616
+v2: 
+Vitorias: 4588 (80.49%)
+Quedas: 1071
+Sem Bateria: 41
+Rodadas: 358314
+
+SEED 832: 
+v1: 
+Vitorias: 3956 (69.40%)
+Quedas: 1744
+Sem Bateria: 0
+Rodadas: 281266
+v2: 
+Vitorias: 4613 (80.93%)
+Quedas: 1041
+Sem Bateria: 46
+Rodadas: 359446
+
+SEED 833: 
+v1: 
+Vitorias: 3876 (68.00%)
+Quedas: 1824
+Sem Bateria: 0
+Rodadas: 281923
+v2: 
+Vitorias: 4521 (79.32%)
+Quedas: 1129
+Sem Bateria: 50
+Rodadas: 367066
+
+SEED 834: 
+v1: 
+Vitorias: 3942 (69.16%)
+Quedas: 1758
+Sem Bateria: 0
+Rodadas: 277680
+v2: 
+Vitorias: 4576 (80.28%)
+Quedas: 1087
+Sem Bateria: 37
+Rodadas: 344852
+
+SEED 835: 
+v1: 
+Vitorias: 4000 (70.18%)
+Quedas: 1700
+Sem Bateria: 0
+Rodadas: 284156
+v2: 
+Vitorias: 4595 (80.61%)
+Quedas: 1064
+Sem Bateria: 41
+Rodadas: 358819
+
+SEED 836: 
+v1: 
+Vitorias: 4012 (70.39%)
+Quedas: 1688
+Sem Bateria: 0
+Rodadas: 280266
+v2: 
+Vitorias: 4575 (80.26%)
+Quedas: 1090
+Sem Bateria: 35
+Rodadas: 341979
+
+SEED 837: 
+v1: 
+Vitorias: 3847 (67.49%)
+Quedas: 1853
+Sem Bateria: 0
+Rodadas: 282718
+v2: 
+Vitorias: 4616 (80.98%)
+Quedas: 1053
+Sem Bateria: 31
+Rodadas: 350825
+
+SEED 838: 
+v1: 
+Vitorias: 3955 (69.39%)
+Quedas: 1745
+Sem Bateria: 0
+Rodadas: 281417
+v2: 
+Vitorias: 4572 (80.21%)
+Quedas: 1083
+Sem Bateria: 45
+Rodadas: 363714
+
+SEED 839: 
+v1: 
+Vitorias: 3789 (66.47%)
+Quedas: 1911
+Sem Bateria: 0
+Rodadas: 279770
+v2: 
+Vitorias: 4480 (78.60%)
+Quedas: 1183
+Sem Bateria: 37
+Rodadas: 348226
+
+SEED 840: 
+v1: 
+Vitorias: 3957 (69.42%)
+Quedas: 1743
+Sem Bateria: 0
+Rodadas: 281532
+v2: 
+Vitorias: 4617 (81.00%)
+Quedas: 1040
+Sem Bateria: 43
+Rodadas: 364519
+
+SEED 841: 
+v1: 
+Vitorias: 3847 (67.49%)
+Quedas: 1853
+Sem Bateria: 0
+Rodadas: 277451
+v2: 
+Vitorias: 4510 (79.12%)
+Quedas: 1154
+Sem Bateria: 36
+Rodadas: 350077
+
+SEED 842: 
+v1: 
+Vitorias: 3896 (68.35%)
+Quedas: 1804
+Sem Bateria: 0
+Rodadas: 277710
+v2: 
+Vitorias: 4556 (79.93%)
+Quedas: 1109
+Sem Bateria: 35
+Rodadas: 346359
+
+SEED 843: 
+v1: 
+Vitorias: 3901 (68.44%)
+Quedas: 1799
+Sem Bateria: 0
+Rodadas: 281121
+v2: 
+Vitorias: 4510 (79.12%)
+Quedas: 1153
+Sem Bateria: 37
+Rodadas: 348725
+
+SEED 844: 
+v1: 
+Vitorias: 3863 (67.77%)
+Quedas: 1837
+Sem Bateria: 0
+Rodadas: 280492
+v2: 
+Vitorias: 4593 (80.58%)
+Quedas: 1076
+Sem Bateria: 31
+Rodadas: 345355
+
+SEED 845: 
+v1: 
+Vitorias: 3938 (69.09%)
+Quedas: 1762
+Sem Bateria: 0
+Rodadas: 281254
+v2: 
+Vitorias: 4618 (81.02%)
+Quedas: 1041
+Sem Bateria: 41
+Rodadas: 359793
+
+SEED 846: 
+v1: 
+Vitorias: 3815 (66.93%)
+Quedas: 1885
+Sem Bateria: 0
+Rodadas: 284063
+v2: 
+Vitorias: 4465 (78.33%)
+Quedas: 1204
+Sem Bateria: 31
+Rodadas: 338554
+
+SEED 847: 
+v1: 
+Vitorias: 3892 (68.28%)
+Quedas: 1808
+Sem Bateria: 0
+Rodadas: 282033
+v2: 
+Vitorias: 4469 (78.40%)
+Quedas: 1198
+Sem Bateria: 33
+Rodadas: 348381
+
+SEED 848: 
+v1: 
+Vitorias: 3964 (69.54%)
+Quedas: 1736
+Sem Bateria: 0
+Rodadas: 282568
+v2: 
+Vitorias: 4612 (80.91%)
+Quedas: 1039
+Sem Bateria: 49
+Rodadas: 362395
+
+SEED 849: 
+v1: 
+Vitorias: 3933 (69.00%)
+Quedas: 1767
+Sem Bateria: 0
+Rodadas: 279960
+v2: 
+Vitorias: 4590 (80.53%)
+Quedas: 1065
+Sem Bateria: 45
+Rodadas: 361116
+
+SEED 850: 
+v1: 
+Vitorias: 3977 (69.77%)
+Quedas: 1723
+Sem Bateria: 0
+Rodadas: 281514
+v2: 
+Vitorias: 4593 (80.58%)
+Quedas: 1065
+Sem Bateria: 42
+Rodadas: 360053
+
+SEED 851: 
+v1: 
+Vitorias: 3947 (69.25%)
+Quedas: 1753
+Sem Bateria: 0
+Rodadas: 275976
+v2: 
+Vitorias: 4588 (80.49%)
+Quedas: 1064
+Sem Bateria: 48
+Rodadas: 363607
+
+SEED 852: 
+v1: 
+Vitorias: 3956 (69.40%)
+Quedas: 1744
+Sem Bateria: 0
+Rodadas: 284963
+v2: 
+Vitorias: 4576 (80.28%)
+Quedas: 1089
+Sem Bateria: 35
+Rodadas: 348288
+
+SEED 853: 
+v1: 
+Vitorias: 3874 (67.96%)
+Quedas: 1826
+Sem Bateria: 0
+Rodadas: 287991
+v2: 
+Vitorias: 4584 (80.42%)
+Quedas: 1077
+Sem Bateria: 39
+Rodadas: 362088
+
+SEED 854: 
+v1: 
+Vitorias: 3879 (68.05%)
+Quedas: 1821
+Sem Bateria: 0
+Rodadas: 281744
+v2: 
+Vitorias: 4487 (78.72%)
+Quedas: 1168
+Sem Bateria: 45
+Rodadas: 352785
+
+SEED 855: 
+v1: 
+Vitorias: 3904 (68.49%)
+Quedas: 1796
+Sem Bateria: 0
+Rodadas: 276808
+v2: 
+Vitorias: 4555 (79.91%)
+Quedas: 1102
+Sem Bateria: 43
+Rodadas: 355147
+
+SEED 856: 
+v1: 
+Vitorias: 3890 (68.25%)
+Quedas: 1810
+Sem Bateria: 0
+Rodadas: 279058
+v2: 
+Vitorias: 4512 (79.16%)
+Quedas: 1161
+Sem Bateria: 27
+Rodadas: 342016
+
+SEED 857: 
+v1: 
+Vitorias: 3957 (69.42%)
+Quedas: 1743
+Sem Bateria: 0
+Rodadas: 282402
+v2: 
+Vitorias: 4620 (81.05%)
+Quedas: 1030
+Sem Bateria: 50
+Rodadas: 366442
+
+SEED 858: 
+v1: 
+Vitorias: 3973 (69.70%)
+Quedas: 1727
+Sem Bateria: 0
+Rodadas: 279813
+v2: 
+Vitorias: 4588 (80.49%)
+Quedas: 1075
+Sem Bateria: 37
+Rodadas: 347683
+
+SEED 859: 
+v1: 
+Vitorias: 3918 (68.74%)
+Quedas: 1782
+Sem Bateria: 0
+Rodadas: 284605
+v2: 
+Vitorias: 4589 (80.51%)
+Quedas: 1062
+Sem Bateria: 49
+Rodadas: 365028
+
+SEED 860: 
+v1: 
+Vitorias: 3804 (66.74%)
+Quedas: 1896
+Sem Bateria: 0
+Rodadas: 277813
+v2: 
+Vitorias: 4471 (78.44%)
+Quedas: 1193
+Sem Bateria: 36
+Rodadas: 346861
+
+SEED 861: 
+v1: 
+Vitorias: 3956 (69.40%)
+Quedas: 1744
+Sem Bateria: 0
+Rodadas: 280059
+v2: 
+Vitorias: 4643 (81.46%)
+Quedas: 1018
+Sem Bateria: 39
+Rodadas: 358889
+
+SEED 862: 
+v1: 
+Vitorias: 3873 (67.95%)
+Quedas: 1827
+Sem Bateria: 0
+Rodadas: 282140
+v2: 
+Vitorias: 4570 (80.18%)
+Quedas: 1100
+Sem Bateria: 30
+Rodadas: 342186
+
+SEED 863: 
+v1: 
+Vitorias: 3914 (68.67%)
+Quedas: 1786
+Sem Bateria: 0
+Rodadas: 280155
+v2: 
+Vitorias: 4554 (79.89%)
+Quedas: 1110
+Sem Bateria: 36
+Rodadas: 344358
+
+SEED 864: 
+v1: 
+Vitorias: 3834 (67.26%)
+Quedas: 1866
+Sem Bateria: 0
+Rodadas: 281831
+v2: 
+Vitorias: 4584 (80.42%)
+Quedas: 1077
+Sem Bateria: 39
+Rodadas: 355751
+
+SEED 865: 
+v1: 
+Vitorias: 3894 (68.32%)
+Quedas: 1806
+Sem Bateria: 0
+Rodadas: 281450
+v2: 
+Vitorias: 4557 (79.95%)
+Quedas: 1113
+Sem Bateria: 30
+Rodadas: 339611
+
+SEED 866: 
+v1: 
+Vitorias: 4012 (70.39%)
+Quedas: 1688
+Sem Bateria: 0
+Rodadas: 284380
+v2: 
+Vitorias: 4592 (80.56%)
+Quedas: 1074
+Sem Bateria: 34
+Rodadas: 345710
+
+SEED 867: 
+v1: 
+Vitorias: 3830 (67.19%)
+Quedas: 1870
+Sem Bateria: 0
+Rodadas: 282831
+v2: 
+Vitorias: 4476 (78.53%)
+Quedas: 1193
+Sem Bateria: 31
+Rodadas: 352748
+
+SEED 868: 
+v1: 
+Vitorias: 3840 (67.37%)
+Quedas: 1860
+Sem Bateria: 0
+Rodadas: 282221
+v2: 
+Vitorias: 4543 (79.70%)
+Quedas: 1111
+Sem Bateria: 46
+Rodadas: 357651
+
+SEED 869: 
+v1: 
+Vitorias: 3917 (68.72%)
+Quedas: 1783
+Sem Bateria: 0
+Rodadas: 286750
+v2: 
+Vitorias: 4475 (78.51%)
+Quedas: 1176
+Sem Bateria: 49
+Rodadas: 367414
+
+SEED 870: 
+v1: 
+Vitorias: 3850 (67.54%)
+Quedas: 1850
+Sem Bateria: 0
+Rodadas: 283069
+v2: 
+Vitorias: 4494 (78.84%)
+Quedas: 1163
+Sem Bateria: 43
+Rodadas: 359302
+
+SEED 871: 
+v1: 
+Vitorias: 3939 (69.11%)
+Quedas: 1761
+Sem Bateria: 0
+Rodadas: 282701
+v2: 
+Vitorias: 4593 (80.58%)
+Quedas: 1068
+Sem Bateria: 39
+Rodadas: 355744
+
+SEED 872: 
+v1: 
+Vitorias: 4010 (70.35%)
+Quedas: 1690
+Sem Bateria: 0
+Rodadas: 278067
+v2: 
+Vitorias: 4607 (80.82%)
+Quedas: 1050
+Sem Bateria: 43
+Rodadas: 350986
+
+SEED 873: 
+v1: 
+Vitorias: 3907 (68.54%)
+Quedas: 1793
+Sem Bateria: 0
+Rodadas: 282748
+v2: 
+Vitorias: 4548 (79.79%)
+Quedas: 1105
+Sem Bateria: 47
+Rodadas: 364225
+
+SEED 874: 
+v1: 
+Vitorias: 3872 (67.93%)
+Quedas: 1828
+Sem Bateria: 0
+Rodadas: 278359
+v2: 
+Vitorias: 4464 (78.32%)
+Quedas: 1204
+Sem Bateria: 32
+Rodadas: 346091
+
+SEED 875: 
+v1: 
+Vitorias: 3967 (69.60%)
+Quedas: 1733
+Sem Bateria: 0
+Rodadas: 281278
+v2: 
+Vitorias: 4573 (80.23%)
+Quedas: 1088
+Sem Bateria: 39
+Rodadas: 349904
+
+SEED 876: 
+v1: 
+Vitorias: 3966 (69.58%)
+Quedas: 1734
+Sem Bateria: 0
+Rodadas: 282395
+v2: 
+Vitorias: 4571 (80.19%)
+Quedas: 1079
+Sem Bateria: 50
+Rodadas: 371863
+
+SEED 877: 
+v1: 
+Vitorias: 3934 (69.02%)
+Quedas: 1766
+Sem Bateria: 0
+Rodadas: 280063
+v2: 
+Vitorias: 4583 (80.40%)
+Quedas: 1078
+Sem Bateria: 39
+Rodadas: 351723
+
+SEED 878: 
+v1: 
+Vitorias: 3945 (69.21%)
+Quedas: 1755
+Sem Bateria: 0
+Rodadas: 281894
+v2: 
+Vitorias: 4601 (80.72%)
+Quedas: 1062
+Sem Bateria: 37
+Rodadas: 349631
+
+SEED 879: 
+v1: 
+Vitorias: 3941 (69.14%)
+Quedas: 1759
+Sem Bateria: 0
+Rodadas: 280098
+v2: 
+Vitorias: 4624 (81.12%)
+Quedas: 1046
+Sem Bateria: 30
+Rodadas: 347306
+
+SEED 880: 
+v1: 
+Vitorias: 3947 (69.25%)
+Quedas: 1753
+Sem Bateria: 0
+Rodadas: 281723
+v2: 
+Vitorias: 4485 (78.68%)
+Quedas: 1171
+Sem Bateria: 44
+Rodadas: 357665
+
+SEED 881: 
+v1: 
+Vitorias: 3970 (69.65%)
+Quedas: 1730
+Sem Bateria: 0
+Rodadas: 284908
+v2: 
+Vitorias: 4602 (80.74%)
+Quedas: 1049
+Sem Bateria: 49
+Rodadas: 366388
+
+SEED 882: 
+v1: 
+Vitorias: 3881 (68.09%)
+Quedas: 1819
+Sem Bateria: 0
+Rodadas: 280166
+v2: 
+Vitorias: 4501 (78.96%)
+Quedas: 1160
+Sem Bateria: 39
+Rodadas: 353126
+
+SEED 883: 
+v1: 
+Vitorias: 3955 (69.39%)
+Quedas: 1745
+Sem Bateria: 0
+Rodadas: 280876
+v2: 
+Vitorias: 4605 (80.79%)
+Quedas: 1059
+Sem Bateria: 36
+Rodadas: 351307
+
+SEED 884: 
+v1: 
+Vitorias: 3848 (67.51%)
+Quedas: 1852
+Sem Bateria: 0
+Rodadas: 276969
+v2: 
+Vitorias: 4484 (78.67%)
+Quedas: 1171
+Sem Bateria: 45
+Rodadas: 356351
+
+SEED 885: 
+v1: 
+Vitorias: 3864 (67.79%)
+Quedas: 1836
+Sem Bateria: 0
+Rodadas: 284767
+v2: 
+Vitorias: 4505 (79.04%)
+Quedas: 1155
+Sem Bateria: 40
+Rodadas: 349729
+
+SEED 886: 
+v1: 
+Vitorias: 3910 (68.60%)
+Quedas: 1790
+Sem Bateria: 0
+Rodadas: 279808
+v2: 
+Vitorias: 4578 (80.32%)
+Quedas: 1080
+Sem Bateria: 42
+Rodadas: 359374
+
+SEED 887: 
+v1: 
+Vitorias: 3881 (68.09%)
+Quedas: 1819
+Sem Bateria: 0
+Rodadas: 282205
+v2: 
+Vitorias: 4528 (79.44%)
+Quedas: 1128
+Sem Bateria: 44
+Rodadas: 358911
+
+SEED 888: 
+v1: 
+Vitorias: 3953 (69.35%)
+Quedas: 1747
+Sem Bateria: 0
+Rodadas: 280786
+v2: 
+Vitorias: 4610 (80.88%)
+Quedas: 1047
+Sem Bateria: 43
+Rodadas: 359031
+
+SEED 889: 
+v1: 
+Vitorias: 3924 (68.84%)
+Quedas: 1776
+Sem Bateria: 0
+Rodadas: 276612
+v2: 
+Vitorias: 4592 (80.56%)
+Quedas: 1067
+Sem Bateria: 41
+Rodadas: 352964
+
+SEED 890: 
+v1: 
+Vitorias: 3860 (67.72%)
+Quedas: 1840
+Sem Bateria: 0
+Rodadas: 277947
+v2: 
+Vitorias: 4487 (78.72%)
+Quedas: 1162
+Sem Bateria: 51
+Rodadas: 363025
+
+SEED 891: 
+v1: 
+Vitorias: 3829 (67.18%)
+Quedas: 1871
+Sem Bateria: 0
+Rodadas: 283192
+v2: 
+Vitorias: 4464 (78.32%)
+Quedas: 1192
+Sem Bateria: 44
+Rodadas: 358999
+
+SEED 892: 
+v1: 
+Vitorias: 3877 (68.02%)
+Quedas: 1823
+Sem Bateria: 0
+Rodadas: 281837
+v2: 
+Vitorias: 4525 (79.39%)
+Quedas: 1141
+Sem Bateria: 34
+Rodadas: 350490
+
+SEED 893: 
+v1: 
+Vitorias: 3968 (69.61%)
+Quedas: 1732
+Sem Bateria: 0
+Rodadas: 284319
+v2: 
+Vitorias: 4569 (80.16%)
+Quedas: 1086
+Sem Bateria: 45
+Rodadas: 357541
+
+SEED 894: 
+v1: 
+Vitorias: 3917 (68.72%)
+Quedas: 1783
+Sem Bateria: 0
+Rodadas: 281989
+v2: 
+Vitorias: 4608 (80.84%)
+Quedas: 1062
+Sem Bateria: 30
+Rodadas: 339924
+
+SEED 895: 
+v1: 
+Vitorias: 3877 (68.02%)
+Quedas: 1823
+Sem Bateria: 0
+Rodadas: 280609
+v2: 
+Vitorias: 4493 (78.82%)
+Quedas: 1167
+Sem Bateria: 40
+Rodadas: 358048
+
+SEED 896: 
+v1: 
+Vitorias: 3967 (69.60%)
+Quedas: 1733
+Sem Bateria: 0
+Rodadas: 281027
+v2: 
+Vitorias: 4604 (80.77%)
+Quedas: 1059
+Sem Bateria: 37
+Rodadas: 349442
+
+SEED 897: 
+v1: 
+Vitorias: 3924 (68.84%)
+Quedas: 1776
+Sem Bateria: 0
+Rodadas: 282022
+v2: 
+Vitorias: 4591 (80.54%)
+Quedas: 1068
+Sem Bateria: 41
+Rodadas: 357524
+
+SEED 898: 
+v1: 
+Vitorias: 3866 (67.82%)
+Quedas: 1834
+Sem Bateria: 0
+Rodadas: 282261
+v2: 
+Vitorias: 4477 (78.54%)
+Quedas: 1181
+Sem Bateria: 42
+Rodadas: 351860
+
+SEED 899: 
+v1: 
+Vitorias: 3923 (68.82%)
+Quedas: 1777
+Sem Bateria: 0
+Rodadas: 281687
+v2: 
+Vitorias: 4564 (80.07%)
+Quedas: 1097
+Sem Bateria: 39
+Rodadas: 350203
+
+SEED 900: 
+v1: 
+Vitorias: 3858 (67.68%)
+Quedas: 1842
+Sem Bateria: 0
+Rodadas: 286057
+v2: 
+Vitorias: 4600 (80.70%)
+Quedas: 1063
+Sem Bateria: 37
+Rodadas: 355875
+
+SEED 901: 
+v1: 
+Vitorias: 3886 (68.18%)
+Quedas: 1814
+Sem Bateria: 0
+Rodadas: 280423
+v2: 
+Vitorias: 4594 (80.60%)
+Quedas: 1068
+Sem Bateria: 38
+Rodadas: 355871
+
+SEED 902: 
+v1: 
+Vitorias: 3930 (68.95%)
+Quedas: 1770
+Sem Bateria: 0
+Rodadas: 284053
+v2: 
+Vitorias: 4549 (79.81%)
+Quedas: 1113
+Sem Bateria: 38
+Rodadas: 347701
+
+SEED 903: 
+v1: 
+Vitorias: 3979 (69.81%)
+Quedas: 1721
+Sem Bateria: 0
+Rodadas: 281563
+v2: 
+Vitorias: 4616 (80.98%)
+Quedas: 1038
+Sem Bateria: 46
+Rodadas: 364207
+
+SEED 904: 
+v1: 
+Vitorias: 3886 (68.18%)
+Quedas: 1814
+Sem Bateria: 0
+Rodadas: 285017
+v2: 
+Vitorias: 4534 (79.54%)
+Quedas: 1122
+Sem Bateria: 44
+Rodadas: 366123
+
+SEED 905: 
+v1: 
+Vitorias: 3873 (67.95%)
+Quedas: 1827
+Sem Bateria: 0
+Rodadas: 279640
+v2: 
+Vitorias: 4525 (79.39%)
+Quedas: 1143
+Sem Bateria: 32
+Rodadas: 336449
+
+SEED 906: 
+v1: 
+Vitorias: 3940 (69.12%)
+Quedas: 1760
+Sem Bateria: 0
+Rodadas: 284848
+v2: 
+Vitorias: 4590 (80.53%)
+Quedas: 1080
+Sem Bateria: 30
+Rodadas: 348902
+
+SEED 907: 
+v1: 
+Vitorias: 3875 (67.98%)
+Quedas: 1825
+Sem Bateria: 0
+Rodadas: 284175
+v2: 
+Vitorias: 4475 (78.51%)
+Quedas: 1192
+Sem Bateria: 33
+Rodadas: 345622
+
+SEED 908: 
+v1: 
+Vitorias: 3981 (69.84%)
+Quedas: 1719
+Sem Bateria: 0
+Rodadas: 280340
+v2: 
+Vitorias: 4618 (81.02%)
+Quedas: 1045
+Sem Bateria: 37
+Rodadas: 342917
+
+SEED 909: 
+v1: 
+Vitorias: 3793 (66.54%)
+Quedas: 1907
+Sem Bateria: 0
+Rodadas: 280368
+v2: 
+Vitorias: 4500 (78.95%)
+Quedas: 1149
+Sem Bateria: 51
+Rodadas: 370194
+
+SEED 910: 
+v1: 
+Vitorias: 3875 (67.98%)
+Quedas: 1825
+Sem Bateria: 0
+Rodadas: 282236
+v2: 
+Vitorias: 4599 (80.68%)
+Quedas: 1062
+Sem Bateria: 39
+Rodadas: 358059
+
+SEED 911: 
+v1: 
+Vitorias: 3934 (69.02%)
+Quedas: 1766
+Sem Bateria: 0
+Rodadas: 275401
+v2: 
+Vitorias: 4571 (80.19%)
+Quedas: 1086
+Sem Bateria: 43
+Rodadas: 350752
+
+SEED 912: 
+v1: 
+Vitorias: 3928 (68.91%)
+Quedas: 1772
+Sem Bateria: 0
+Rodadas: 286907
+v2: 
+Vitorias: 4606 (80.81%)
+Quedas: 1056
+Sem Bateria: 38
+Rodadas: 359893
+
+SEED 913: 
+v1: 
+Vitorias: 3825 (67.11%)
+Quedas: 1875
+Sem Bateria: 0
+Rodadas: 282323
+v2: 
+Vitorias: 4591 (80.54%)
+Quedas: 1061
+Sem Bateria: 48
+Rodadas: 365037
+
+SEED 914: 
+v1: 
+Vitorias: 3905 (68.51%)
+Quedas: 1795
+Sem Bateria: 0
+Rodadas: 283166
+v2: 
+Vitorias: 4529 (79.46%)
+Quedas: 1130
+Sem Bateria: 41
+Rodadas: 353788
+
+SEED 915: 
+v1: 
+Vitorias: 3956 (69.40%)
+Quedas: 1744
+Sem Bateria: 0
+Rodadas: 277259
+v2: 
+Vitorias: 4619 (81.04%)
+Quedas: 1040
+Sem Bateria: 41
+Rodadas: 352979
+
+SEED 916: 
+v1: 
+Vitorias: 3915 (68.68%)
+Quedas: 1785
+Sem Bateria: 0
+Rodadas: 279272
+v2: 
+Vitorias: 4558 (79.96%)
+Quedas: 1110
+Sem Bateria: 32
+Rodadas: 344873
+
+SEED 917: 
+v1: 
+Vitorias: 4006 (70.28%)
+Quedas: 1694
+Sem Bateria: 0
+Rodadas: 281148
+v2: 
+Vitorias: 4641 (81.42%)
+Quedas: 1021
+Sem Bateria: 38
+Rodadas: 349482
+
+SEED 918: 
+v1: 
+Vitorias: 3880 (68.07%)
+Quedas: 1820
+Sem Bateria: 0
+Rodadas: 288677
+v2: 
+Vitorias: 4588 (80.49%)
+Quedas: 1070
+Sem Bateria: 42
+Rodadas: 362382
+
+SEED 919: 
+v1: 
+Vitorias: 3930 (68.95%)
+Quedas: 1770
+Sem Bateria: 0
+Rodadas: 285452
+v2: 
+Vitorias: 4574 (80.25%)
+Quedas: 1090
+Sem Bateria: 36
+Rodadas: 350261
+
+SEED 920: 
+v1: 
+Vitorias: 3862 (67.75%)
+Quedas: 1838
+Sem Bateria: 0
+Rodadas: 283141
+v2: 
+Vitorias: 4482 (78.63%)
+Quedas: 1166
+Sem Bateria: 52
+Rodadas: 366057
+
+SEED 921: 
+v1: 
+Vitorias: 3863 (67.77%)
+Quedas: 1837
+Sem Bateria: 0
+Rodadas: 284265
+v2: 
+Vitorias: 4474 (78.49%)
+Quedas: 1183
+Sem Bateria: 43
+Rodadas: 357722
+
+SEED 922: 
+v1: 
+Vitorias: 3984 (69.89%)
+Quedas: 1716
+Sem Bateria: 0
+Rodadas: 278931
+v2: 
+Vitorias: 4593 (80.58%)
+Quedas: 1082
+Sem Bateria: 25
+Rodadas: 329822
+
+SEED 923: 
+v1: 
+Vitorias: 3844 (67.44%)
+Quedas: 1856
+Sem Bateria: 0
+Rodadas: 279257
+v2: 
+Vitorias: 4582 (80.39%)
+Quedas: 1074
+Sem Bateria: 44
+Rodadas: 360980
+
+SEED 924: 
+v1: 
+Vitorias: 3930 (68.95%)
+Quedas: 1770
+Sem Bateria: 0
+Rodadas: 278765
+v2: 
+Vitorias: 4566 (80.11%)
+Quedas: 1093
+Sem Bateria: 41
+Rodadas: 350983
+
+SEED 925: 
+v1: 
+Vitorias: 3922 (68.81%)
+Quedas: 1778
+Sem Bateria: 0
+Rodadas: 281722
+v2: 
+Vitorias: 4608 (80.84%)
+Quedas: 1057
+Sem Bateria: 35
+Rodadas: 345560
+
+SEED 926: 
+v1: 
+Vitorias: 3914 (68.67%)
+Quedas: 1786
+Sem Bateria: 0
+Rodadas: 279691
+v2: 
+Vitorias: 4558 (79.96%)
+Quedas: 1091
+Sem Bateria: 51
+Rodadas: 373356
+
+SEED 927: 
+v1: 
+Vitorias: 3828 (67.16%)
+Quedas: 1872
+Sem Bateria: 0
+Rodadas: 280055
+v2: 
+Vitorias: 4465 (78.33%)
+Quedas: 1191
+Sem Bateria: 44
+Rodadas: 364897
+
+SEED 928: 
+v1: 
+Vitorias: 3971 (69.67%)
+Quedas: 1729
+Sem Bateria: 0
+Rodadas: 285741
+v2: 
+Vitorias: 4581 (80.37%)
+Quedas: 1074
+Sem Bateria: 45
+Rodadas: 362963
+
+SEED 929: 
+v1: 
+Vitorias: 3886 (68.18%)
+Quedas: 1814
+Sem Bateria: 0
+Rodadas: 281647
+v2: 
+Vitorias: 4492 (78.81%)
+Quedas: 1164
+Sem Bateria: 44
+Rodadas: 358578
+
+SEED 930: 
+v1: 
+Vitorias: 3840 (67.37%)
+Quedas: 1860
+Sem Bateria: 0
+Rodadas: 277020
+v2: 
+Vitorias: 4463 (78.30%)
+Quedas: 1205
+Sem Bateria: 32
+Rodadas: 342312
+
+SEED 931: 
+v1: 
+Vitorias: 3897 (68.37%)
+Quedas: 1803
+Sem Bateria: 0
+Rodadas: 280349
+v2: 
+Vitorias: 4548 (79.79%)
+Quedas: 1107
+Sem Bateria: 45
+Rodadas: 354261
+
+SEED 932: 
+v1: 
+Vitorias: 3813 (66.89%)
+Quedas: 1887
+Sem Bateria: 0
+Rodadas: 282228
+v2: 
+Vitorias: 4470 (78.42%)
+Quedas: 1190
+Sem Bateria: 40
+Rodadas: 351981
+
+SEED 933: 
+v1: 
+Vitorias: 3951 (69.32%)
+Quedas: 1749
+Sem Bateria: 0
+Rodadas: 281639
+v2: 
+Vitorias: 4618 (81.02%)
+Quedas: 1037
+Sem Bateria: 45
+Rodadas: 357960
+
+SEED 934: 
+v1: 
+Vitorias: 3799 (66.65%)
+Quedas: 1901
+Sem Bateria: 0
+Rodadas: 279784
+v2: 
+Vitorias: 4492 (78.81%)
+Quedas: 1174
+Sem Bateria: 34
+Rodadas: 351894
+
+SEED 935: 
+v1: 
+Vitorias: 3832 (67.23%)
+Quedas: 1868
+Sem Bateria: 0
+Rodadas: 281575
+v2: 
+Vitorias: 4478 (78.56%)
+Quedas: 1184
+Sem Bateria: 38
+Rodadas: 351698
+
+SEED 936: 
+v1: 
+Vitorias: 3832 (67.23%)
+Quedas: 1868
+Sem Bateria: 0
+Rodadas: 281813
+v2: 
+Vitorias: 4498 (78.91%)
+Quedas: 1162
+Sem Bateria: 40
+Rodadas: 355156
+
+SEED 937: 
+v1: 
+Vitorias: 3963 (69.53%)
+Quedas: 1737
+Sem Bateria: 0
+Rodadas: 281725
+v2: 
+Vitorias: 4622 (81.09%)
+Quedas: 1035
+Sem Bateria: 43
+Rodadas: 362474
+
+SEED 938: 
+v1: 
+Vitorias: 3819 (67.00%)
+Quedas: 1881
+Sem Bateria: 0
+Rodadas: 278601
+v2: 
+Vitorias: 4440 (77.89%)
+Quedas: 1214
+Sem Bateria: 46
+Rodadas: 348862
+
+SEED 939: 
+v1: 
+Vitorias: 3856 (67.65%)
+Quedas: 1844
+Sem Bateria: 0
+Rodadas: 281592
+v2: 
+Vitorias: 4508 (79.09%)
+Quedas: 1157
+Sem Bateria: 35
+Rodadas: 346880
+
+SEED 940: 
+v1: 
+Vitorias: 3940 (69.12%)
+Quedas: 1760
+Sem Bateria: 0
+Rodadas: 277784
+v2: 
+Vitorias: 4583 (80.40%)
+Quedas: 1091
+Sem Bateria: 26
+Rodadas: 336247
+
+SEED 941: 
+v1: 
+Vitorias: 3929 (68.93%)
+Quedas: 1771
+Sem Bateria: 0
+Rodadas: 282226
+v2: 
+Vitorias: 4623 (81.11%)
+Quedas: 1044
+Sem Bateria: 33
+Rodadas: 347472
+
+SEED 942: 
+v1: 
+Vitorias: 3874 (67.96%)
+Quedas: 1826
+Sem Bateria: 0
+Rodadas: 285723
+v2: 
+Vitorias: 4610 (80.88%)
+Quedas: 1047
+Sem Bateria: 43
+Rodadas: 369151
+
+SEED 943: 
+v1: 
+Vitorias: 3967 (69.60%)
+Quedas: 1733
+Sem Bateria: 0
+Rodadas: 283699
+v2: 
+Vitorias: 4588 (80.49%)
+Quedas: 1062
+Sem Bateria: 50
+Rodadas: 362732
+
+SEED 944: 
+v1: 
+Vitorias: 3953 (69.35%)
+Quedas: 1747
+Sem Bateria: 0
+Rodadas: 276711
+v2: 
+Vitorias: 4579 (80.33%)
+Quedas: 1077
+Sem Bateria: 44
+Rodadas: 354976
+
+SEED 945: 
+v1: 
+Vitorias: 3829 (67.18%)
+Quedas: 1871
+Sem Bateria: 0
+Rodadas: 279760
+v2: 
+Vitorias: 4486 (78.70%)
+Quedas: 1175
+Sem Bateria: 39
+Rodadas: 352808
+
+SEED 946: 
+v1: 
+Vitorias: 3932 (68.98%)
+Quedas: 1768
+Sem Bateria: 0
+Rodadas: 282423
+v2: 
+Vitorias: 4594 (80.60%)
+Quedas: 1076
+Sem Bateria: 30
+Rodadas: 337125
+
+SEED 947: 
+v1: 
+Vitorias: 3853 (67.60%)
+Quedas: 1847
+Sem Bateria: 0
+Rodadas: 283720
+v2: 
+Vitorias: 4486 (78.70%)
+Quedas: 1173
+Sem Bateria: 41
+Rodadas: 354608
+
+SEED 948: 
+v1: 
+Vitorias: 3889 (68.23%)
+Quedas: 1811
+Sem Bateria: 0
+Rodadas: 282178
+v2: 
+Vitorias: 4610 (80.88%)
+Quedas: 1053
+Sem Bateria: 37
+Rodadas: 350385
+
+SEED 949: 
+v1: 
+Vitorias: 3792 (66.53%)
+Quedas: 1908
+Sem Bateria: 0
+Rodadas: 281920
+v2: 
+Vitorias: 4494 (78.84%)
+Quedas: 1165
+Sem Bateria: 41
+Rodadas: 353742
+
+SEED 950: 
+v1: 
+Vitorias: 3874 (67.96%)
+Quedas: 1826
+Sem Bateria: 0
+Rodadas: 286239
+v2: 
+Vitorias: 4517 (79.25%)
+Quedas: 1130
+Sem Bateria: 53
+Rodadas: 373737
+
+SEED 951: 
+v1: 
+Vitorias: 3949 (69.28%)
+Quedas: 1751
+Sem Bateria: 0
+Rodadas: 279464
+v2: 
+Vitorias: 4617 (81.00%)
+Quedas: 1042
+Sem Bateria: 41
+Rodadas: 358549
+
+SEED 952: 
+v1: 
+Vitorias: 3963 (69.53%)
+Quedas: 1737
+Sem Bateria: 0
+Rodadas: 278301
+v2: 
+Vitorias: 4630 (81.23%)
+Quedas: 1032
+Sem Bateria: 38
+Rodadas: 356028
+
+SEED 953: 
+v1: 
+Vitorias: 3877 (68.02%)
+Quedas: 1823
+Sem Bateria: 0
+Rodadas: 282683
+v2: 
+Vitorias: 4505 (79.04%)
+Quedas: 1147
+Sem Bateria: 48
+Rodadas: 359815
+
+SEED 954: 
+v1: 
+Vitorias: 3799 (66.65%)
+Quedas: 1901
+Sem Bateria: 0
+Rodadas: 281562
+v2: 
+Vitorias: 4548 (79.79%)
+Quedas: 1118
+Sem Bateria: 34
+Rodadas: 343482
+
+SEED 955: 
+v1: 
+Vitorias: 3824 (67.09%)
+Quedas: 1876
+Sem Bateria: 0
+Rodadas: 284045
+v2: 
+Vitorias: 4475 (78.51%)
+Quedas: 1189
+Sem Bateria: 36
+Rodadas: 354503
+
+SEED 956: 
+v1: 
+Vitorias: 3884 (68.14%)
+Quedas: 1816
+Sem Bateria: 0
+Rodadas: 286796
+v2: 
+Vitorias: 4517 (79.25%)
+Quedas: 1149
+Sem Bateria: 34
+Rodadas: 346351
+
+SEED 957: 
+v1: 
+Vitorias: 3793 (66.54%)
+Quedas: 1907
+Sem Bateria: 0
+Rodadas: 283204
+v2: 
+Vitorias: 4443 (77.95%)
+Quedas: 1216
+Sem Bateria: 41
+Rodadas: 358416
+
+SEED 958: 
+v1: 
+Vitorias: 3870 (67.89%)
+Quedas: 1830
+Sem Bateria: 0
+Rodadas: 278413
+v2: 
+Vitorias: 4542 (79.68%)
+Quedas: 1126
+Sem Bateria: 32
+Rodadas: 340460
+
+SEED 959: 
+v1: 
+Vitorias: 3906 (68.53%)
+Quedas: 1794
+Sem Bateria: 0
+Rodadas: 281434
+v2: 
+Vitorias: 4544 (79.72%)
+Quedas: 1114
+Sem Bateria: 42
+Rodadas: 355371
+
+SEED 960: 
+v1: 
+Vitorias: 3994 (70.07%)
+Quedas: 1706
+Sem Bateria: 0
+Rodadas: 278271
+v2: 
+Vitorias: 4650 (81.58%)
+Quedas: 1015
+Sem Bateria: 35
+Rodadas: 351663
+
+SEED 961: 
+v1: 
+Vitorias: 3928 (68.91%)
+Quedas: 1772
+Sem Bateria: 0
+Rodadas: 278345
+v2: 
+Vitorias: 4611 (80.89%)
+Quedas: 1046
+Sem Bateria: 43
+Rodadas: 356653
+
+SEED 962: 
+v1: 
+Vitorias: 3852 (67.58%)
+Quedas: 1848
+Sem Bateria: 0
+Rodadas: 284149
+v2: 
+Vitorias: 4637 (81.35%)
+Quedas: 1010
+Sem Bateria: 53
+Rodadas: 378183
+
+SEED 963: 
+v1: 
+Vitorias: 3963 (69.53%)
+Quedas: 1737
+Sem Bateria: 0
+Rodadas: 281815
+v2: 
+Vitorias: 4579 (80.33%)
+Quedas: 1079
+Sem Bateria: 42
+Rodadas: 354723
+
+SEED 964: 
+v1: 
+Vitorias: 3916 (68.70%)
+Quedas: 1784
+Sem Bateria: 0
+Rodadas: 281976
+v2: 
+Vitorias: 4618 (81.02%)
+Quedas: 1034
+Sem Bateria: 48
+Rodadas: 368812
+
+SEED 965: 
+v1: 
+Vitorias: 3858 (67.68%)
+Quedas: 1842
+Sem Bateria: 0
+Rodadas: 283927
+v2: 
+Vitorias: 4530 (79.47%)
+Quedas: 1129
+Sem Bateria: 41
+Rodadas: 355288
+
+SEED 966: 
+v1: 
+Vitorias: 3873 (67.95%)
+Quedas: 1827
+Sem Bateria: 0
+Rodadas: 277325
+v2: 
+Vitorias: 4512 (79.16%)
+Quedas: 1152
+Sem Bateria: 36
+Rodadas: 346042
+
+SEED 967: 
+v1: 
+Vitorias: 3833 (67.25%)
+Quedas: 1867
+Sem Bateria: 0
+Rodadas: 277017
+v2: 
+Vitorias: 4492 (78.81%)
+Quedas: 1174
+Sem Bateria: 34
+Rodadas: 345652
+
+SEED 968: 
+v1: 
+Vitorias: 3928 (68.91%)
+Quedas: 1772
+Sem Bateria: 0
+Rodadas: 281817
+v2: 
+Vitorias: 4572 (80.21%)
+Quedas: 1081
+Sem Bateria: 47
+Rodadas: 358662
+
+SEED 969: 
+v1: 
+Vitorias: 3915 (68.68%)
+Quedas: 1785
+Sem Bateria: 0
+Rodadas: 284609
+v2: 
+Vitorias: 4599 (80.68%)
+Quedas: 1058
+Sem Bateria: 43
+Rodadas: 361546
+
+SEED 970: 
+v1: 
+Vitorias: 3962 (69.51%)
+Quedas: 1738
+Sem Bateria: 0
+Rodadas: 282301
+v2: 
+Vitorias: 4602 (80.74%)
+Quedas: 1063
+Sem Bateria: 35
+Rodadas: 349187
+
+SEED 971: 
+v1: 
+Vitorias: 3960 (69.47%)
+Quedas: 1740
+Sem Bateria: 0
+Rodadas: 280395
+v2: 
+Vitorias: 4615 (80.96%)
+Quedas: 1038
+Sem Bateria: 47
+Rodadas: 358969
+
+SEED 972: 
+v1: 
+Vitorias: 3829 (67.18%)
+Quedas: 1871
+Sem Bateria: 0
+Rodadas: 278793
+v2: 
+Vitorias: 4488 (78.74%)
+Quedas: 1177
+Sem Bateria: 35
+Rodadas: 345351
+
+SEED 973: 
+v1: 
+Vitorias: 3828 (67.16%)
+Quedas: 1872
+Sem Bateria: 0
+Rodadas: 284290
+v2: 
+Vitorias: 4500 (78.95%)
+Quedas: 1161
+Sem Bateria: 39
+Rodadas: 352789
+
+SEED 974: 
+v1: 
+Vitorias: 3913 (68.65%)
+Quedas: 1787
+Sem Bateria: 0
+Rodadas: 282197
+v2: 
+Vitorias: 4609 (80.86%)
+Quedas: 1047
+Sem Bateria: 44
+Rodadas: 358091
+
+SEED 975: 
+v1: 
+Vitorias: 3933 (69.00%)
+Quedas: 1767
+Sem Bateria: 0
+Rodadas: 283014
+v2: 
+Vitorias: 4610 (80.88%)
+Quedas: 1055
+Sem Bateria: 35
+Rodadas: 348361
+
+SEED 976: 
+v1: 
+Vitorias: 3954 (69.37%)
+Quedas: 1746
+Sem Bateria: 0
+Rodadas: 282388
+v2: 
+Vitorias: 4595 (80.61%)
+Quedas: 1073
+Sem Bateria: 32
+Rodadas: 342212
+
+SEED 977: 
+v1: 
+Vitorias: 3936 (69.05%)
+Quedas: 1764
+Sem Bateria: 0
+Rodadas: 280685
+v2: 
+Vitorias: 4583 (80.40%)
+Quedas: 1072
+Sem Bateria: 45
+Rodadas: 360478
+
+SEED 978: 
+v1: 
+Vitorias: 3964 (69.54%)
+Quedas: 1736
+Sem Bateria: 0
+Rodadas: 279837
+v2: 
+Vitorias: 4649 (81.56%)
+Quedas: 1019
+Sem Bateria: 32
+Rodadas: 342814
+
+SEED 979: 
+v1: 
+Vitorias: 3777 (66.26%)
+Quedas: 1923
+Sem Bateria: 0
+Rodadas: 284070
+v2: 
+Vitorias: 4453 (78.12%)
+Quedas: 1195
+Sem Bateria: 52
+Rodadas: 377029
+
+SEED 980: 
+v1: 
+Vitorias: 3929 (68.93%)
+Quedas: 1771
+Sem Bateria: 0
+Rodadas: 281159
+v2: 
+Vitorias: 4593 (80.58%)
+Quedas: 1066
+Sem Bateria: 41
+Rodadas: 346865
+
+SEED 981: 
+v1: 
+Vitorias: 3773 (66.19%)
+Quedas: 1927
+Sem Bateria: 0
+Rodadas: 275818
+v2: 
+Vitorias: 4475 (78.51%)
+Quedas: 1183
+Sem Bateria: 42
+Rodadas: 354445
+
+SEED 982: 
+v1: 
+Vitorias: 3976 (69.75%)
+Quedas: 1724
+Sem Bateria: 0
+Rodadas: 283566
+v2: 
+Vitorias: 4596 (80.63%)
+Quedas: 1082
+Sem Bateria: 22
+Rodadas: 334036
+
+SEED 983: 
+v1: 
+Vitorias: 3841 (67.39%)
+Quedas: 1859
+Sem Bateria: 0
+Rodadas: 279280
+v2: 
+Vitorias: 4514 (79.19%)
+Quedas: 1145
+Sem Bateria: 41
+Rodadas: 351643
+
+SEED 984: 
+v1: 
+Vitorias: 3946 (69.23%)
+Quedas: 1754
+Sem Bateria: 0
+Rodadas: 283926
+v2: 
+Vitorias: 4591 (80.54%)
+Quedas: 1071
+Sem Bateria: 38
+Rodadas: 352303
+
+SEED 985: 
+v1: 
+Vitorias: 3942 (69.16%)
+Quedas: 1758
+Sem Bateria: 0
+Rodadas: 278946
+v2: 
+Vitorias: 4565 (80.09%)
+Quedas: 1097
+Sem Bateria: 38
+Rodadas: 343929
+
+SEED 986: 
+v1: 
+Vitorias: 3810 (66.84%)
+Quedas: 1890
+Sem Bateria: 0
+Rodadas: 279346
+v2: 
+Vitorias: 4458 (78.21%)
+Quedas: 1200
+Sem Bateria: 42
+Rodadas: 351227
+
+SEED 987: 
+v1: 
+Vitorias: 3795 (66.58%)
+Quedas: 1905
+Sem Bateria: 0
+Rodadas: 281344
+v2: 
+Vitorias: 4568 (80.14%)
+Quedas: 1093
+Sem Bateria: 39
+Rodadas: 354237
+
+SEED 988: 
+v1: 
+Vitorias: 3973 (69.70%)
+Quedas: 1727
+Sem Bateria: 0
+Rodadas: 284554
+v2: 
+Vitorias: 4593 (80.58%)
+Quedas: 1069
+Sem Bateria: 38
+Rodadas: 351740
+
+SEED 989: 
+v1: 
+Vitorias: 3969 (69.63%)
+Quedas: 1731
+Sem Bateria: 0
+Rodadas: 280999
+v2: 
+Vitorias: 4622 (81.09%)
+Quedas: 1033
+Sem Bateria: 45
+Rodadas: 359823
+
+SEED 990: 
+v1: 
+Vitorias: 3789 (66.47%)
+Quedas: 1911
+Sem Bateria: 0
+Rodadas: 279770
+v2: 
+Vitorias: 4546 (79.75%)
+Quedas: 1109
+Sem Bateria: 45
+Rodadas: 363058
+
+SEED 991: 
+v1: 
+Vitorias: 3947 (69.25%)
+Quedas: 1753
+Sem Bateria: 0
+Rodadas: 281699
+v2: 
+Vitorias: 4627 (81.18%)
+Quedas: 1030
+Sem Bateria: 43
+Rodadas: 358709
+
+SEED 992: 
+v1: 
+Vitorias: 3838 (67.33%)
+Quedas: 1862
+Sem Bateria: 0
+Rodadas: 285207
+v2: 
+Vitorias: 4480 (78.60%)
+Quedas: 1174
+Sem Bateria: 46
+Rodadas: 357340
+
+SEED 993: 
+v1: 
+Vitorias: 3803 (66.72%)
+Quedas: 1897
+Sem Bateria: 0
+Rodadas: 281446
+v2: 
+Vitorias: 4615 (80.96%)
+Quedas: 1044
+Sem Bateria: 41
+Rodadas: 353714
+
+SEED 994: 
+v1: 
+Vitorias: 3917 (68.72%)
+Quedas: 1783
+Sem Bateria: 0
+Rodadas: 280885
+v2: 
+Vitorias: 4585 (80.44%)
+Quedas: 1075
+Sem Bateria: 40
+Rodadas: 353370
+
+SEED 995: 
+v1: 
+Vitorias: 3863 (67.77%)
+Quedas: 1837
+Sem Bateria: 0
+Rodadas: 275255
+v2: 
+Vitorias: 4521 (79.32%)
+Quedas: 1142
+Sem Bateria: 37
+Rodadas: 341904
+
+SEED 996: 
+v1: 
+Vitorias: 3945 (69.21%)
+Quedas: 1755
+Sem Bateria: 0
+Rodadas: 280451
+v2: 
+Vitorias: 4583 (80.40%)
+Quedas: 1081
+Sem Bateria: 36
+Rodadas: 357847
+
+SEED 997: 
+v1: 
+Vitorias: 3836 (67.30%)
+Quedas: 1864
+Sem Bateria: 0
+Rodadas: 282647
+v2: 
+Vitorias: 4529 (79.46%)
+Quedas: 1134
+Sem Bateria: 37
+Rodadas: 356723
+
+SEED 998: 
+v1: 
+Vitorias: 3994 (70.07%)
+Quedas: 1706
+Sem Bateria: 0
+Rodadas: 283903
+v2: 
+Vitorias: 4617 (81.00%)
+Quedas: 1042
+Sem Bateria: 41
+Rodadas: 349473
+
+SEED 999: 
+v1: 
+Vitorias: 3919 (68.75%)
+Quedas: 1781
+Sem Bateria: 0
+Rodadas: 282803
+v2: 
+Vitorias: 4627 (81.18%)
+Quedas: 1030
+Sem Bateria: 43
+Rodadas: 361523
+
+SEED 1000: 
+v1: 
+Vitorias: 3901 (68.44%)
+Quedas: 1799
+Sem Bateria: 0
+Rodadas: 281876
+v2: 
+Vitorias: 4614 (80.95%)
+Quedas: 1053
+Sem Bateria: 33
+Rodadas: 352124
+
